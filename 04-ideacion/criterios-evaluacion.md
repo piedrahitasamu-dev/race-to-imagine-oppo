@@ -76,7 +76,9 @@ Antes de puntuar cualquier idea:
 
 | Idea | Insights (25) | Difer. (20) | Particip. (20) | Viab. (20) | Reno (15) | Total |
 |---|---|---|---|---|---|---|
-| | | | | | | |
+| **B4 — "Tu Reno Wrapped"** (`objetivo-y-organizacion.md`, `mecanica-reto-wrapped.md`) | 20 — nace de I1 + investigación propia de esta sesión; falta el n de la encuesta primaria para llegar al máximo | 18 — puntuar coherencia en vez de la mejor foto, y un Wrapped de identidad, no es lo que hacen los concursos de foto genéricos | 17 — barrera baja (I4) más el gancho de identidad (Wrapped); falta validar con el piloto real de esta noche | 16 — usa recursos ya confirmados por OPPO (producto para exhibición, F6 p.39); falta cerrar DP4/DP5 | 13 — Pop Camera/Pop Out vía la estación Reno; sube si la estación es visible y no un anexo | **84/100** |
+
+Puntajes provisionales del equipo, no del jurado — sirven para ver dónde apretar antes del pitch, no como nota final.
 
 ## Desempate
 
