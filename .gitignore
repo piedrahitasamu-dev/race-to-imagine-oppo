@@ -1,0 +1,11 @@
+.DS_Store
+Thumbs.db
+*.tmp
+~$*
+.vscode/
+.idea/
+node_modules/
+
+# Material sensible de la empresa que no debe ir a un repo público
+00-fuentes/privado/
+*.confidencial.md
