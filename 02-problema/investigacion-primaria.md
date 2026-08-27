@@ -4,6 +4,10 @@ El brief oficial exige insights *"obtenidos a partir de investigación primaria"
 
 En 24 horas sí se puede. Lo que no se puede es empezarla tarde: **la encuesta es lo primero que sale**, porque necesita que otra gente responda mientras ustedes trabajan.
 
+> ¿Quieren iterar el cuestionario con ChatGPT antes de lanzarlo? El prompt con todo el contexto del reto
+> está en [`prompt-chatgpt-encuesta.md`](prompt-chatgpt-encuesta.md). Ojo con los tres filtros del final:
+> lo que devuelva no reemplaza estas diez preguntas, las somete a competencia.
+
 ## Encuesta — lista para lanzar
 
 Google Forms. Diez preguntas, dos minutos. Se reparte por WhatsApp e historias de Instagram de los seis a la vez.

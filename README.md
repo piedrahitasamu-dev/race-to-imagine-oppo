@@ -59,7 +59,7 @@ Confundir un supuesto con un hecho es la forma más común de perder un reto as�
 | `PLAN-24H.md` | El plan operativo. Empieza aquí |
 | `00-fuentes/` | Material original de OPPO, sin editar |
 | `01-contexto/` | Empresa, equipo, stakeholders, glosario |
-| `02-problema/` | Definición, hechos vs. supuestos, preguntas abiertas, preguntas para el CEO, investigación primaria |
+| `02-problema/` | Definición, hechos vs. supuestos, preguntas abiertas, preguntas para el CEO, investigación primaria y el prompt para iterarla |
 | `03-insights/` | Hallazgos con su evidencia |
 | `04-ideacion/` | Lluvia de ideas y criterios de evaluación |
 | `05-decisiones/` | Bitácora: qué decidimos y por qué |
@@ -73,6 +73,7 @@ Confundir un supuesto con un hecho es la forma más común de perder un reto as�
 | **F6** | Deck oficial de OPPO, 41 páginas | Máximo — criterios, recursos y copy de producto |
 | **F7** | Rúbrica de evaluadores Imagine-a-thon 24 | Máximo — es lo que produce la nota |
 | F8 | Transcripción de la lluvia de ideas del equipo | Alta para insights del target |
+| F9 | Manifiesto de marca de OPPO | Alta — es la marca diciendo qué es |
 | F3 | Transcripción de la charla de OPPO | Media — limpia, no literal |
 | F1, F2, F4 | Notas del equipo en la charla | Baja — parafraseadas, con errores confirmados |
 
