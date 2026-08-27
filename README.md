@@ -40,6 +40,7 @@ Si tienes 15 minutos: [`PLAN-24H.md`](PLAN-24H.md), luego `02-problema/definicio
 1. **Lanzar la encuesta.** Es lo único que necesita tiempo de otras personas. Está lista en `02-problema/investigacion-primaria.md`
 2. **Asignar dueño al prototipo.** Es el renglón que se olvida
 3. **Mandarle las 4 preguntas a Vansie** — `02-problema/preguntas-abiertas.md`
+4. **Llevar las preguntas a la sesión con el CEO** — `02-problema/preguntas-ceo.md`
 
 ## Cómo funciona el repo
 
@@ -58,7 +59,7 @@ Confundir un supuesto con un hecho es la forma más común de perder un reto as�
 | `PLAN-24H.md` | El plan operativo. Empieza aquí |
 | `00-fuentes/` | Material original de OPPO, sin editar |
 | `01-contexto/` | Empresa, equipo, stakeholders, glosario |
-| `02-problema/` | Definición, hechos vs. supuestos, preguntas abiertas, investigación primaria |
+| `02-problema/` | Definición, hechos vs. supuestos, preguntas abiertas, preguntas para el CEO, investigación primaria |
 | `03-insights/` | Hallazgos con su evidencia |
 | `04-ideacion/` | Lluvia de ideas y criterios de evaluación |
 | `05-decisiones/` | Bitácora: qué decidimos y por qué |

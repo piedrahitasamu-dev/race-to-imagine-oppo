@@ -2,6 +2,8 @@
 
 La líder del proyecto por OPPO es **Vansie** (F5). En una ventana corta caben cuatro preguntas. Estas son.
 
+> Si la ventana es con el **CEO** y no con Vansie, las preguntas son otras: ver [`preguntas-ceo.md`](preguntas-ceo.md). Un gerente responde qué se puede hacer; un CEO responde qué es la marca y qué ya se intentó.
+
 ## Las cuatro para Vansie
 
 | # | Pregunta | Por qué cambia lo que hacemos |
