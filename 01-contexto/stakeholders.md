@@ -32,11 +32,11 @@ Las universidades merecen atención. Son las que dan o niegan el permiso de entr
 - **Su workaround actual:** el grupo de WhatsApp donde alguien manda 40 fotos que nadie vuelve a abrir. **Ese es el competidor real de la campaña**, no el iPhone.
 - **Qué le costaría cambiar:** descargar otra app. Todo lo que exija instalar algo pierde la mitad de los participantes en el primer paso.
 
-`[SUPUESTO]` Casi todo este perfil es inferencia del equipo. La encuesta de `hechos-vs-supuestos.md` es lo que lo convierte en el 20% de insights del target.
+`[SUPUESTO]` Casi todo este perfil es inferencia del equipo. La encuesta de `../02-problema/investigacion-primaria.md` es lo que lo convierte en el **25%** de insights del target.
 
 ## Quién decide
 
-`[PREGUNTA P15]` — no sabemos quiénes son los jurados. Cambia el énfasis de la presentación:
+`[PREGUNTA P7]` — no sabemos quiénes son los jurados. Cambia el énfasis de la presentación:
 
 - Jurado de marketing de OPPO → premia viabilidad y ejecución.
 - Jurado académico → premia rigor metodológico y evidencia.

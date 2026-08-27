@@ -2,85 +2,84 @@
 
 Memoria colectiva del equipo. Todo lo que sepamos del reto vive aquí, en texto plano y versionado.
 
-## Cómo funciona
-
-Una sola regla: **si no está escrito acá, el equipo no lo sabe.**
-
-- Lo que llega de OPPO (brief, grabaciones, correos) entra **crudo y sin editar** a `00-fuentes/`.
-- Lo que nosotros interpretamos vive en `01-` a `06-`, y **siempre cita su fuente**.
-- Toda afirmación lleva una etiqueta de confianza:
-  - `[HECHO]` — está literal en una fuente. Se cita con el ID de la fuente: `(F3)`, `(F1, F2)`. Los IDs están en `00-fuentes/README.md`.
-  - `[SUPUESTO]` — lo creemos, no lo hemos verificado. Hay que validarlo.
-  - `[PREGUNTA]` — no lo sabemos y necesitamos preguntarlo a OPPO.
-
-Confundir un supuesto con un hecho es la forma más común de perder un reto de este tipo. La etiqueta no es burocracia: es lo que nos deja discutir sobre lo mismo.
-
-## Estructura
-
-| Carpeta | Qué contiene | Quién la toca |
-|---|---|---|
-| `00-fuentes/` | Material original de OPPO, sin editar | Solo se agrega, nunca se corrige |
-| `01-contexto/` | Quién es OPPO, mercado, stakeholders, glosario | Todos |
-| `02-problema/` | Definición del problema, hechos vs. supuestos, preguntas abiertas | Todos |
-| `03-insights/` | Hallazgos con su evidencia | Todos |
-| `04-ideacion/` | Lluvia de ideas y criterios para filtrarlas | Todos |
-| `05-decisiones/` | Bitácora: qué decidimos, cuándo y por qué | Quien facilite la sesión |
-| `06-entregables/` | Lo que efectivamente se presenta | Responsable del entregable |
-
-## Flujo de trabajo
-
-1. Antes de una sesión: cada quien lee `02-problema/definicion-problema.md` y `03-insights/insights.md`.
-2. Durante la sesión: alguien escribe. Las ideas van a `04-ideacion/`, las decisiones a `05-decisiones/`.
-3. Después: se hace commit. Mensajes en presente y específicos — `insights: agrega hallazgo sobre canal de servicio postventa`, no `update`.
+> ⏱️ **El reto dura menos de 24 horas.** Antes que nada, lee [`PLAN-24H.md`](PLAN-24H.md).
 
 ## El reto en una pantalla
 
-> **¿Cómo puede la OPPO Reno series utilizar la fotografía para generar una participación significativa y construir conexiones más sólidas con los estudiantes universitarios colombianos?**
+**Nombre oficial:** *Imagine what's next: Reimaginar la conexión entre la tecnología, creatividad y una nueva generación*
+
+**Pregunta oficial (F5 — el brief manda sobre la charla):**
+
+> ¿Cómo puede la serie OPPO Reno atraer la atención de los estudiantes universitarios en Colombia y generar mayor reconocimiento, interacción y preferencia de marca dentro de esta comunidad? Específicamente: ¿cómo puede OPPO comunicarse con los estudiantes universitarios de una forma **auténtica**, relevante y alineada con su cultura digital y social?
 
 | | |
 |---|---|
-| Empresa | OPPO — #4 en Colombia, 11% de mercado, 5 años en el país |
-| Producto | Reno 16 / 16F, gama media-alta, $2.299.000–$2.999.000 |
-| Target | Universitarios colombianos, 18–25 años |
-| Obligatorio | Un concurso de fotografía, "muy fuerte" |
-| Se califica | 20% insights · 20% creatividad · 20% participación · 20% viabilidad · 15% relevancia Reno · 5% sin identificar |
-| Premio real | El equipo ganador podría ejecutar la idea con la marca |
+| Empresa | OPPO — #4 en Colombia con 11%; #4 global con 10% (Canalys 2Q 2026) |
+| Líder del reto | Vansie |
+| Producto | Serie Reno (16 y 16F), gama media-alta, $2.299.000–$2.999.000 |
+| Territorio | La fotografía — *pero "la solución está abierta"* |
+| Criterios OPPO | **25%** insights · 20% creatividad · 20% participación · 20% viabilidad · 15% relevancia Reno |
+| Rúbrica del jurado | 7 renglones × 10 pts, incluye **prototipo funcional** y **pitch** |
 
-**La tensión que define el reto:** un concurso de fotografía convoca a pocos, y lo que se califica es participación masiva y significativa. Resolver eso es ganar. Está desarrollado en `02-problema/definicion-problema.md`.
+## Las cuatro cosas que hay que saber
+
+**1. Insights vale 25%, no 20%.** El 5% que "faltaba" en las notas no era un criterio oculto: era un error de transcripción. Es el criterio más pesado del reto, y el brief exige que salgan de **investigación primaria**.
+
+**2. El concurso de fotografía NO es obligatorio.** En el deck es una de ocho burbujas del 360, sin jerarquía. La última diapositiva dice *"la fotografía es el territorio, la solución está abierta"* y *"empieza con un insight, no con un formato"*.
+
+**3. Hay que entregar un prototipo funcional.** Está en la rúbrica de los jurados (renglón 3), no en el brief de OPPO ni en la charla. Un equipo que llega con puras diapositivas pierde 10 puntos antes de empezar.
+
+**4. El problema no es de fotografía.** Es de identidad y credibilidad. Seis universitarios del target exacto dijeron *"yo no conocía OPPO"* y *"nadie cree que OPPO pueda tomar las fotos que dicen que toman"*. Ver `03-insights/insights.md` — I1 e I2.
 
 ## Por dónde empezar a leer
 
-Si tienes 10 minutos: `02-problema/definicion-problema.md` y `03-insights/insights.md`. Con eso puedes entrar a cualquier sesión del equipo.
+Si tienes 15 minutos: [`PLAN-24H.md`](PLAN-24H.md), luego `02-problema/definicion-problema.md` y `03-insights/insights.md`. Con eso puedes entrar a cualquier sesión.
 
-## Lo urgente
+## Lo primero que hay que hacer
 
-1. **Levantar la encuesta** (S1 y S2 en `02-problema/hechos-vs-supuestos.md`). El 20% de insights se gana con dato propio, y una encuesta necesita días de calendario. Arranca ya.
-2. **Conseguir fechas y formato de entrega** (P14). Sin eso no se puede planear nada.
-3. **Preguntar por el 5% de calificación que falta** (P1). Los criterios suman 95%.
-4. **Elegir territorio** (DP1) antes de la lluvia de ideas, o la sesión se dispersa.
+1. **Lanzar la encuesta.** Es lo único que necesita tiempo de otras personas. Está lista en `02-problema/investigacion-primaria.md`
+2. **Asignar dueño al prototipo.** Es el renglón que se olvida
+3. **Mandarle las 4 preguntas a Vansie** — `02-problema/preguntas-abiertas.md`
+
+## Cómo funciona el repo
+
+Una sola regla: **si no está escrito acá, el equipo no lo sabe.**
+
+- Lo que llega de OPPO entra **crudo y sin editar** a `00-fuentes/`.
+- Lo que nosotros interpretamos vive en `01-` a `06-`, y **siempre cita su fuente** con su ID: `(F5)`, `(F6, p. 40)`.
+- Toda afirmación lleva etiqueta: `[HECHO]` está en una fuente · `[SUPUESTO]` lo creemos · `[PREGUNTA]` no lo sabemos.
+
+Confundir un supuesto con un hecho es la forma más común de perder un reto así. Esta vez ya pasó una vez: las notas de la charla dejaron "concurso obligatorio" y "20% insights", y las dos cosas eran falsas.
+
+## Estructura
+
+| Carpeta | Qué contiene |
+|---|---|
+| `PLAN-24H.md` | El plan operativo. Empieza aquí |
+| `00-fuentes/` | Material original de OPPO, sin editar |
+| `01-contexto/` | Empresa, equipo, stakeholders, glosario |
+| `02-problema/` | Definición, hechos vs. supuestos, preguntas abiertas, investigación primaria |
+| `03-insights/` | Hallazgos con su evidencia |
+| `04-ideacion/` | Lluvia de ideas y criterios de evaluación |
+| `05-decisiones/` | Bitácora: qué decidimos y por qué |
+| `06-entregables/` | Lo que efectivamente se presenta |
+
+## Fuentes
+
+| ID | Qué es | Peso |
+|---|---|---|
+| **F5** | Brief oficial de OPPO (docx) | **Máximo** — se autodeclara suficiente para evaluar sin presentación |
+| **F6** | Deck oficial de OPPO, 41 páginas | Máximo — criterios, recursos y copy de producto |
+| **F7** | Rúbrica de evaluadores Imagine-a-thon 24 | Máximo — es lo que produce la nota |
+| F8 | Transcripción de la lluvia de ideas del equipo | Alta para insights del target |
+| F3 | Transcripción de la charla de OPPO | Media — limpia, no literal |
+| F1, F2, F4 | Notas del equipo en la charla | Baja — parafraseadas, con errores confirmados |
 
 ## Estado
 
 | | |
 |---|---|
-| Reto | Race to Imagine |
-| Equipo | 6 personas |
-| Fase actual | Fuentes procesadas · problema desglosado · insights extraídos · lluvia pendiente |
-| Fuentes en el repo | 4 (transcripción + 3 sets de notas) |
-| Insights | 10 |
-| Supuestos por validar | 7, dos de riesgo alto |
-| Preguntas abiertas | 22 |
+| Equipo | 6 personas — ver `01-contexto/equipo.md` |
+| Fase | Fuentes procesadas · problema redefinido · 10 insights · encuesta lista para lanzar |
+| Pendiente | Lanzar encuesta · elegir concepto · construir prototipo · ensayar pitch |
 | Última actualización | 2026-08-27 |
-
-## Equipo
-
-Completar con nombre, rol en el equipo y de qué es dueño cada quien.
-
-| Nombre | Rol | Responsable de |
-|---|---|---|
-| Samuel Piedrahita | | |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |

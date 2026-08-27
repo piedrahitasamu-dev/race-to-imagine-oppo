@@ -4,9 +4,13 @@ Todo lo de acá viene de las fuentes en `00-fuentes/`. Etiquetas: `[HECHO]` est�
 
 ## Quién es
 
-- `[HECHO]` Marca asiática, de origen chino. (F2, F3)
-- `[HECHO]` Lleva 5 años en Colombia. (F2, F3)
-- `[HECHO]` Puesto #4 del mercado colombiano, 11% de participación. (F2, F3)
+- `[HECHO]` Marca global de smartphones, de origen chino. (F2, F3, F5)
+- `[HECHO]` Lleva **menos de seis años** en Colombia (F5). La charla dijo cinco (F3) — usar la cifra del brief.
+- `[HECHO]` **Colombia: #4 con 11%** de participación de mercado, 2Q 2026, fuente **Canalys**. (F6, p. 9)
+- `[HECHO]` **Global: #4 con 10%**, misma fuente y periodo. (F6, p. 5)
+- `[HECHO]` 90+ países y regiones en 6 continentes · 40.000 empleados · 330+ puntos de venta · **65+ patentes concedidas**. (F6, p. 4)
+- `[HECHO]` **Official Partner de la UEFA Champions League.** (F6, p. 6)
+- `[HECHO]` El **Find N6** está "co-desarrollado con **Hasselblad**" y se presenta como "OPPO AI Phone" con ColorOS. (F6, p. 7) — `[PREGUNTA P1]` confirmar si la coingeniería aplica a la serie Reno.
 - `[HECHO]` Compite directo con Apple y Samsung. (F2)
 - `[HECHO]` También compite con vivo y otras marcas chinas. (F4)
 
@@ -35,6 +39,8 @@ Esa frase es probablemente la instrucción estratégica más clara de toda la se
 
 ### Cámara — el corazón del producto
 
+El nombre oficial del conjunto de filtros es **Pop Camera** (F6, p. 18-19). Usarlo así en la presentación.
+
 - `[HECHO]` Tecnologías inspiradas en TikTok pero **nativas en la cámara**, no en una app. (F2)
 - `[HECHO]` Filtros: pop, película instantánea, cámara digital, fuga de luz. Estética Y2K / vintage. (F2, F3, F4)
 - `[HECHO]` **Pop-out 2.0**: a partir de un video arma una composición de varias imágenes en una sola, y la IA resalta a la persona u objeto en el centro. (F2, F3, F4)
@@ -61,13 +67,19 @@ Esa frase es probablemente la instrucción estratégica más clara de toda la se
 - `[HECHO]` Razones de existir según OPPO: tendencia asiática, moda, captura de imágenes. (F2)
 - `[SUPUESTO]` La nota suelta "una estética muy kawai" (F1) probablemente se refiere al Bubble, pero la fuente no lo precisa.
 
-El Bubble cuesta una sexta parte del teléfono y funciona con la competencia. Ver `03-insights/insights.md` — I3.
+- `[HECHO]` Nombres oficiales en el deck: **OPPO Bubble Mag E-Badge** y *Ultra-Clear Rear Selfie View Custom Vibe E-Badge*. (F6, p. 25)
+- `[HECHO]` OPPO lo llama **"la pieza infaltable de tu outfit"** y lo muestra como llavero, muñequera, correa y collar. (F6, p. 26)
+
+El Bubble cuesta una sexta parte del teléfono y funciona con la competencia. Ver `03-insights/insights.md` — I8. Y su copy oficial es un territorio ya escrito — ver I3.
 
 ## Alianzas y embajadores
 
 | Activo | Estado | Fuente |
 |---|---|---|
-| Luis Díaz — embajador Colombia | Activo, iniciaron este año | F2, F3 |
+| **Kaká** — embajador global | Aparece con el Find N6 | F6, p. 7 |
+| Luis Díaz — embajador Colombia | Activo, iniciaron este año. En el deck aparece con branding de UEFA | F2, F3, F6 |
+| **UEFA Champions League** | Official Partner | F6, p. 6 |
+| **Hasselblad** | Co-desarrollo de cámara en el Find N6 | F6, p. 7 |
 | BabyMonster (K-pop) — alianza global | **No se está explotando en Colombia** | F3 (el nombre); F2 (que no se explota) |
 | Mafe Méndez — colaboración | Mencionada, sin detalle | F2 |
 | Reykon — artista de activaciones | `[SUPUESTO]` F3 dice que el headliner del festival fue "de reggaetón old school" sin nombrarlo; F1 y F2 nombran a Reykon sin atarlo al evento. La conexión es inferencia nuestra — confirmar | F1, F2, F3 |
@@ -77,7 +89,8 @@ El Bubble cuesta una sexta parte del teléfono y funciona con la competencia. Ve
 
 - `[HECHO]` Con la Fundación Luis Díaz y Claro van a conectar a más de 500 familias en La Guajira, en Barrancas, de donde es Luis Díaz. Objetivo: cerrar la brecha digital. (F3)
 - `[HECHO]` Cifra que dio OPPO: 7 de cada 10 jóvenes en zonas rurales no tienen acceso a tecnología conectada, lo que limita hasta 40% sus oportunidades. (F3)
-- `[HECHO]` La RSE/ONGs aparece explícitamente en la lista de canales de la campaña 360 que piden. (F3)
+- `[HECHO]` La RSE/ONGs aparece como una de las ocho burbujas de la campaña 360. (F6, p. 38)
+- `[HECHO]` El brief oficial tiene una casilla dedicada a sostenibilidad y OPPO la llenó con la Fundación Luis Díaz: acceso a conectividad y herramientas tecnológicas para jóvenes beneficiarios, "entendiendo la tecnología como un medio para generar nuevas oportunidades". (F5)
 
 ## Historial de activaciones
 
@@ -90,13 +103,32 @@ El Bubble cuesta una sexta parte del teléfono y funciona con la competencia. Ve
 
 ## Recursos que OPPO pone sobre la mesa
 
-- `[HECHO]` Producto para intercambio y exhibición. (F3)
-- `[HECHO]` Producto para influencers. (F3)
-- `[HECHO]` Todos los canales propios de OPPO. (F3)
-- `[HECHO]` Inversión en pauta. (F3)
-- `[HECHO]` Apoyo de PR. (F3)
-- `[HECHO]` Recursos de producción audiovisual. (F3)
-- `[HECHO]` Participación de la marca en la ejecución. (F3)
-- `[HECHO]` **El equipo ganador podría ejecutar la idea real con la marca.** (F3)
+Lo que dice el **deck oficial** (F6, p. 39) — que es lo que se puede prometer:
 
-Que la idea se vaya a ejecutar de verdad cambia el cálculo. Una propuesta que se ve espectacular en la diapositiva pero que nadie sabe cómo montar pierde contra una que la marca puede empezar el lunes.
+| Recurso | Detalle literal |
+|---|---|
+| Apoyo con producto | "Sí para intercambio y exhibiciones" |
+| Apoyo de marketing | "Canales propios de OPPO" |
+| Recursos de producción y alianzas | — |
+| Participación en la ejecución | "Ideas seleccionadas **podrían** tener la oportunidad de seguir desarrollándose junto con OPPO" |
+
+> ⚠️ La charla mencionó además **inversión en pauta**, producto para influencers y apoyo de PR (F3). **El deck no los lista.** Un plan que asume presupuesto de medios puede estar asumiendo de más — ver P4 para Vansie.
+
+"Apoyo con producto para intercambio y exhibiciones" es el recurso más subestimado: es exactamente lo que resuelve la brecha de credibilidad (I2). Poner el teléfono en las manos de alguien vale más que toda la pauta.
+
+
+## Copy oficial del producto
+
+Frases literales del deck. Sirven para hablar con el vocabulario de la marca — y una de ellas es prácticamente un territorio ya escrito.
+
+| Página | Copy |
+|---|---|
+| p. 13 | Sociable · Expresiva · Experiencias Únicas · **Make Your Moment** · Sentido del estilo |
+| p. 20 | Pop Out 2.0 — *"En cualquier dirección captura lo que sea."* |
+| p. 21 | *"Selfie ultra gran angular de 50MP. Campo de visión de 100°."* |
+| p. 23 | *"Retrato con teleobjetivo 3.5x. Haz zoom con una nitidez excepcional."* |
+| p. 26 | OPPO Bubble — *"La pieza infaltable de tu outfit."* |
+| p. 27 | *"Selfies traseras. Sin dudas. Solo perfección."* |
+| **p. 28** | **_"Vista trasera ultra nítida. La foto perfecta tomada por tu amigo."_** |
+
+La de la p. 28 es la más importante del deck y OPPO la trató como pie de foto. Ver I3.

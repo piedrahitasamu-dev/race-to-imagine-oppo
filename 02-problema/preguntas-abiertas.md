@@ -1,47 +1,46 @@
 # Preguntas abiertas
 
-Ordenadas por cuánto cambiaría nuestra decisión saber la respuesta. En una reunión corta con OPPO caben tres o cuatro — están marcadas con ⭐.
+La líder del proyecto por OPPO es **Vansie** (F5). En una ventana corta caben cuatro preguntas. Estas son.
 
-## Para OPPO
+## Las cuatro para Vansie
 
-| # | Pregunta | Por qué importa | Prioridad |
-|---|---|---|---|
-| ⭐ P1 | Los criterios suman 95%. ¿Cuál es el 5% que falta? | Son puntos que se ganan gratis si sabemos que existen. Ver C6 | **Alta** |
-| ⭐ P2 | ¿Cuál es el presupuesto real de pauta y producción? | Sin techo, "viabilidad" (20%) es adivinanza. Cambia si la campaña es de una ciudad o de ocho | **Alta** |
-| ⭐ P3 | ¿El Bubble puede ser protagonista de la mecánica, o el Reno tiene que serlo? | Define si I3 es camino o callejón sin salida | **Alta** |
-| ⭐ P4 | ¿Se puede activar BabyMonster en Colombia, o la alianza no lo permite? | Si se puede, es engagement casi gratis. Si no, hay que buscar otro motor | **Alta** |
-| P5 | ¿Cuántas unidades hay disponibles para intercambio, exhibición e influencers? | Determina si la mecánica puede prestar producto y a qué escala | Alta |
-| P6 | ¿En qué ciudades y universidades hay presencia hoy? | Define el mapa de la campaña 360 | Alta |
-| P7 | ¿Cómo midieron las Reno Sessions y el Reno Universe Festival? ¿Qué funcionó y qué no? | Evita repetir un error que ya cometieron. Además muestra que hicimos la tarea | Media |
-| P8 | ¿Qué % de los compradores del Reno son estudiantes? | Valida S2 con dato duro de la marca | Media |
-| P9 | ¿Hay restricciones legales o de marca para un concurso? (derechos de imagen, uso de fotos, menores de edad) | Un concurso mal montado es un problema jurídico. Afecta viabilidad | Media |
-| P10 | ¿La campaña convive con el calendario global de OPPO o tiene libertad? | Si hay lanzamiento del Reno 17 en el medio, cambia el timing. Ver I9 | Media |
-| P11 | ¿Qué es "White to key"? (F2) | Puede ser un aliado o formato que no entendimos | Baja |
-| P12 | ¿Quién es Mafe Méndez y qué se hizo con ella? | Posible activo de creadores ya disponible | Baja |
-| P13 | ¿El programa de La Guajira está abierto a que la campaña se conecte con él? | Sostiene I8 y el 20% de impacto real | Media |
-
-## Para la organización del reto
-
-| # | Pregunta | Por qué importa |
+| # | Pregunta | Por qué cambia lo que hacemos |
 |---|---|---|
-| P14 | Fechas de entrega y formato (deck, video, pitch en vivo, duración) | Ordena todo el cronograma |
-| P15 | ¿Quiénes son los jurados — marketing de OPPO, academia, agencia? | Un jurado de marca premia viabilidad; uno académico premia rigor |
-| P16 | ¿Hay entregas intermedias o una sola final? | Cambia cómo se reparte el trabajo entre los 6 |
-| P17 | ¿Se puede contactar a OPPO para resolver dudas durante el reto? | Define si estas preguntas se resuelven o se vuelven supuestos |
+| **P1** | El deck dice que el Find N6 fue co-desarrollado con **Hasselblad**. ¿Esa coingeniería aplica también a la serie Reno? | Es la respuesta a la brecha de credibilidad (I2). Si aplica al Reno, es un argumento durísimo que nadie está usando. Si no, no se puede decir |
+| **P2** | ¿El **Bubble** puede ser la puerta de entrada de la mecánica, o el Reno tiene que ser el protagonista en todo momento? | Define si I8 es camino o callejón. El equipo entendió que el foco debe ser el celular, pero conviene confirmarlo con la marca |
+| **P3** | ¿Se puede **proponer una función nueva** para el Bubble o para la cámara, o la propuesta debe trabajar solo con lo que ya existe? | Pregunta que salió del propio equipo. Define si la idea puede ser de producto o solo de comunicación |
+| **P4** | ¿Hay **presupuesto de pauta**? El deck menciona producto, canales propios, producción y alianzas, pero no inversión en medios | Sin esto, "viabilidad" (20%) es adivinanza. Cambia si la campaña es de una ciudad o de ocho |
 
-## Para investigar por nuestra cuenta
-
-| # | Pregunta | Cómo se responde |
-|---|---|---|
-| P18 | ¿Qué están haciendo Samsung y Apple con universitarios en Colombia? | Revisión de campañas. Necesario para el 20% de diferenciación |
-| P19 | ¿Qué hicieron vivo y las otras marcas chinas (F4) con este mismo target? | Son los competidores de precio real del Reno |
-| P20 | ¿Hay concursos de fotografía universitaria ya existentes en Colombia? | Aliarse con uno existente es más viable que crear uno |
-| P21 | ¿Cuál es el tamaño real de los fandoms de K-pop colombianos? | Valida S3 |
-| P22 | ¿Qué colectivos de fotografía existen en las universidades objetivo? | Valida S4 y arma la lista de aliados |
+Si hay espacio para una quinta: **¿cómo midieron las Reno Sessions y el Reno Universe Festival, y qué no funcionó?** Muestra que se hizo la tarea y evita proponerles algo que ya fracasó.
 
 ## Resueltas
 
-| # | Pregunta | Respuesta | Fuente | Fecha |
-|---|---|---|---|---|
-| — | ¿Cuál es la pregunta exacta del desafío? | Literal de la diapositiva: "¿Cómo puede la OPPO Reno series utilizar la fotografía para generar una participación significativa y construir conexiones más sólidas con los estudiantes universitarios colombianos?" F3 la reformula nombrando el 16/16F | F1 (diapositiva) | 2026-08-27 |
-| — | ¿El concurso de fotografía es obligatorio? | Sí. OPPO lo pidió "muy fuerte" | F1, F3 | 2026-08-27 |
+| Pregunta | Respuesta | Fuente |
+|---|---|---|
+| ¿Cuáles son los criterios de evaluación? | 25% insights · 20% creatividad · 20% participación · 20% viabilidad · 15% relevancia Reno. **Suman 100%** | F6, p. 40 |
+| ¿Qué era el 5% que faltaba? | Nada. Insights vale 25%, no 20% — las notas de la charla lo capturaron mal | F6, p. 40 |
+| ¿El concurso de fotografía es obligatorio? | **No.** Es una de ocho burbujas del 360, sin jerarquía. El deck cierra con *"la fotografía es el territorio, la solución está abierta"* | F6, p. 38 y 41 |
+| ¿Cuál es la pregunta oficial del reto? | La del brief manda y es más amplia que la de la diapositiva: cómo atraer la atención, generar reconocimiento, interacción y preferencia, y comunicarse *"de forma auténtica"* | F5 |
+| ¿Hay que entregar prototipo? | **Sí.** Rúbrica del jurado, renglón 3: "prototipo funcional que materializa los conceptos" | F7 |
+| ¿Quién lidera el reto por OPPO? | Vansie | F5 |
+| ¿Cuánto lleva OPPO en Colombia? | Menos de seis años (el brief); cinco años (la charla) | F5, F3 |
+| ¿Cuál es el market share? | Colombia #4 con 11%; global #4 con 10%. Ambos 2Q 2026, fuente Canalys | F6, p. 5 y 9 |
+
+## Para la organización del reto
+
+| # | Pregunta | Por qué |
+|---|---|---|
+| P5 | ¿Cuánto dura el pitch y en qué formato? | 20 de 70 puntos están ahí. No se puede ensayar sin saber el tiempo |
+| P6 | ¿Qué se entrega además del pitch — deck, documento, video? | Renglón 5: "la totalidad de los requerimientos" |
+| P7 | ¿Quiénes son los jurados? | Un jurado de marca premia viabilidad; uno académico premia rigor |
+| P8 | ¿Hay formato o plantilla obligatoria para el deck? | Renglón 5 otra vez. Son puntos gratis |
+
+## Para resolver nosotros mismos
+
+| # | Pregunta | Cómo |
+|---|---|---|
+| P9 | ¿Qué sabe realmente un universitario colombiano sobre OPPO? | Pregunta 10 de la encuesta. Ver `investigacion-primaria.md` |
+| P10 | ¿Qué tan cierto es que capturan mucho y comparten poco? | Preguntas 4 y 5 de la encuesta |
+| P11 | ¿Es cierto que el que toma la foto nunca sale? | Preguntas 6 y 7 |
+| P12 | ¿Responden distinto los estudiantes de universidades públicas? | Cruce por la pregunta 1. **Este es el diferenciador** |
+| P13 | ¿Qué hacen Samsung, Xiaomi o realme con universitarios en Colombia? | Revisión rápida de campañas, 30 minutos |

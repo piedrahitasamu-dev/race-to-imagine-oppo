@@ -1,61 +1,71 @@
 # Entregables
 
-## Qué pide OPPO en la propuesta
+## Lo que hay que entregar
 
-Fuente: F3.
+Vienen de tres fuentes distintas y **ninguna las lista todas**. Esta tabla es la unión.
 
-| Componente | Qué es | Dónde se está trabajando |
-|---|---|---|
-| **Insight del target** | Una verdad del universitario colombiano, con dato. Ejemplo que dieron: "9 de cada 10 juegan videojuegos → territorio gaming" | `03-insights/` + encuesta pendiente |
-| **Idea central** | El concepto que ordena todo | `04-ideacion/` |
-| **Mecánica de participación** | Cómo participa la gente, paso a paso | `04-ideacion/` — arquitectura de dos pisos |
-| **Campaña 360** | Redes, pauta, creadores, eventos, PR, líderes de opinión, RSE/ONGs, colaboraciones, comunidades universitarias | Pendiente |
-| **Concurso de fotografía** | Pedido explícito y "muy fuerte" | Pendiente |
+| # | Entregable | Lo pide | Estado |
+|---|---|---|---|
+| 1 | Insight del estudiante, de **investigación primaria** | F6 p. 37 · F5 | ⏳ Encuesta lista, sin lanzar |
+| 2 | Idea central / concepto creativo y narrativa de marca | F6 p. 37 · F5 | ⏳ |
+| 3 | Mecanismo de participación | F6 p. 37 | ⏳ |
+| 4 | ¿Cómo cobra vida? / estrategia de activación integral **online y offline** | F6 p. 37 · F5 | ⏳ |
+| 5 | Ideas de experiencias y formatos por plataforma (TikTok, Reels, Shorts, presencial, espacios universitarios) | F5 | ⏳ |
+| 6 | **Ruta de implementación y amplificación**: acciones prioritarias, plataformas, formatos, creadores o aliados | F5 | ⏳ |
+| 7 | **Métricas** | F5 | ⏳ |
+| 8 | **Prototipo funcional** | F7, renglón 3 | ⏳ |
+| 9 | Pitch ensayado + recursos de apoyo | F7, renglones 4a y 4b | ⏳ |
+
+Los ítems **5, 6 y 7 solo están en el brief oficial** y son los que más se olvidan cuando aprieta el tiempo. El **8 solo está en la rúbrica del jurado** y no lo mencionó nadie de OPPO. Los tres son puntos que se pierden por no haber leído el documento correcto.
+
+El renglón 5 de la rúbrica —*"cumplen con la totalidad de los requerimientos"*, 10 puntos— se gana con esta tabla en verde. Es la nota más barata del reto.
 
 ## Criterios de calificación
 
+**Lo que OPPO valora** (F6, p. 40), suma 100%:
+
 | Peso | Criterio |
 |---|---|
-| 20% | Insights del target |
+| **25%** | Insights del target |
 | 20% | Creatividad y diferenciación |
-| 20% | Potencial de participación / engagement |
-| 20% | Viabilidad e impacto real |
+| 20% | Potencial de participación |
+| 20% | Viabilidad y potencial de impacto |
 | 15% | Relevancia para Reno y la fotografía |
-| 5% | **Sin identificar — preguntar (P1)** |
 
-Detalle de cómo se gana cada uno en `04-ideacion/criterios-evaluacion.md`.
+**Lo que el jurado marca** (F7): 7 renglones × 10 = 70 puntos, incluyendo prototipo funcional, pitch y seguimiento de instrucciones.
 
-## Recursos disponibles para la propuesta
+Detalle de cómo se gana cada uno en `../04-ideacion/criterios-evaluacion.md`.
 
-Amarrar cada pieza de la campaña a uno de estos es la forma más directa de ganar el 20% de viabilidad.
+## Recursos que se pueden prometer
 
-- Producto para intercambio y exhibición
-- Producto para influencers
-- Todos los canales propios de OPPO
-- Inversión en pauta
-- Apoyo de PR
-- Recursos de producción audiovisual
-- Participación de la marca en la ejecución
+Solo esto, según el deck (F6, p. 39):
 
-**El equipo ganador podría ejecutar la idea real con la marca.**
+- Apoyo con producto — *"sí para intercambio y exhibiciones"*
+- Apoyo de marketing — canales propios de OPPO
+- Recursos de producción y alianzas
+- Participación en la ejecución — *"ideas seleccionadas **podrían** tener la oportunidad de seguir desarrollándose junto con OPPO"*
+
+⚠️ La charla mencionó además inversión en pauta, producto para influencers y apoyo de PR (F3), pero **el deck no los lista**. Un plan que asume presupuesto de medios pierde viabilidad. Es la pregunta P4 para Vansie.
+
+Amarrar cada pieza de la campaña a uno de estos cuatro recursos es la forma más directa de ganar el 20% de viabilidad.
+
+## Reparto de los 6
+
+| Frente | Quién | Entrega |
+|---|---|---|
+| Investigación | María Paula + Ana Sofía | Ítem 1 — encuesta, entrevistas, las cifras del pitch |
+| Concepto | Mariana Mosquera + Ana Dusán | Ítems 2, 3, 4, 5 |
+| **Prototipo y piloto** | Samuel | Ítem 8 — que la mecánica corra de verdad |
+| Narrativa y pitch | Mariana (María Gómez) | Ítems 6, 7, 9 |
+
+Detalle y cronograma en `../PLAN-24H.md`. Perfiles del equipo en `../01-contexto/equipo.md`.
+
+Lo único que no puede quedar sin dueño es el **prototipo**: son 10 puntos fijos y es el entregable que nadie tenía en el radar.
 
 ## Calendario
 
-`[PENDIENTE — P14]` Faltan las fechas y el formato de entrega. Es lo primero que hay que conseguir: sin eso no se puede planear nada.
+`[PENDIENTE — P5, P6]` Faltan la duración del pitch y el formato de entrega. Sin eso no se puede ensayar. Es lo primero que hay que preguntarle a la organización.
 
-| Entregable | Formato | Fecha | Responsable | Estado |
-|---|---|---|---|---|
-| | | | | |
-
-## Reparto entre los 6
-
-Propuesta de arranque, para ajustar en la primera sesión:
-
-| Frente | Qué hace | Personas |
-|---|---|---|
-| Investigación y validación | Encuesta S1/S2, mapeo de colectivos, benchmark de competencia | 2 |
-| Concepto y mecánica | Idea central, arquitectura de participación, concurso | 2 |
-| Campaña 360 y viabilidad | Canales, aliados, cronograma, mapeo de recursos | 1 |
-| Narrativa y presentación | Estructura del pitch, diseño, ensayo | 1 |
-
-La investigación va con dos personas y arranca ya. Es el 20% de la nota, es lo que ningún otro equipo va a tener propio, y es lo único que tiene un plazo de calendario real — una encuesta necesita días para recoger respuestas, mientras que una idea se puede tener en una tarde.
+| Entregable | Formato | Hora límite | Responsable |
+|---|---|---|---|
+| | | | |
