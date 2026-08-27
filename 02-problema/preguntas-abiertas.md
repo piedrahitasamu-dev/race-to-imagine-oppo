@@ -53,4 +53,4 @@ Si hay espacio: **¿cómo midieron las Reno Sessions y el Reno Universe Festival
 | P10 | ¿Qué tan cierto es que capturan mucho y comparten poco? | Preguntas 4 y 5 de la encuesta |
 | P11 | ¿Es cierto que el que toma la foto nunca sale? | Preguntas 6 y 7 |
 | P12 | ¿Responden distinto los estudiantes de universidades públicas? | Cruce por la pregunta 1. **Este es el diferenciador** |
-| P13 | ¿Qué hacen Samsung, Xiaomi o realme con universitarios en Colombia? | Revisión rápida de campañas, 30 minutos |
+| ~~P13~~ | ~~¿Qué hacen Samsung, Xiaomi o realme con universitarios en Colombia?~~ | **Resuelto** — ver `investigacion-secundaria.md`: Samsung y Xiaomi tienen descuentos activos para estudiantes en Colombia, OPPO no tiene ninguno. Realme no tiene campaña visible en este segmento |
