@@ -11,6 +11,7 @@ Material original, **sin editar**. Esta carpeta es de solo-agregar: nada se corr
 | **F7** | `2026-08-27-rubrica-evaluadores-imagine-a-thon.jpg` · transcrito en `2026-08-27-brief-oficial-y-rubrica.md` | Formato de evaluación de los jurados | Literal |
 | **F8** | `2026-08-27-lluvia-de-ideas-equipo.md` | Grabación de la primera sesión del equipo | Transcripción automática, organizada; citas literales |
 | **F9** | `2026-08-27-qa-encargado-oppo.md` | Q&A del equipo con el encargado de OPPO (mentoría) | Transcripción automática con errores; limpiada y organizada por tema |
+| F10 | `2026-08-27-aporte-equipo-segunda-ronda.md` | Segundo aporte de ideas del equipo | Parafraseada |
 | F3 | `2026-08-27-transcripcion-charla-oppo.md` | Transcripción de la charla de OPPO | Limpia, **no literal** |
 | F1 | `2026-08-27-nota-manuscrita-sesion-oppo.png` | Nota manuscrita en iPad | Parafraseada |
 | F2 | `2026-08-27-notas-equipo-digital.png` | Notas digitales del equipo | Parafraseada |

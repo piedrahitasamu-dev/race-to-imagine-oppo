@@ -50,7 +50,7 @@ Salieron en la primera sesión (F8) y varias merecen desarrollo:
 | **B1** | App tipo **BeReal** pero de OPPO, para capturar momentos con FOMO | El equipo mismo advirtió: cerrarla a OPPO mata el alcance. Reformulable |
 | **B2** | El Bubble como **comunicación por fotos**: te tomas una foto y le llega al Bubble del otro | **La más prometedora.** Conecta con T1 y con la copy oficial |
 | **B3** | Conectar el Bubble con los **widgets de Instagram** en vez de crear app nueva | Muy viable: evita el costo de dar a conocer una app |
-| **B4** | Reto tipo **"Sobrevive con Red Bull"** llevado a fotografía: explorar, categorías, aliado con universidades | Buena estructura de participación sostenida |
+| **B4** | Reto tipo **"Sobrevive con Red Bull"** llevado a fotografía: explorar, categorías, aliado con universidades | **Promovida en la segunda ronda (F10).** Territorio T4 (identidad — se ancla en el eslogan oficial y vigente "Make Your Moment") + T1 (si las categorías son gestos cotidianos, no técnica fotográfica). Buena estructura de participación sostenida, y nacional por diseño — encaja con DP5 |
 | **B5** | **Segundo consumidor**: el estudiante influye en el celular de papás y abuelos | Territorio grande, pero se sale del target declarado |
 | **B6** | Alianzas que le den **credibilidad** a la cámara | Es T3 con otro nombre. Desarrollar |
 | **B7** | Que OPPO sea **la marca de los universitarios** — identidad, no campaña | Es T4. La más ambiciosa |

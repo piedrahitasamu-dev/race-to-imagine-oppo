@@ -24,6 +24,7 @@ Cosas que el equipo daba por ciertas y que los documentos oficiales desmienten. 
 | C2 | "Inspirar por medio de la tecnología **con el fútbol**" (F2) | El territorio es la **fotografía** (F6) | Contradicción real de ejes. Ver I1 |
 | C3 | Hasselblad co-desarrolla (F6, p. 7) | Aparece en la diapositiva del **Find N6**, no del Reno | ¿Aplica a la serie Reno? Es P1 para Vansie |
 | C4 | 5 años en Colombia (F3) | Menos de 6 años (F5) | Usar la del brief |
+| C5 | El equipo cree que OPPO no tiene la calidad para competir con Apple (F10) | Reseñas externas describen la cámara como objetivamente buena — fotografía computacional, buen desempeño en poca luz, zoom óptico real (`investigacion-secundaria.md`) | No es una contradicción real: la estrategia (I7) ya asume que **no hay que pelear la nitidez con Apple**. El punto de F10 confirma por qué — no cambia el plan, refuerza no reclamar en el pitch "somos mejores que Apple en calidad" |
 
 ## Supuestos del equipo
 
