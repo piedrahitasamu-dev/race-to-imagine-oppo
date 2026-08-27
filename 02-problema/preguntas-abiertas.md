@@ -2,16 +2,18 @@
 
 La líder del proyecto por OPPO es **Vansie** (F5). En una ventana corta caben cuatro preguntas. Estas son.
 
-## Las cuatro para Vansie
+## Las dos que faltan por responder
 
 | # | Pregunta | Por qué cambia lo que hacemos |
 |---|---|---|
 | **P1** | El deck dice que el Find N6 fue co-desarrollado con **Hasselblad**. ¿Esa coingeniería aplica también a la serie Reno? | Es la respuesta a la brecha de credibilidad (I2). Si aplica al Reno, es un argumento durísimo que nadie está usando. Si no, no se puede decir |
-| **P2** | ¿El **Bubble** puede ser la puerta de entrada de la mecánica, o el Reno tiene que ser el protagonista en todo momento? | Define si I8 es camino o callejón. El equipo entendió que el foco debe ser el celular, pero conviene confirmarlo con la marca |
 | **P3** | ¿Se puede **proponer una función nueva** para el Bubble o para la cámara, o la propuesta debe trabajar solo con lo que ya existe? | Pregunta que salió del propio equipo. Define si la idea puede ser de producto o solo de comunicación |
-| **P4** | ¿Hay **presupuesto de pauta**? El deck menciona producto, canales propios, producción y alianzas, pero no inversión en medios | Sin esto, "viabilidad" (20%) es adivinanza. Cambia si la campaña es de una ciudad o de ocho |
 
-Si hay espacio para una quinta: **¿cómo midieron las Reno Sessions y el Reno Universe Festival, y qué no funcionó?** Muestra que se hizo la tarea y evita proponerles algo que ya fracasó.
+Si hay espacio: **¿cómo midieron las Reno Sessions y el Reno Universe Festival, y qué no funcionó?** Muestra que se hizo la tarea y evita proponerles algo que ya fracasó.
+
+**Dos preguntas que el equipo formuló en F8 y que nunca llegaron a esta lista** — quedan pendientes de decidir si vale la pena hacerlas todavía:
+- Cuánto cuesta el Reno F y cómo se comparan los precios de toda la serie Reno.
+- Por qué encerrarse en estudiantes si el alcance puede ser mayor.
 
 ## Resueltas
 
@@ -25,6 +27,14 @@ Si hay espacio para una quinta: **¿cómo midieron las Reno Sessions y el Reno U
 | ¿Quién lidera el reto por OPPO? | Vansie | F5 |
 | ¿Cuánto lleva OPPO en Colombia? | Menos de seis años (el brief); cinco años (la charla) | F5, F3 |
 | ¿Cuál es el market share? | Colombia #4 con 11%; global #4 con 10%. Ambos 2Q 2026, fuente Canalys | F6, p. 5 y 9 |
+| ¿El Bubble puede ser la puerta de entrada de la mecánica? | **Sí.** La propia campaña de OPPO ya se basa en eso: el Bubble genera awareness porque llama la atención sin que la gente sepa qué es, y después se conecta al celular. El foco final sigue siendo el Reno | F9 |
+| ¿Hay presupuesto de pauta para la estrategia de estudiantes? | **No hay uno específico asignado.** Pueden ser "abiertos" en el planteamiento, pero sin asumir inversión de nivel celebridad | F9 |
+| ¿Tienen alianzas con universidades hoy? | **No**, pero están abiertos a que el equipo proponga una | F9 |
+| ¿Alcance geográfico esperado? | Nacional — Colombia. Pero el producto real apunta a estrato alto (tipo Andes/Sabana), lo que tensiona con el plan de diversificar la muestra fuera de la burbuja — ver `hechos-vs-supuestos.md` | F9 |
+| ¿"Universitario" significa uso académico? | **No.** La visión de marca es ser "aliado de estilo de vida" en todos los momentos del universitario (estudiar, rumbear, viajar), con la cámara como eje | F9 |
+| ¿Hay ya un evento/reto de fotografía de OPPO para estudiantes? | **No existe hoy.** Si el equipo lo propone, es bienvenido | F9 |
+| ¿Cuáles son los competidores relevantes además de Apple? | Samsung. Huawei ya no compite en este segmento — perdió acceso a Google Play Services | F9 |
+| ¿La diferenciación de OPPO es solo cámara? | No — también diseño e IA nativa de productividad (traducir documentos, escanear, resumir). Pero la campaña debe mantener el foco en fotografía | F9 |
 
 ## Para la organización del reto
 

@@ -37,9 +37,12 @@ Ninguno lo dijo OPPO. Varios sostienen la estrategia.
 | **S4** | Los estudiantes de universidades públicas responden distinto | Medio — es el diferenciador del pitch | Cruce por la pregunta 1 |
 | **S5** | Un evento de fotografía no convoca a quien no es fotógrafo | Medio — condiciona toda la mecánica | Encuesta, pregunta 11. Ya hay evidencia cualitativa en F8 |
 | **S6** | El perfil que compra OPPO es artístico / humanidades | Bajo — matiza el target, no lo define | Cruce carrera × marca en la encuesta |
-| **S7** | OPPO aceptaría el Bubble como puerta de entrada | Medio — si dice que no, ese ángulo se cae | P2 para Vansie |
+| ~~S7~~ | ~~OPPO aceptaría el Bubble como puerta de entrada~~ | **Resuelto — sí.** Su propia campaña ya funciona así (F9) | — |
+| **S8** | La muestra de la encuesta debe salir de la burbuja de universidades privadas de estrato alto | **Alto** — F9 dice que el target real del Reno es justo ese perfil (tipo Andes/Sabana). Pesar mal la muestra puede invalidar el insight central o hacerlo irrelevante para el producto | Decisión de equipo, ver DP5 en `../05-decisiones/bitacora-decisiones.md` |
 
 **S1 y S2 se validan primero.** Sostienen el 25% de la nota. Si alguno se cae, se cambia el insight y **se cuenta el cambio en el pitch** — eso es análisis profundo, no un fracaso. Ver `investigacion-primaria.md`.
+
+**S8 es nuevo y urgente**: la encuesta está lista para salir y esto cambia a quién se le envía.
 
 ## Lo que sí es hecho verificado
 
@@ -56,6 +59,11 @@ Datos duros, todos de documentos oficiales, listos para citar en el deck:
 - **Pop Out 2.0**: *"en cualquier dirección captura lo que sea"* (F6, p. 20)
 - OPPO Bubble: *"la pieza infaltable de tu outfit"*, *"selfies traseras"*, **"la foto perfecta tomada por tu amigo"** (F6, p. 26–28)
 - La Fundación Luis Díaz aparece en el brief oficial como el eje de sostenibilidad de OPPO (F5) — pero **sin cifras**
+- Competidores relevantes: **Apple y Samsung**. Huawei ya no compite en este segmento — perdió acceso a Google Play Services (F9)
+- Diferenciadores frente a Apple más allá de la cámara: **diseño** e **IA nativa de productividad** — traducir documentos, escanear, resumir desde el celular, algo que el iPhone no hace nativo (F9)
+- OPPO **no tiene hoy** alianzas con universidades ni un evento/reto de fotografía para estudiantes — ambos están abiertos a que el equipo los proponga (F9)
+- **No hay presupuesto de pauta específico** para una estrategia de estudiantes (F9) — confirma E6
+- Visión de marca, en palabras del propio encargado de OPPO: *"un aliado, un compañero, parte de tu estilo de vida"*, presente en todos los momentos del universitario, no solo el académico (F9)
 
 > ⚠️ Las cifras de La Guajira (500+ familias, 7 de cada 10 jóvenes rurales, 40% menos oportunidades) vienen **solo de F3**, que es una transcripción limpia y no literal. Antes de ponerlas en una diapositiva hay que confirmarlas con OPPO. Todo lo demás de esta lista sí es de documento oficial.
 

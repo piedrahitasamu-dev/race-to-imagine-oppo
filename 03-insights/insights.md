@@ -26,7 +26,7 @@ Fuentes: F1–F4 notas y charla · F5 brief oficial · F6 deck de OPPO · F7 rú
 
 **Lo que el equipo no vio.** En el propio deck de OPPO, página 7: **"Co-developed with HASSELBLAD"**. Hasselblad es la marca de las cámaras que fueron a la Luna. También: 65+ patentes concedidas, Official Partner de la UEFA Champions League (F6). La marca tiene credenciales duras y **no las está usando con este público**.
 
-> Cuidado: en el deck, Hasselblad aparece en la diapositiva del **Find N6**, no del Reno 16. Antes de ponerlo en una diapositiva hay que confirmar si la coingeniería aplica a la serie Reno. Es la primera pregunta para Vansie.
+> Cuidado: en el deck, Hasselblad aparece en la diapositiva del **Find N6**, no del Reno 16. Antes de ponerlo en una diapositiva hay que confirmar si la coingeniería aplica a la serie Reno. Sigue sin respuesta (P1).
 
 **Tensión.** La credibilidad no se arregla afirmando. Se arregla mostrando. El equipo listó las tres formas de comparar la calidad de un teléfono: *"uno, que lo vas a comprar y lo comparás en la tienda; dos, que alguien te lo muestre; o que en un entorno donde vos mantenés se use"* (F8). Solo la tercera está al alcance de una campaña.
 
@@ -119,6 +119,8 @@ Matiz que el propio equipo puso: la relación estrato → marca no es directa, *
 
 **El límite, que también dijeron.** OPPO fue claro en que el foco es el celular y la serie Reno completa, no el accesorio. *"El foco 100% no nos podemos desviar, es el celular"* (F8).
 
+**Confirmado por OPPO directamente (F9):** *"nuestra campaña se basó en eso — llamar la atención, el awareness a punta del Bubble... y después conectarlo con el celular."* Ya no es una lectura estratégica del equipo, es la estrategia que OPPO ya corre. Cierra DP2.
+
 **Implicación.** El Bubble como **puerta**, el Reno como **casa**. Es la lectura que sobrevive a las dos restricciones: aprovecha el objeto accesible sin desobedecer el foco. Y hay una idea del equipo que merece rescate — el Bubble como dispositivo de comunicación por fotos entre personas (B2), que conecta con la copy oficial de la marca y con I3.
 
 **Confianza:** alta en los hechos, media en la lectura estratégica.
@@ -149,9 +151,36 @@ Matiz que el propio equipo puso: la relación estrato → marca no es directa, *
 
 ---
 
+## I11 — OPPO ya dijo qué identidad quiere, y casi nadie lo va a citar
+
+**Observación.** En una sesión de preguntas y respuestas (F9), el encargado de OPPO definió la marca con una claridad que no está en ninguna diapositiva del deck: *"la visión de la marca es más como un aliado, un compañero, alguien de tu estilo de vida, parte de tu estilo... que esté en todo, porque ustedes no solo estudian, también salen a rumbear, viajan, todo. En todos esos momentos está el celular. Pero muy basado sobre todo en cámara, en fotografía."*
+
+**Tensión.** Esto responde directamente al blanco que dejó I1 ("¿los de OPPO qué buscan?"): buscan ser **estilo de vida**, no herramienta académica ni fandom de una tendencia pasajera. Es la propia marca resolviendo su propio problema de identidad — pero en una llamada de mentoría, no en un documento que los otros equipos necesariamente escucharon con el mismo detalle.
+
+**Implicación.** Citar esta frase casi textual en el pitch es evidencia de que la propuesta nace de lo que OPPO pidió, no de una interpretación libre — y responde a la vez el 25% de insights (viene de la marca) y el 15% de relevancia para Reno.
+
+También en F9: los diferenciadores frente a Apple no son solo la cámara — **diseño** e **IA nativa de productividad** (traducir documentos, escanear, resumir desde el celular, algo que el iPhone no hace nativo). Son material secundario válido para el pitch, pero OPPO fue explícito: *"el foco sea fotografía"* — no vale pivotear la idea central hacia productividad.
+
+**Confianza:** alta — cita directa de OPPO.
+
+---
+
+## I12 — El target real puede ser la burbuja de la que el equipo se quería alejar
+
+**Observación.** F9: *"este celular... está enfocado para estudiantes y es para estratos altos, en realidad, porque no es económico. Entonces es como muy Andes, Sabana, como muy eso."* El alcance pedido es nacional, pero el perfil económico real del comprador coincide con el círculo social del propio equipo (I5).
+
+**Tensión.** El equipo diseñó la encuesta para salir deliberadamente de su burbuja (S1–S8, D2) porque asumía que su sesgo era un riesgo. OPPO acaba de decir que ese círculo **sí es** el target real del producto. No invalida la validación por fuera de la burbuja — sigue siendo el diferenciador frente a otros equipos y el alcance es nacional, no solo su universidad — pero si la muestra de la encuesta se pesa igual que antes, el insight central puede terminar hablando de un segmento que no puede pagar el producto.
+
+**Implicación.** Antes de que la encuesta salga (o apenas salga, si ya lo hizo), el equipo debe decidir explícitamente cómo pesar la muestra: ¿mayoría de estrato alto/universidad privada con el contraste de fuera como matiz, o se mantiene el diseño original 40/60? Ver DP5 en `../05-decisiones/bitacora-decisiones.md`.
+
+**Confianza:** alta en la cita, media en cómo resolverla — es una decisión de equipo, no un hecho que se resuelva solo.
+
+---
+
 ## Señales sueltas
 
-- El deck **no menciona inversión en pauta** (F6, p. 39), aunque la charla sí (F3). Un plan que asume presupuesto de medios puede estar asumiendo de más.
+- El deck **no menciona inversión en pauta** (F6, p. 39), aunque la charla sí (F3). **Confirmado en F9**: no hay presupuesto de pauta específico para esta estrategia. Un plan que asume presupuesto de medios está asumiendo de más.
+- Competidores confirmados por OPPO: **Apple y Samsung**. Huawei quedó fuera de la conversación — perdió acceso a Google Play Services y "se los mataron" (F9).
 - Matiz técnico agudo del equipo: la percepción de "mala cámara" puede ser **la pantalla**, no el sensor — *"hay mucha diferencia en sensación visual entre un iPhone normal y un iPhone Pro"* (F8). Si es cierto, el problema se resuelve en cómo se muestran las fotos, no en cómo se toman.
 - **Segundo consumidor** (B5): el estudiante tiene iPhone, pero influye en el celular que compran sus papás o abuelos. Territorio grande y sin explorar, aunque se sale del target declarado.
 - Una integrante se enteró del lanzamiento **por un influencer**, no por la pauta (F8). Dato pequeño con implicación grande sobre qué canal funciona.

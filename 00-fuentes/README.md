@@ -10,6 +10,7 @@ Material original, **sin editar**. Esta carpeta es de solo-agregar: nada se corr
 | **F6** | `2026-08-27-deck-oficial-oppo.pdf` · transcrito en `2026-08-27-deck-oppo-transcripcion.md` | Deck que OPPO presentó, 41 páginas | Literal |
 | **F7** | `2026-08-27-rubrica-evaluadores-imagine-a-thon.jpg` · transcrito en `2026-08-27-brief-oficial-y-rubrica.md` | Formato de evaluación de los jurados | Literal |
 | **F8** | `2026-08-27-lluvia-de-ideas-equipo.md` | Grabación de la primera sesión del equipo | Transcripción automática, organizada; citas literales |
+| **F9** | `2026-08-27-qa-encargado-oppo.md` | Q&A del equipo con el encargado de OPPO (mentoría) | Transcripción automática con errores; limpiada y organizada por tema |
 | F3 | `2026-08-27-transcripcion-charla-oppo.md` | Transcripción de la charla de OPPO | Limpia, **no literal** |
 | F1 | `2026-08-27-nota-manuscrita-sesion-oppo.png` | Nota manuscrita en iPad | Parafraseada |
 | F2 | `2026-08-27-notas-equipo-digital.png` | Notas digitales del equipo | Parafraseada |
@@ -29,7 +30,7 @@ Material original, **sin editar**. Esta carpeta es de solo-agregar: nada se corr
 | Qué falta | Por qué importa |
 |---|---|
 | Reglamento del Imagine-a-thon | Duración del pitch, formato de entrega, jurados. Renglón 5 de la rúbrica |
-| Respuestas de Vansie | Las cuatro preguntas de `02-problema/preguntas-abiertas.md` |
+| Respuesta a P1 (Hasselblad) y P3 (función nueva) | F9 respondió P2 y P4, pero no tocó estas dos |
 | Datos de la encuesta | El 25% de la nota depende de esto |
 
 ## Al agregar una fuente
