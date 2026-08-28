@@ -34,7 +34,9 @@ Fuentes: F1–F4 notas y charla · F5 brief oficial · F6 deck de OPPO · F7 rú
 
 **Implicación.** Cualquier mecánica que ponga el teléfono en las manos de un estudiante durante un rato resuelve más que toda la pauta. Y encaja exactamente con el recurso que OPPO ofrece: *"apoyo con producto: sí para intercambio y exhibiciones"* (F6, p. 39).
 
-**Confianza:** alta.
+**Validado con encuesta propia, n=65 (F11).** 74% de los encuestados sí conoce la marca OPPO — más de lo que el equipo asumía. Pero de ese 74%, **42% duda de que su cámara capture los momentos que le importa guardar**. La brecha de credibilidad ya no es una cita de seis personas: es una cifra propia, citable en el pitch. Ver `../02-problema/resultados-encuesta.md`.
+
+**Confianza:** alta — ahora con dato primario propio, no solo cualitativo.
 
 ---
 
@@ -175,7 +177,21 @@ También en F9: los diferenciadores frente a Apple no son solo la cámara — **
 
 **Implicación.** Antes de que la encuesta salga (o apenas salga, si ya lo hizo), el equipo debe decidir explícitamente cómo pesar la muestra: ¿mayoría de estrato alto/universidad privada con el contraste de fuera como matiz, o se mantiene el diseño original 40/60? Ver DP5 en `../05-decisiones/bitacora-decisiones.md`.
 
-**Confianza:** alta en la cita, media en cómo resolverla — es una decisión de equipo, no un hecho que se resuelva solo.
+**Ya no es hipotético — se confirmó (F11, n=65).** 83% de las respuestas recolectadas son de estrato 4–6. La encuesta terminó hablando sobre todo de la burbuja, no de fuera de ella. Dado lo que dice F9, esto no necesariamente invalida el insight (el target real sí parece ser ese estrato), pero hay que ser honestos en el pitch sobre a quién representa realmente la muestra, y sigue faltando el cruce por universidad (S4) que nunca se recogió.
+
+**Confianza:** alta en la cita y en el sesgo confirmado; media en cómo se resuelve para el pitch — es una decisión de equipo, no un hecho que se resuelva solo.
+
+---
+
+## I13 — La gente fotografía para sí misma, no para publicar
+
+**Observación.** Encuesta primaria, n=65 (F11): a la pregunta de cuál es la motivación principal para tomar una foto, **82% respondió "guardar recuerdos"** y solo **1 persona de 65 (2%)** respondió "compartir y conectar". Documentar experiencias (11%) y capturar una emoción (6%) completan el resto — todas orientadas hacia adentro, no hacia una audiencia.
+
+**Tensión.** Es fácil diseñar un reto asumiendo que a la gente le entusiasma publicar. El dato dice lo contrario: la foto es, ante todo, para uno mismo. Un mecanismo que exija publicar como condición de entrada está pidiendo justo lo que menos motiva a este público.
+
+**Implicación.** Confirma con dato duro lo que S1 sostenía como supuesto. El diseño de "Tu Reno Wrapped" (`../04-ideacion/mecanica-reto-wrapped.md`) ya apunta en la dirección correcta —el avatar es un beneficio personal primero, compartir la tarjeta al final es una opción, no un requisito— y esta cifra es la razón por la que ese orden importa y no es un detalle de diseño menor.
+
+**Confianza:** alta — n=65, pregunta directa y sin ambigüedad en las respuestas.
 
 ---
 

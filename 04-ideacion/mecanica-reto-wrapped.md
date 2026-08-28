@@ -10,16 +10,16 @@ Si el reto premia la foto más linda o más viral, vuelve a caer en lo que I4 ya
 
 ## Cómo funciona
 
-**1. Categorías del reto = dominios del avatar.** Cada categoría del reto no es solo "una foto más" — alimenta una estadística específica del avatar:
+**1. Categorías del reto = dominios del avatar.** Cada categoría del reto no es solo "una foto más" — alimenta una estadística específica del avatar. Los dominios y su peso están calibrados con la encuesta primaria real (n=65, `../02-problema/resultados-encuesta.md`), no con intuición:
 
-| Dominio | Se activa con | Ejemplo de categoría del reto |
-|---|---|---|
-| Atleta | Actividad física, deporte, movimiento del cuerpo | Terminar una carrera, una sesión de gym, un partido |
-| Comunidad | Estar con otros, nunca solo en la foto | El parche, una fiesta, una comida grupal |
-| Explorador | Algo nuevo, un lugar distinto, moverse de un lado a otro | Un viaje, un lugar del campus nunca visitado, una ruta nueva |
-| Estética | Expresión personal, estilo, lo visual | Un outfit, un detalle, algo hecho con las manos |
+| Dominio | Se activa con | Ejemplo de categoría del reto | Interés real (encuesta) |
+|---|---|---|---|
+| Comunidad | Estar con otros, nunca solo en la foto | El parche, una fiesta, un festival, explorar la ciudad | **46%** — el dominio dominante |
+| Atleta | Actividad física, deporte, movimiento del cuerpo | Terminar una carrera, una sesión de gym, un partido | 26% |
+| Estética | Expresión personal, estilo, lo visual | Un outfit, un detalle, algo hecho con las manos | 22% |
+| Gamer *(bonus, no pilar)* | Gaming, eSports | Una sesión de juego, un torneo | 6% — real pero chico, no alcanza para ser dominio central hoy |
 
-(Ajustables por Concepto según lo que el grupo piloto realmente vaya a hacer esta noche — lo que no puede cambiar es que ningún dominio exija saber de fotografía. Se activan por lo que la persona *hace*, no por cómo lo fotografía.)
+(Ajustables por Concepto según lo que el grupo piloto realmente vaya a hacer esta noche — lo que no puede cambiar es que ningún dominio exija saber de fotografía. Se activan por lo que la persona *hace*, no por cómo lo fotografía. Comunidad debe tener más categorías/oportunidades de sumar que los demás, porque es donde está casi la mitad del interés real.)
 
 **2. Subir una foto de una categoría suma puntos al dominio correspondiente.** El avatar empieza neutro — sin rasgos marcados — y cada entrega lo va definiendo. Si alguien corre una carrera y sube la foto de la meta, su avatar sube en Atleta. Si además va al parche esa noche, sube en Comunidad. Nadie está obligado a especializarse: el avatar simplemente refleja lo que la persona hizo de verdad.
 
@@ -41,7 +41,7 @@ Al terminar el piloto, cada participante recibe una tarjeta vertical (formato hi
 | Atleta | Equipo y adrenalina | UEFA / fútbol |
 | Comunidad | Constancia y origen | Luis Díaz |
 | Estética | Expresión y disrupción | BabyMonster / K-pop |
-| Explorador | Sin arquetipo fijo — se nombra libremente según lo que muestren sus fotos | — |
+| Gamer | Sin arquetipo fijo — se nombra libremente según lo que muestren sus fotos | — |
 
 3. **La marca, al final, no al principio** — el Reno aparece como la herramienta que hizo posible subir de nivel, no como el motivo de la publicación.
 

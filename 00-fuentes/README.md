@@ -12,6 +12,7 @@ Material original, **sin editar**. Esta carpeta es de solo-agregar: nada se corr
 | **F8** | `2026-08-27-lluvia-de-ideas-equipo.md` | Grabación de la primera sesión del equipo | Transcripción automática, organizada; citas literales |
 | **F9** | `2026-08-27-qa-encargado-oppo.md` | Q&A del equipo con el encargado de OPPO (mentoría) | Transcripción automática con errores; limpiada y organizada por tema |
 | F10 | `2026-08-27-aporte-equipo-segunda-ronda.md` | Segundo aporte de ideas del equipo | Parafraseada |
+| **F11** | `2026-08-27-encuesta-respuestas.xlsx` · analizada en `../02-problema/resultados-encuesta.md` | Respuestas de la encuesta primaria, n=65 | Datos crudos, exportado de Google Forms |
 | F3 | `2026-08-27-transcripcion-charla-oppo.md` | Transcripción de la charla de OPPO | Limpia, **no literal** |
 | F1 | `2026-08-27-nota-manuscrita-sesion-oppo.png` | Nota manuscrita en iPad | Parafraseada |
 | F2 | `2026-08-27-notas-equipo-digital.png` | Notas digitales del equipo | Parafraseada |
@@ -32,7 +33,7 @@ Material original, **sin editar**. Esta carpeta es de solo-agregar: nada se corr
 |---|---|
 | Reglamento del Imagine-a-thon | Duración del pitch, formato de entrega, jurados. Renglón 5 de la rúbrica |
 | Respuesta a P1 (Hasselblad) y P3 (función nueva) | F9 respondió P2 y P4, pero no tocó estas dos |
-| Datos de la encuesta | El 25% de la nota depende de esto |
+| Cruce por universidad (P12) | La encuesta (F11) no incluyó campo de universidad — sigue sin poder validarse |
 
 ## Al agregar una fuente
 
