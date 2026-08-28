@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Tu Reno Wrapped — prototipo</title>
+<link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+<header class="app-header">
+  <h1>Tu Reno Wrapped</h1>
+  <p class="subtitle">Prototipo funcional — esqueleto sin diseño visual final</p>
+</header>
+
+<main class="app-shell">
+
+  <section id="onboarding" class="screen">
+    <h2>Crea tu avatar</h2>
+    <p>Tu avatar empieza neutro. Se va a ir reconstruyendo solo, según los momentos que registres.</p>
+    <form id="onboarding-form">
+      <label for="avatar-name">¿Cómo te llamas?</label>
+      <input type="text" id="avatar-name" name="avatar-name" required placeholder="Tu nombre o alias" />
+      <button type="submit">Crear mi avatar</button>
+    </form>
+  </section>
+
+  <section id="main-screen" class="screen hidden">
+
+    <div class="aod-mock">
+      <p class="aod-label">Así se vería en la Always-On Display del Reno</p>
+      <div class="phone-frame">
+        <div class="phone-screen">
+          <div class="aod-clock" id="aod-clock">--:--</div>
+          <div class="avatar" id="avatar-display">
+            <div class="avatar-shape" id="avatar-shape"></div>
+            <p class="avatar-name" id="avatar-name-display"></p>
+            <p class="avatar-dominant" id="avatar-dominant">Avatar neutro — todavía sin definir</p>
+          </div>
+          <div class="category-bars" id="category-bars"></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="moments-panel">
+      <h2>Registrar un momento</h2>
+      <form id="moment-form">
+        <label for="category-select">Categoría</label>
+        <select id="category-select" name="category" required></select>
+
+        <label for="moment-note">¿Qué pasó? (opcional)</label>
+        <input type="text" id="moment-note" name="moment-note" placeholder="Ej: Salí a correr con el parche" />
+
+        <label for="moment-photo">Foto (opcional)</label>
+        <input type="file" id="moment-photo" name="moment-photo" accept="image/*" />
+        <img id="photo-preview" class="hidden" alt="Vista previa" />
+
+        <label class="checkbox-label">
+          <input type="checkbox" id="reno-station" name="reno-station" />
+          Tomada en la Estación Reno (puntos dobles)
+        </label>
+
+        <button type="submit">Agregar momento</button>
+      </form>
+
+      <h3>Momentos registrados</h3>
+      <ul id="moments-list" class="moments-list"></ul>
+    </div>
+
+    <div class="cycle-controls">
+      <button id="close-cycle-btn">Cerrar ciclo — ver mi Wrapped</button>
+      <button id="reset-btn" class="secondary">Empezar de nuevo</button>
+    </div>
+
+  </section>
+
+  <section id="wrapped-screen" class="screen hidden">
+    <div class="wrapped-card" id="wrapped-card">
+      <p class="wrapped-kicker">Tu Reno Wrapped</p>
+      <h2 id="wrapped-name"></h2>
+
+      <div class="wrapped-stat">
+        <span class="stat-number" id="wrapped-total">0</span>
+        <span class="stat-label">momentos capturados</span>
+      </div>
+
+      <ul class="wrapped-breakdown" id="wrapped-breakdown"></ul>
+
+      <p class="wrapped-evidence" id="wrapped-evidence"></p>
+
+      <div class="wrapped-avatar">
+        <div class="avatar-shape" id="wrapped-avatar-shape"></div>
+        <p id="wrapped-dominant"></p>
+      </div>
+
+      <p class="wrapped-brand">Hecho posible con OPPO Reno</p>
+    </div>
+
+    <div class="share-block">
+      <button id="share-btn">Compartir mi Wrapped</button>
+      <p id="share-feedback" class="hidden"></p>
+    </div>
+
+    <button id="back-to-moments-btn" class="secondary">Volver a registrar momentos</button>
+  </section>
+
+</main>
+
+<footer class="app-footer">
+  <p>Esqueleto funcional — el diseño visual final lo define Mariana Mosquera sobre esta misma estructura.</p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
