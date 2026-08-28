@@ -6,15 +6,15 @@ Vienen de tres fuentes distintas y **ninguna las lista todas**. Esta tabla es la
 
 | # | Entregable | Lo pide | Estado |
 |---|---|---|---|
-| 1 | Insight del estudiante, de **investigación primaria** | F6 p. 37 · F5 | ⏳ Encuesta lista, sin lanzar |
-| 2 | Idea central / concepto creativo y narrativa de marca | F6 p. 37 · F5 | ⏳ |
-| 3 | Mecanismo de participación | F6 p. 37 | ⏳ |
-| 4 | ¿Cómo cobra vida? / estrategia de activación integral **online y offline** | F6 p. 37 · F5 | ⏳ |
-| 5 | Ideas de experiencias y formatos por plataforma (TikTok, Reels, Shorts, presencial, espacios universitarios) | F5 | ⏳ |
-| 6 | **Ruta de implementación y amplificación**: acciones prioritarias, plataformas, formatos, creadores o aliados | F5 | ⏳ |
-| 7 | **Métricas** | F5 | ⏳ |
-| 8 | **Prototipo funcional** | F7, renglón 3 | ⏳ |
-| 9 | Pitch ensayado + recursos de apoyo | F7, renglones 4a y 4b | ⏳ |
+| 1 | Insight del estudiante, de **investigación primaria** | F6 p. 37 · F5 | ✅ Encuesta lanzada y analizada, n=65 (`../03-insights/insights.md`) |
+| 2 | Idea central / concepto creativo y narrativa de marca | F6 p. 37 · F5 | ✅ "Tal Cual" (`guion-pitch.md`) |
+| 3 | Mecanismo de participación | F6 p. 37 | ✅ "Tu Reno Wrapped" (`../04-ideacion/mecanica-reto-wrapped.md`) |
+| 4 | ¿Cómo cobra vida? / estrategia de activación integral **online y offline** | F6 p. 37 · F5 | ✅ Borrador (`guion-pitch.md`, slide 6) |
+| 5 | Ideas de experiencias y formatos por plataforma (TikTok, Reels, Shorts, presencial, espacios universitarios) | F5 | ✅ Borrador (`guion-pitch.md`, slide 7) |
+| 6 | **Ruta de implementación y amplificación**: acciones prioritarias, plataformas, formatos, creadores o aliados | F5 | ✅ Borrador (`guion-pitch.md`, slide 9) — falta decidir DP4 |
+| 7 | **Métricas** | F5 | ✅ Borrador (`guion-pitch.md`, slide 10) |
+| 8 | **Prototipo funcional** | F7, renglón 3 | ⏳ Diseñado, falta correr el piloto de esta noche |
+| 9 | Pitch ensayado + recursos de apoyo | F7, renglones 4a y 4b | ⏳ Guion listo (`guion-pitch.md`), falta ensayar 3 veces |
 
 Los ítems **5, 6 y 7 solo están en el brief oficial** y son los que más se olvidan cuando aprieta el tiempo. El **8 solo está en la rúbrica del jurado** y no lo mencionó nadie de OPPO. Los tres son puntos que se pierden por no haber leído el documento correcto.
 
