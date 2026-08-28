@@ -53,6 +53,8 @@ Este es el insight humano, construido solo con la pregunta de motivación (Q2) y
 
 **Validado con encuesta propia, n=65 (F11).** 74% de los encuestados sí conoce la marca OPPO — más de lo que el equipo asumía. Pero de ese 74%, **42% duda de que su cámara capture los momentos que le importa guardar**. La brecha de credibilidad ya no es una cita de seis personas: es una cifra propia, citable en el pitch. Ver `../02-problema/resultados-encuesta.md`.
 
+**Y no es solo la muestra del equipo.** En foros de tecnología internacionales, usuarios independientes describen el marketing de cámara de OPPO como "exagerado" y cuestionan si las reseñas de YouTubers están sesgadas — la misma brecha de credibilidad, en otro idioma y otro mercado (`investigacion-secundaria.md`).
+
 **Confianza:** alta — ahora con dato primario propio, no solo cualitativo.
 
 ---

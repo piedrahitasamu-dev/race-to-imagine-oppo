@@ -19,6 +19,18 @@ Esto es investigación de fuentes externas (prensa, estudios, sitios de reseñas
 
 No se encontró evidencia de campañas activas de Realme dirigidas a universitarios en Colombia — no es un competidor que haya que responder directamente en el pitch.
 
+## Nueva ronda — respaldo externo al insight principal y a I2 (agosto 2026)
+
+Buscada específicamente para sostener el insight principal ("teme no capturar el momento tal cual lo vive") y la cifra del 42% de duda sobre la cámara, con fuentes fuera de la encuesta propia — foros internacionales, prensa y estudios académicos.
+
+**La duda sobre la cámara de OPPO no es solo colombiana ni solo de esta encuesta.** En foros y comunidades de tecnología en inglés, usuarios describen el marketing de cámara de OPPO como "exagerado", cuestionan si las reseñas de YouTubers sobre sus cámaras están "pagadas o sesgadas", y señalan que **las cifras de venta modestas de sus gama alta reflejan poca confianza real del consumidor pese al marketing**. Esto es evidencia independiente, en un idioma y mercado distintos, de que la brecha de credibilidad de I2 no es un sesgo de la muestra del equipo — es un patrón de percepción de marca más amplio.
+
+**La tendencia de cámaras analógicas/digitales vintage entre la Generación Z confirma directamente el insight principal.** En 2026, las cámaras digitales compactas y de rollo alcanzaron su punto más alto de popularidad entre jóvenes — precisamente por sus imperfecciones (grano, sobreexposición, colores imperfectos), que se perciben como marca de autenticidad frente a los celulares modernos, cada vez "más perfectos y más rápidos". Es la prueba de mercado más directa de que el miedo no es "que la foto no sea técnicamente buena" — es que **no se sienta fiel a como se vivió el momento**. Esto es evidencia externa e independiente del mismo miedo que la encuesta propia detectó con n=65.
+
+**Un matiz académico que hay que usar con cuidado.** Un estudio de Cambridge (Memory, Mind & Media) encontró que compartir fotos en redes sociales **mejora el recuerdo de lo compartido, pero acelera el olvido de lo que no se comparte** — y que los menores de 30 años muestran el doble de caras y etiquetas en sus fotos publicadas que otros grupos. Esto no contradice I13 (82% guarda para sí mismo): sugiere que **dejar que la persona decida qué comparte, sin forzarlo todo público, es lo que protege tanto el recuerdo personal como la opción social** — respalda el diseño de "Tu Reno Wrapped" de dar el avatar como beneficio privado primero, y compartir como opción, no como requisito.
+
+**Lo que no se encontró:** ninguna fuente externa con datos específicos y comparables sobre diferencias de comportamiento digital entre estudiantes de universidades públicas y privadas en Colombia. **S4 sigue sin poder respaldarse con investigación secundaria** — solo la entrevista individual (`guion-entrevista-unica.md`) puede aportar algo, y sería testimonio, no dato.
+
 ## Qué no reemplaza esto
 
 Todo lo anterior es contexto de mercado, no dato del target específico del reto (universitarios colombianos frente a Reno/Bubble). Los insights centrales (I1, I2, I5, I12) siguen dependiendo de la encuesta y las entrevistas para tener el "n real" que pide el brief. Esta investigación secundaria solo evita proponer algo ingenuo o ya derrotado en el mercado.
@@ -36,3 +48,7 @@ Fuentes consultadas (agosto 2026):
 - [glitchmentalMX — Gen Z en 2026, cómo consume redes sociales](https://glitchmental.com/articulos/gen-z-en-2026-como-consume-redes-sociales-ahora/)
 - [Revista Razón y Palabra — tendencias Gen Z: BeReal, Instagram y TikTok](https://www.revistarazonypalabra.org/index.php/ryp/article/view/2076/1888)
 - [UNIMINUTO / CIVIX Colombia — ciudadanía digital Generación Z](https://www.uniminuto.edu/noticias/civix-colombia-y-uniminuto-presentaron-el-primer-estudio-masivo-sobre-ciudadania-digital)
+- [Xataka — la nostalgia de lo no vivido: la Gen Z y las tecnologías retro](https://www.xataka.com/fotografia-y-video/cascos-cables-consolas-portatiles-digicams-que-gen-z-se-ha-enamorado-tecnologias-que-no-vivio)
+- [Vozpópuli — la Generación Z vuelve a los 2000: cámaras digitales como objeto de deseo](https://www.vozpopuli.com/sociedad/la-generacion-z-vuelve-a-los-2000-por-que-las-camaras-digitales-son-el-nuevo-objeto-de-deseo.html)
+- [Cambridge Core — Sharing photographs on social media enhances recollection of photograph-related details](https://www.cambridge.org/core/journals/memory-mind-and-media/article/sharing-photographs-on-social-media-enhances-recollection-of-photographrelated-details/A807F142ACC396DA1138043EF99639EC)
+- Foros de tecnología en inglés (GSMArena, Tom's Guide) — percepción de marketing y credibilidad de cámara OPPO, consultado agosto 2026
