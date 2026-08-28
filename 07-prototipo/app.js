@@ -3,7 +3,7 @@ const STORAGE_KEY = "tuRenoWrapped";
 const CATEGORIES = [
   { id: "social", label: "Social", color: "var(--color-social)", avatar: "avatares/social.png" },
   { id: "deporte", label: "Deporte", color: "var(--color-deporte)", avatar: "avatares/deporte.png" },
-  { id: "creatividad", label: "Creatividad", color: "var(--color-creatividad)", avatar: "avatares/creatividad.png" },
+  { id: "creatividad", label: "Artístico", color: "var(--color-creatividad)", avatar: "avatares/creatividad.png" },
   { id: "innovacion", label: "Creación / Innovación", color: "var(--color-innovacion)", avatar: "avatares/innovacion.png" },
 ];
 
