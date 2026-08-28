@@ -4,6 +4,21 @@ Formato: **"El X% hace esto, porque Y"** — cada frase es autoexplicativa, list
 
 ---
 
+## Resumen — una frase por pilar (objetivo, insight, reto)
+
+**Objetivo — El 75% de los universitarios ya se considera alguien que captura y guarda momentos con fotos, porque es un hábito que ya tienen instalado en su día a día.** *(encuesta propia, n=65)*
+> Respaldo secundario: la Generación Z guarda en promedio hasta 20.000 fotos en su celular (47% lo hace así) y toma 2.5 veces más selfies por semana que los millennials — el celular ya es su archivo de vida.
+
+**Insight — El 42% de los universitarios que conocen OPPO duda de que su cámara capture lo que le importa —sube a 48% entre quienes salen más de fiesta—, porque temen que la foto no sea fiel a lo que vivieron.** *(encuesta propia, n=65/48)*
+> Respaldo secundario: 41% de la Generación Z ya piensa en qué pasará con sus fotos después de morir, contra solo 9% de mayores de 55 años — el apego a que esas fotos sean fieles y se conserven bien es real, no un capricho.
+
+**Reto — El 46% de los universitarios prefiere planes sociales (fiestas, salidas) sobre cualquier otra actividad, por eso el reto gira alrededor de lo social en vez de repartirse igual entre categorías.** *(encuesta propia, n=65)*
+> Respaldo secundario: 52% de la Generación Z dice que quiere más tiempo social presencial — más que viajes, entretenimiento o rutinas de ejercicio.
+
+---
+
+## El resto de los datos, para profundizar cada pilar
+
 ## 1. Por qué el objetivo tiene sentido (no es forzado)
 
 **El 75% de los universitarios ya se considera alguien que captura y guarda momentos con fotos, porque es un hábito que ya tienen instalado en su día a día.** *(encuesta propia, n=65)*
@@ -62,3 +77,4 @@ Fuentes nuevas de esta ronda (agosto 2026):
 - [PetaPixel — Gen Z es cinco veces más propensa a tener un plan para sus fotos después de la muerte](https://petapixel.com/2026/06/01/gen-z-are-five-times-more-likely-to-have-a-plan-for-photos-after-death/)
 - [GEN-ZiNE — La psicología del rollo de cámara](https://www.gen-zine.com/posts/the-psychology-of-the-camera-roll)
 - [Snapbar — UGC para eventos: estrategia, campañas y resultados](https://snapbar.com/blog/user-generated-content-campaigns)
+- [Music Ally — 52% de la Gen Z quiere más tiempo social presencial](https://musically.com/2026/08/04/report-49-of-gen-z-adults-dont-have-enough-friends-to-spend-time-with-in-person/)
