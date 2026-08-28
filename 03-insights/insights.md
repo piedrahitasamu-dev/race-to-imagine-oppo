@@ -210,6 +210,20 @@ También en F9: los diferenciadores frente a Apple no son solo la cámara — **
 
 ---
 
+## I14 — El interés real es abrumadoramente social, no parejo
+
+**Observación.** Encuesta primaria, n=65 (F11): al preguntar por el plan ideal de fin de semana, **46% eligió algo centrado en comunidad** (fiesta y festivales de música, cultura urbana), casi el doble que el segundo lugar, deportes extremos/aire libre (26%). Creación de contenido aesthetic (22%) y gaming (6%) completan la lista.
+
+**Tensión.** Es tentador diseñar los cuatro dominios del avatar como si pesaran igual. El dato dice que no: casi la mitad del interés real vive en un solo dominio.
+
+**Matiz que hay que decir si preguntan:** las opciones ofrecidas eran todas de ocio — no se incluyó ninguna alternativa académica. El hallazgo correcto es "dentro de las formas de pasar el tiempo libre, comunidad gana por mucho", no "nadie quiere estudiar" — la encuesta no comparó eso.
+
+**Implicación.** Comunidad debe tener más categorías y más oportunidades de sumar puntos en el reto que los demás dominios (ya reflejado en `../04-ideacion/mecanica-reto-wrapped.md`), y la activación presencial (piloto de esta noche, estación Reno) debería priorizar contextos sociales/grupales sobre individuales.
+
+**Confianza:** alta en el dato, media en la generalización — n=65 de una encuesta con sesgo de muestra ya documentado en S8.
+
+---
+
 ## Señales sueltas
 
 - El deck **no menciona inversión en pauta** (F6, p. 39), aunque la charla sí (F3). **Confirmado en F9**: no hay presupuesto de pauta específico para esta estrategia. Un plan que asume presupuesto de medios está asumiendo de más.
