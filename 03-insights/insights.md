@@ -2,9 +2,24 @@
 
 Un dato es "OPPO es #4 con 11%". Un insight es qué significa eso para lo que hay que construir.
 
-Fuentes: F1–F4 notas y charla · F5 brief oficial · F6 deck de OPPO · F7 rúbrica de jurados · F8 lluvia de ideas del equipo.
+Fuentes: F1–F4 notas y charla · F5 brief oficial · F6 deck de OPPO · F7 rúbrica de jurados · F8 lluvia de ideas del equipo · F9 Q&A con OPPO · F11 encuesta primaria (n=65).
 
 **Confianza.** Alta = se sostiene con las fuentes. Media = interpretación razonable. Baja = hipótesis nuestra, validar antes de construir encima.
+
+---
+
+## El insight principal (para abrir el pitch)
+
+> **El universitario colombiano no fotografía para mostrarle algo a otros — fotografía para no perderse a sí mismo. Y cuando esa persona sí conoce a OPPO, 4 de cada 10 no le cree la cámara para ese momento tan personal.**
+
+La evidencia, en el mismo formato que pide OPPO ("9 de cada 10 juegan videojuegos → territorio gaming", F3):
+
+- **82% de los encuestados (n=65) fotografía para guardar el recuerdo, no para compartirlo** — solo 1 de 65 dijo que su motivación principal es compartir y conectar (I13, `resultados-encuesta.md`).
+- Cuando se les pregunta, en sus propias palabras, qué es "Make Your Moment", **responden con identidad, no con fotografía ni con producto**: *"ser yo"*, *"vivir tal cual soy"*, *"hacer el momento tuyo"*, *"capturar algo que te identifique"* (verbatims, `resultados-encuesta.md`).
+- OPPO define su propia marca en los mismos términos, sin que se le preguntara por el eslogan: *"un aliado, un compañero, parte de tu estilo de vida"* (F9, I11).
+- Y sin embargo, **de quienes ya conocen la marca (74%), 42% duda de que su cámara capture lo que a ellos les importa guardar** (I2).
+
+**Por qué es el insight que abre el pitch, no uno más de la lista:** conecta los tres pesos más grandes de la nota en una sola frase — el 25% de insights (viene de dato propio, no de opinión), el 20% de diferenciación (nadie más va a tener esta cifra) y el 15% de relevancia Reno (la cámara es exactamente donde está la duda). Y es la razón de fondo de toda la mecánica: si fotografiar es un acto de identidad y no de audiencia, el reto no puede pedir publicar como condición de entrada — tiene que darle a la persona una razón propia para creer, cámara en mano, antes de pedirle que lo comparta. Eso es "Tu Reno Wrapped" (`../04-ideacion/mecanica-reto-wrapped.md`): el avatar es el beneficio personal; compartirlo es la consecuencia, no el precio de entrada.
 
 ---
 
