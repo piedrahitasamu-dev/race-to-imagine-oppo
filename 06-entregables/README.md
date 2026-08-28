@@ -16,6 +16,8 @@ Vienen de tres fuentes distintas y **ninguna las lista todas**. Esta tabla es la
 | 8 | **Prototipo funcional** | F7, renglón 3 | ⏳ Esqueleto funcional en `../07-prototipo/` (sin diseño visual), falta correr el piloto de esta noche |
 | 9 | Pitch ensayado + recursos de apoyo | F7, renglones 4a y 4b | ⏳ Guion listo (`guion-pitch.md`), falta ensayar 3 veces |
 
+**Referencia rápida al armar cualquier slide:** `datos-de-respaldo.md` reúne, en cuatro bloques (objetivo, insight, estrategia, tácticas de mercadeo), todos los datos ya probados con su fuente — para no tener que rebuscar entre `insights.md`, `resultados-encuesta.md` e `investigacion-secundaria.md`.
+
 Los ítems **5, 6 y 7 solo están en el brief oficial** y son los que más se olvidan cuando aprieta el tiempo. El **8 solo está en la rúbrica del jurado** y no lo mencionó nadie de OPPO. Los tres son puntos que se pierden por no haber leído el documento correcto.
 
 El renglón 5 de la rúbrica —*"cumplen con la totalidad de los requerimientos"*, 10 puntos— se gana con esta tabla en verde. Es la nota más barata del reto.

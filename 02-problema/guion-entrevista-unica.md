@@ -15,38 +15,38 @@ Prioridad absoluta: alguien de **universidad pública o fuera de la burbuja del 
 
 ## Bloque 1 — Comportamiento fotográfico (valida I13/S1) — ~4 min
 
-1. Muéstrame la última foto que tomaste. ¿Por qué la tomaste?
-2. ¿La compartiste con alguien o la guardaste para ti?
-3. En general, cuando tomas fotos, ¿es más para guardarlas o para mostrarlas a otros?
+1. Muéstrame la última foto que tomaste. ¿Por qué la tomaste? la ultima foto que me tome fue en el gym y fue porque me gusta tomarme fotos cuando entreno
+2. ¿La compartiste con alguien o la guardaste para ti? solo para mi
+3. En general, cuando tomas fotos, ¿es más para guardarlas o para mostrarlas a otros? mas para guardar, porque me gusta verlas de nuevo o para publicar luego
 
 ## Bloque 2 — El que toma la foto (valida S3, nunca se preguntó en la encuesta) — ~3 min
 
-4. Cuando están en grupo, ¿quién suele tomar la foto? ¿Esa persona sale en las fotos del grupo?
-5. ¿Te ha pasado que quieres estar en la foto, pero terminas siendo tú quien la toma?
+4. Cuando están en grupo, ¿quién suele tomar la foto? ¿Esa persona sale en las fotos del grupo? mi familia, mis amigos, mi novio. es mas fotos con ellos que de ellos
+5. ¿Te ha pasado que quieres estar en la foto, pero terminas siendo tú quien la toma? si me ha pasado, no me gusta eso siempre me gusta estar en la foto.
 
 ## Bloque 3 — Marca y credibilidad (profundiza I2) — ~4 min
 
-6. ¿Qué celular tienes hoy y por qué ese?
-7. ¿Has oído hablar de OPPO? ¿Qué sabes o qué piensas?
+6. ¿Qué celular tienes hoy y por qué ese? iphone 16 plus, porque me gusta iphone por la calidad de la camara y porque estoy acostumbrada a la marca
+7. ¿Has oído hablar de OPPO? ¿Qué sabes o qué piensas? no nada
 8. *(Si conoce la marca)* ¿Confiarías en la cámara de OPPO para capturar un momento importante para ti? ¿Por qué sí o por qué no?
 
 ## Bloque 4 — Identidad y "Make Your Moment" (cruza contra los verbatims de la encuesta) — ~4 min
 
-9. Si tuvieras que definir con tus palabras qué es "crear tu momento" o capturar algo que te representa, ¿qué dirías?
-10. ¿Alguna vez una foto no reflejó lo que realmente viviste en ese momento? Cuéntame qué pasó.
+9. Si tuvieras que definir con tus palabras qué es "crear tu momento" o capturar algo que te representa, ¿qué dirías? me transmite que algo o alguien va a ser algo memorable, pero que uno es el que hace parte del momento osea soy el protagonista
+10. ¿Alguna vez una foto no reflejó lo que realmente viviste en ese momento? Cuéntame qué pasó. si, puede que no me gusto como sali, o porque salio alguien que no queria, o la foto no salio con la calidad que queria.
 
 ## Bloque 5 — El diferenciador: universidad (es la pregunta más importante de toda la entrevista) — ~3 min
 
-11. ¿Sientes que en tu universidad o tu entorno la gente vive esto —fotos, redes, marcas de celular— distinto a como lo viven en otras universidades? ¿En qué se nota?
+11. ¿Sientes que en tu universidad o tu entorno la gente vive esto —fotos, redes, marcas de celular— distinto a como lo viven en otras universidades? ¿En qué se nota? no siento que es igual, en general todos los estudiantes universitarios estan pendientes de las marcas , redes, y en general todos siguen o tienen lo mismo sin importar la universidad
 12. *(Si es de fuera de la burbuja)* ¿Crees que en universidades como los Andes o la Sabana esto se vive diferente? ¿Cómo te imaginas que sería?
 
 ## Bloque 6 — Reacción al concepto "Tu Reno Wrapped" (valida el filtro "¿participarían ustedes?" de `../04-ideacion/criterios-evaluacion.md`) — ~5 min
 
 Explicar en una frase, sin tecnicismos: *"Imagina un reto donde subes fotos de momentos reales tuyos —una fiesta, hacer deporte, algo creativo— y un avatar tuyo se va armando solo, según qué tipo de momentos capturaste. Al final del período te llega algo como el 'resumen del año' de Spotify, pero de tus propios momentos."*
 
-13. ¿Qué te parece? ¿Participarías?
-14. De estas categorías —Social, Deporte, Creatividad, Creación/Innovación— ¿cuál te representa más? ¿Falta alguna que sea importante para ti?
-15. ¿Compartirías esa tarjeta final con tus amigos? ¿Por qué sí o por qué no?
+13. ¿Qué te parece? ¿Participarías?  me parece interesante que el punto es que los amigos de uno lo puedan hacer, y si participaria.
+14. De estas categorías —Social, Deporte, Creatividad, Creación/Innovación— ¿cuál te representa más? ¿Falta alguna que sea importante para ti? me representa mas deportes . no añadiria una nueva
+15. ¿Compartirías esa tarjeta final con tus amigos? ¿Por qué sí o por qué no? si lo compartiria, pero con personas como mis amigos o familia, me parece divertido, me gusta mostrar que hice 
 
 ## Cierre — ~1 min
 
