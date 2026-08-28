@@ -51,4 +51,6 @@ Fuentes consultadas (agosto 2026):
 - [Xataka — la nostalgia de lo no vivido: la Gen Z y las tecnologías retro](https://www.xataka.com/fotografia-y-video/cascos-cables-consolas-portatiles-digicams-que-gen-z-se-ha-enamorado-tecnologias-que-no-vivio)
 - [Vozpópuli — la Generación Z vuelve a los 2000: cámaras digitales como objeto de deseo](https://www.vozpopuli.com/sociedad/la-generacion-z-vuelve-a-los-2000-por-que-las-camaras-digitales-son-el-nuevo-objeto-de-deseo.html)
 - [Cambridge Core — Sharing photographs on social media enhances recollection of photograph-related details](https://www.cambridge.org/core/journals/memory-mind-and-media/article/sharing-photographs-on-social-media-enhances-recollection-of-photographrelated-details/A807F142ACC396DA1138043EF99639EC)
+- [Samsung Newsroom Colombia — la cámara, la característica que más tienen en cuenta los usuarios](https://news.samsung.com/co/camara-la-caracteristica-que-mas-tienen-en-cuenta-los-usuarios-a-la-hora-de-comprar-un-smartphone)
+- [Infobae — qué cámaras usan los creadores de contenido en redes sociales](https://www.infobae.com/tecno/2023/04/28/que-camaras-usan-los-creadores-de-contenido-en-sus-redes-sociales/)
 - Foros de tecnología en inglés (GSMArena, Tom's Guide) — percepción de marketing y credibilidad de cámara OPPO, consultado agosto 2026

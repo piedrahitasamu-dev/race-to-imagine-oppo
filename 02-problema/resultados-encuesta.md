@@ -48,6 +48,18 @@ La mayoría de las respuestas, sin que se les sugiriera, hablan de **libertad, i
 
 Dos respuestas discordantes, honestas y útiles de citar como riesgo: *"No entiendo muy bien el slogan, siento que no tiene sentido, únicamente suena bonito"* y *"Ni idea"*. El eslogan solo no basta — tiene que sentirse ganado con una acción (el reto), no solo dicho.
 
+## Cruces adicionales — cifras que no se habían mirado
+
+Volviendo a los datos crudos para ver qué respalda mejor el objetivo (que el universitario sienta que el Reno es su aliado para capturar momentos importantes) y el insight principal. Dos cruces son genuinamente útiles; el resto se descarta por muestra demasiado chica para decir algo serio.
+
+**El hallazgo más fuerte: la duda sobre la cámara es más alta justo en la categoría que más nos importa.** Entre quienes eligieron "Fiesta y festivales" como su plan ideal (n=28 — nuestra categoría **Social**, la dominante con 46% de interés real), **89% conoce a OPPO** — más que el promedio general (74%) — pero de esos, **48% duda de que la cámara capture lo que le importa**, por encima del 42% general. Es decir: el segmento más grande y más importante del reto (Social) es también el más escéptico de la cámara, no uno neutral. Esto no es ruido de muestra chica — n=28 es más del 40% de toda la encuesta.
+
+**Por qué tiene sentido, con respaldo externo:** un estudio de Samsung Colombia encontró que **45% de los compradores dice que la cámara es la característica más importante** al elegir celular, y la evidencia de foros de tecnología muestra que **los usuarios activos en redes sociales y creadores de contenido son los más críticos con la calidad de cámara** — exactamente el perfil de quien va a fiestas/festivales y publica seguido. No es casualidad que la Social dude más: es quien más exige.
+
+**Implicación directa para la mecánica:** la estación Reno (`../04-ideacion/mecanica-reto-wrapped.md`) no puede ser un anexo opcional — tiene que estar particularmente presente en la categoría Social, porque ahí es donde más se necesita resolver la duda, no donde menos.
+
+**Segundo hallazgo, con muestra pequeña (n=11, tratar con cautela):** dentro de la propia encuesta, quienes están en **estrato 2–3 conocen más a OPPO (91%)** que quienes están en estrato 4–6, como el círculo del equipo (72%). Es exactamente lo contrario de lo que el equipo asumía sobre sí mismo — refuerza I5/I12: la burbuja del equipo no solo es un sesgo de muestra, es también, dentro de los propios datos, el segmento que menos conoce la marca. El n es chico (11 personas) para presentarlo como dato fuerte, pero sí es un matiz honesto para mencionar si preguntan por la burbuja en el pitch.
+
 ## Composición de la muestra — leer antes de citar cualquier cifra
 
 - **Género:** 65% mujeres (42/65), 35% hombres (23/65). Sesgada hacia mujeres.

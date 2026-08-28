@@ -29,6 +29,8 @@ Se usan las mismas familias que salieron en la encuesta primaria (n=65, `../02-p
 
 Social debe tener más oportunidades de sumar que las demás en el diseño del reto, porque es donde está casi la mitad del interés real medido.
 
+**La estación Reno tiene que priorizar Social, no repartirse pareja (Fase 1 de implementación, no esta noche — ver D6).** Cruzando la encuesta por categoría (`../02-problema/resultados-encuesta.md`): entre quienes se identifican con Social, 89% conoce a OPPO pero **48% duda de la cámara** — más que el 42% general. Es la categoría más grande y también la más escéptica. Poner ahí la estación Reno (Pop Camera/Pop Out, puntos dobles) no es solo consistente con el peso de Social — es donde más se necesita resolver la duda.
+
 ## El avatar
 
 - **Empieza neutro** — sin rasgos, sin vestimenta definida, sin color dominante.

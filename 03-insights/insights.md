@@ -57,6 +57,8 @@ Este es el insight humano, construido solo con la pregunta de motivación (Q2) y
 
 **Y no es solo la muestra del equipo.** En foros de tecnología internacionales, usuarios independientes describen el marketing de cámara de OPPO como "exagerado" y cuestionan si las reseñas de YouTubers están sesgadas — la misma brecha de credibilidad, en otro idioma y otro mercado (`investigacion-secundaria.md`).
 
+**Y la duda es más alta justo donde más importa.** Cruzando la encuesta por categoría de interés (`../02-problema/resultados-encuesta.md`): entre quienes eligieron fiesta/festivales (n=28 — la categoría Social, la dominante con 46% de interés real), 89% conoce a OPPO pero **48% duda de la cámara**, por encima del 42% general. La categoría que más pesa en la mecánica es también la más escéptica — con respaldo externo: un estudio de Samsung Colombia dice que 45% de compradores prioriza la cámara al elegir celular, y los usuarios activos en redes son los más críticos con la calidad de imagen. Por eso la estación Reno (`../04-ideacion/mecanica-reto-wrapped.md`) tiene que estar presente sobre todo en Social, no como anexo parejo entre categorías.
+
 **Confianza:** alta — ahora con dato primario propio, no solo cualitativo.
 
 ---
