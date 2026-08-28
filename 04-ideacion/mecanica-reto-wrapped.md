@@ -1,59 +1,72 @@
 # Mecánica del reto: "Tu Reno Wrapped"
 
-Esto es el cierre de B4: no solo qué categorías tiene el reto, sino **cómo se puntúa** y **qué recibe cada participante al final**. Aporte del equipo: un avatar que sube de nivel según el tipo de momentos que cada quien fotografía, y que cierra con una tarjeta tipo Wrapped que asocia a cada quien con un ídolo/referente.
+Modelo tipo Spotify Wrapped: un avatar que se construye solo, a partir de las fotos que la persona ya toma, y que se revela al cierre de un ciclo. Esta es la versión final, después de dos rondas de ajuste del equipo.
 
-> Revisión: la primera versión de este documento proponía que una persona del equipo juzgara a mano qué tan "coherente" era cada participante. La idea del avatar la reemplaza por algo mejor: la coherencia deja de ser una opinión y pasa a ser un número que se calcula solo.
+> Revisión: la versión anterior puntuaba dominios elegidos a mano y cerraba con arquetipos ligados a embajadores de OPPO (Luis Díaz, BabyMonster, UEFA). El equipo decidió explícitamente **quitar las comparaciones con famosos** — el avatar es 100% personal — y mover el motor de "el usuario elige categoría" a "el sistema infiere del contenido de la foto".
 
-## Por qué un avatar y no "la mejor foto"
+## Cómo funciona, de fondo
 
-Si el reto premia la foto más linda o más viral, vuelve a caer en lo que I4 ya advirtió: gana quien ya sabe de fotografía, y el resto mira. Un avatar que sube de nivel por **hacer cosas**, no por tomarlas bien, es una mecánica que cualquiera puede jugar sin saber de encuadre ni de luz. Y da algo que la coherencia juzgada a mano no daba: **retroalimentación inmediata** — cada foto que subes hace algo que ves al momento, no hasta el final del reto. Es el mismo principio de research que ya usamos con Spotify Wrapped y Duolingo: gamificación con identidad, no solo puntos sueltos.
+**El motor es análisis de fotos, no auto-categorización.** El usuario no elige una categoría cada vez que sube algo — sube el momento, y el sistema (a escala, con IA; esta noche, el equipo a mano) analiza qué muestra esa foto y reconstruye el avatar en consecuencia. La persona no está jugando a puntuar categorías; está viviendo su semestre y el avatar se arma solo con lo que ya hizo.
 
-## Cómo funciona
+**Cadencia real: anual, como Spotify Wrapped.** El "drop" —el resumen del avatar y los momentos más especiales del período— sale al cierre del ciclo (un año, o un semestre si se quiere más frecuencia universitaria), y ahí la persona decide si lo comparte. **El piloto de esta noche es una simulación comprimida de ese ciclo en un par de horas** — hay que decirlo así en el pitch: esto no es el producto de una noche, es el año completo corrido rápido para poder mostrarlo hoy.
 
-**1. Categorías del reto = dominios del avatar.** Cada categoría del reto no es solo "una foto más" — alimenta una estadística específica del avatar. Los dominios y su peso están calibrados con la encuesta primaria real (n=65, `../02-problema/resultados-encuesta.md`), no con intuición:
+**Objetivo del sistema: capturar la mayor cantidad de momentos posible.** Entre más fotos suba alguien durante el ciclo, más rico y más preciso es su avatar — el sistema premia volumen de captura real, no una sola foto perfecta.
 
-| Dominio | Se activa con | Ejemplo de categoría del reto | Interés real (encuesta) |
+## Las categorías
+
+Se usan las mismas familias que salieron en la encuesta primaria (n=65, `../02-problema/resultados-encuesta.md`), no categorías inventadas:
+
+| Categoría | Qué cubre | Interés real (encuesta) | Ejemplo esta noche (piloto) |
 |---|---|---|---|
-| Comunidad | Estar con otros, nunca solo en la foto | El parche, una fiesta, un festival, explorar la ciudad | **46%** — el dominio dominante |
-| Atleta | Actividad física, deporte, movimiento del cuerpo | Terminar una carrera, una sesión de gym, un partido | 26% |
-| Estética | Expresión personal, estilo, lo visual | Un outfit, un detalle, algo hecho con las manos | 22% |
-| Gamer *(bonus, no pilar)* | Gaming, eSports | Una sesión de juego, un torneo | 6% — real pero chico, no alcanza para ser dominio central hoy |
+| **Social** | Fiestas, conciertos, salidas, parche | 43% + cultura urbana ≈ 46% — la dominante | Foto grupal donde el que toma la foto también sale (T1) |
+| **Deporte** | Actividad física | 26% | Un reto físico de un minuto, un estiramiento, lo que sea posible en el lugar |
+| **Creatividad** | Creación de contenido | 22% | Un detalle del outfit, algo creado en el momento, o una foto en la estación Reno con Pop Camera/Pop Out |
+| **Creación/Innovación** | Proyectos propios — y también lo académico o laboral | *(no medida en la encuesta — extensión del equipo)* | Algo en lo que la persona esté trabajando/construyendo esa noche |
 
-(Ajustables por Concepto según lo que el grupo piloto realmente vaya a hacer esta noche — lo que no puede cambiar es que ningún dominio exija saber de fotografía. Se activan por lo que la persona *hace*, no por cómo lo fotografía. Comunidad debe tener más categorías/oportunidades de sumar que los demás, porque es donde está casi la mitad del interés real.)
+**Honestidad para el pitch:** las primeras tres tienen n=65 detrás. La cuarta (Creación/Innovación) es una categoría que el equipo agregó para cubrir una parte de la vida universitaria que la encuesta no preguntó — no hay que presentarla como si tuviera el mismo respaldo de dato.
 
-**2. Subir una foto de una categoría suma puntos al dominio correspondiente.** El avatar empieza neutro — sin rasgos marcados — y cada entrega lo va definiendo. Si alguien corre una carrera y sube la foto de la meta, su avatar sube en Atleta. Si además va al parche esa noche, sube en Comunidad. Nadie está obligado a especializarse: el avatar simplemente refleja lo que la persona hizo de verdad.
+Social debe tener más oportunidades de sumar que las demás en el diseño del reto, porque es donde está casi la mitad del interés real medido.
 
-**3. Coherencia deja de ser una opinión — se calcula.** En vez de que alguien del equipo juzgue "qué tan coherente" es una persona, la coherencia es un número: qué tan concentrados están los puntos de alguien en uno o dos dominios frente al total. Alguien con la mayoría de sus puntos en Atleta es un avatar "de identidad marcada"; alguien con puntos parejos entre los cuatro dominios es un avatar "explorando" — ninguno de los dos es mejor, pero el sistema puede nombrarlo sin que nadie tenga que decidirlo a mano. Esto es exactamente lo que se necesitaba para que fuera piloteable esta noche: un conteo simple, no un juicio de valor.
+## El avatar
 
-**4. La estación Reno da puntos dobles.** Cualquier foto tomada en la estación Reno (usando Pop Camera o Pop Out) suma el doble al dominio que corresponda — así la relevancia del producto (15% de la nota) queda dentro del juego mismo, y no depende solo del nombre en la campaña.
+- **Empieza neutro** — sin rasgos, sin vestimenta definida, sin color dominante.
+- **Se reconstruye con lo que la persona hace**, no con lo que elige de un menú. Si durante el ciclo la mayoría de sus fotos caen en Deporte, el avatar termina con una apariencia/vestimenta que refleja eso; si es Creatividad, otra distinta. La lógica es "te lo adapta a como fuiste", no "elegiste un personaje".
+- **Cero comparaciones con famosos o embajadores de marca.** Es un rechazo explícito del equipo a la versión anterior — el avatar es del usuario, no un personaje prestado.
+- **Para esta noche**, sin IA real: el equipo mira las fotos entregadas y ajusta a mano la apariencia del avatar en el tablero (un accesorio, un color, un ícono que se le va agregando) según la categoría dominante hasta ese momento — es el prototipo humano de lo que el modelo haría solo.
 
-**Para esta noche (12–20 personas), sin app real:** un tablero visible (papel o una hoja compartida) con el nombre de cada participante y una barra por dominio que se rellena a mano cada vez que alguien entrega una foto. Es lento de escribir pero instantáneo de mostrar — y es exactamente la parte del prototipo que se ve y se fotografía para el pitch.
+## El Wrapped de cierre y el incentivo de compartir
 
-## El Wrapped de cierre
+Al cerrar el ciclo (esta noche: al cerrar el piloto), cada participante recibe su tarjeta:
 
-Al terminar el piloto, cada participante recibe una tarjeta vertical (formato historia, pensada para compartir) con tres partes:
+1. **La evidencia**, en sus propios momentos: cuántas fotos, en qué categorías, cuál dominó.
+2. **Cómo quedó su avatar** — la versión final, ya adaptada.
+3. **La marca al final, no al principio** — el Reno como la herramienta que lo hizo posible.
 
-1. **La evidencia**, en números de su propio avatar: *"Terminaste el reto con el doble de puntos en Atleta que en cualquier otro dominio."*
-2. **El nombre del arquetipo**, asignado según el dominio dominante, construido con los activos que OPPO ya pagó y no está usando con este público (I1):
+**Nuevo — compartir da puntos extra.** Quien comparte su Wrapped (públicamente, no solo lo guarda) recibe puntos adicionales en una escala (el equipo propuso algo tipo 1–10, según qué tan público es el compartir — a definir el detalle exacto), y esos puntos dan elegibilidad para premios, cuyo diseño se define después. Esto le da a compartir un motivo explícito, más allá de las ganas de mostrarlo — y el precedente (Spotify Wrapped: 500 millones de veces compartido en 24 horas en 2025) muestra que el formato ya genera esa intención por sí solo; el punto extra es amplificarla, no crearla de la nada.
 
-| Dominio dominante | Arquetipo | Se conecta con |
+**Regla no negociable, sin cambios:** nunca se le dice a la persona quién es "según" su avatar antes de mostrarle la evidencia — primero los datos de lo que hizo, después el resultado.
+
+## Dónde vive el avatar (fricción mínima)
+
+El usuario pidió resolver esto con investigación, no con intuición. Tres opciones comparadas:
+
+| Opción | A favor | En contra |
 |---|---|---|
-| Atleta | Equipo y adrenalina | UEFA / fútbol |
-| Comunidad | Constancia y origen | Luis Díaz |
-| Estética | Expresión y disrupción | BabyMonster / K-pop |
-| Gamer | Sin arquetipo fijo — se nombra libremente según lo que muestren sus fotos | — |
+| **Always-On Display (AOD) del Reno** | ColorOS ya permite personalizar la AOD con mensajes, gradientes y estilos de reloj — el avatar encaja en ese patrón sin pedirle nada nuevo al sistema operativo. Se ve **cada vez que uno mira el celular, sin abrir nada** — cero fricción real | Depende de que la persona tenga la AOD activada; consume algo de batería |
+| **Widget de pantalla de inicio** | Patrón ya validado: el widget de Duolingo subió el compromiso diario **60%** solo por estar visible sin abrir la app | Requiere que la persona lo agregue a su pantalla de inicio — un paso de fricción que la AOD no tiene |
+| **El Bubble como pantalla opcional** | Es una superficie física, visible para otros, no solo para el usuario — el avatar deja de ser privado y se vuelve algo que se lleva puesto y se le muestra a la gente, si la persona quiere | No todos tienen Bubble; debe ser opcional, nunca el único lugar donde vive el avatar |
 
-3. **La marca, al final, no al principio** — el Reno aparece como la herramienta que hizo posible subir de nivel, no como el motivo de la publicación.
+**Recomendación: AOD como superficie principal** — es la de menor fricción real (no requiere ninguna acción del usuario más que tener el AOD prendido) y es, además, relevancia de producto pura: nadie más va a proponer usar una función nativa de OPPO como el lugar donde vive la mecánica central del reto. **Widget de home screen como respaldo** para quien no use AOD. **El Bubble queda como capa social opcional** — no reemplaza a las otras dos, es para quien quiera mostrar su avatar a otros, no solo verlo él mismo.
 
-**Regla no negociable:** el arquetipo se nombra *después* de mostrar la evidencia numérica, nunca antes. Si a alguien le toca un arquetipo que no le calza, se ajustan los dominios, no se fuerza a la persona — la Gen Z detecta lo fabricado casi al instante (ver `investigacion-secundaria.md`), y una asociación forzada rompe la mecánica entera.
+**Para esta noche (piloto sin app real):** el tablero físico hace de "AOD" — un lugar visible y compartido donde el avatar de cada quien se actualiza en vivo. Quien quiera "compartir" puede tomarle foto a su tarjeta Wrapped final, simulando el gesto de compartir que en la app real da los puntos extra.
 
-## Cómo escala (más allá de esta noche)
+## Cómo escala
 
-Hoy el tablero de puntos se lleva a mano — es el prototipo manual de algo trivial de automatizar: sumar puntos por categoría no necesita inteligencia artificial, solo que la app sepa a qué categoría corresponde cada entrega. Donde sí entra la IA nativa del Reno (F9: ya traduce, resume, describe imágenes) es en hacer más rico el Wrapped final — por ejemplo, generando la frase de evidencia a partir de las fotos reales en vez de un texto genérico. El roadmap puede decir, honestamente: *"hoy el conteo es manual y la tarjeta la arma el equipo; mañana el conteo lo hace la app sola, y el modelo on-device del teléfono arma la tarjeta"* — es una historia de producto que escala con el uso, no solo de campaña, y responde directo al 20% de viabilidad e impacto.
+Hoy el análisis de fotos y la actualización del avatar los hace el equipo a mano — es el prototipo manual de un modelo de clasificación de imágenes, algo que la IA nativa del Reno ya hace en otras tareas (traduce, resume, describe imágenes — F9). El roadmap puede decir, honestamente: *"hoy el equipo mira las fotos y arma el avatar; mañana el modelo on-device del propio teléfono lo hace solo, en tiempo real, y lo muestra en la AOD sin que nadie tenga que abrir una app."*
 
 ## Contra los filtros de `criterios-evaluacion.md`
 
-- **¿Prototipo funcional?** Sí — el tablero de avatar corre esta noche a escala pequeña y es visible/fotografiable para el pitch.
-- **¿Nace de insight con dato?** Sí — I1 (identidad) y la investigación de hoy (identidad > participación vacía, gamificación con retroalimentación inmediata).
-- **¿Participarían ustedes?** Ver el propio avatar subir de nivel en tiempo real, con una tarjeta de identidad al final, es precisamente el tipo de cosa que la gente juega y comparte por gusto (precedente: Duolingo, Spotify Wrapped).
-- **¿Se cae sin el Reno?** No — la estación Reno da puntos dobles dentro del juego mismo, no es un anexo.
+- **¿Prototipo funcional?** Sí — el tablero simula el ciclo completo (categorías → avatar → Wrapped → compartir) esta noche, comprimido.
+- **¿Nace de insight con dato?** Sí — I13/I14 (motivación e interés real, n=65) definen las categorías; el insight principal (miedo a no capturar el momento tal cual se vivió) es lo que el avatar resuelve al reconstruir con evidencia real, no con opinión.
+- **¿Participarían ustedes?** Ver el propio avatar cambiar solo, sin esfuerzo de categorizar nada, y poder mostrarlo en la AOD sin abrir una app, es más parecido a algo que la gente ya ama (Spotify Wrapped) que a un concurso.
+- **¿Se cae sin el Reno?** No — la AOD personalizable es una función real y específica de ColorOS, no genérica de cualquier celular.

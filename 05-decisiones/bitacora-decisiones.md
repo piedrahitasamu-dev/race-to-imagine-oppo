@@ -57,6 +57,17 @@ Cada decisión que cambie el rumbo. Sirve para que nadie reabra lo ya cerrado, y
 
 ---
 
+### D4 — El avatar es 100% personal, sin comparaciones con famosos
+
+- **Fecha:** 2026-08-27
+- **Decidimos:** quitar la asociación del avatar con embajadores de OPPO (Luis Díaz, BabyMonster, UEFA) que tenía la primera versión de "Tu Reno Wrapped", y cambiar el motor de "el usuario elige categoría" a "el sistema infiere del contenido de la foto" — modelo tipo Spotify Wrapped, con cadencia anual (el piloto de esta noche simula ese ciclo comprimido). Categorías pasan a ser las mismas de la encuesta (Social, Deporte, Creatividad) más Creación/Innovación, agregada por el equipo.
+- **Alternativas:** mantener los arquetipos de marca para reforzar los activos de OPPO; mantener la auto-categorización manual del usuario.
+- **Por qué esta:** un arquetipo forzado ligado a un famoso arriesga sentirse fabricado — la Gen Z lo detecta casi al instante (`investigacion-secundaria.md`) — y el avatar deja de sentirse propio si se lo asocian con alguien más. El modelo de análisis pasivo también es más fiel al insight principal: reconstruir el momento tal cual se vivió, no como el usuario decide etiquetarlo.
+- **Qué la revertiría:** que en el piloto de esta noche los participantes pidan explícitamente una referencia o comparación al recibir su avatar.
+- **Quién estuvo:** —
+
+---
+
 ## Tensión nueva sin resolver — perfil socioeconómico de la muestra
 
 F9 (Q&A con OPPO) introdujo algo que ningún documento oficial anterior decía: el alcance es nacional, pero el Reno **"es para estratos altos… muy Andes, Sabana"** — el mismo perfil del que el equipo se quería alejar al diseñar la encuesta (I5, D2). No se resuelve solo: hay que decidir en equipo cómo pesar la muestra.

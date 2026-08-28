@@ -33,7 +33,7 @@ Este es el insight humano, construido solo con la pregunta de motivación (Q2) y
 
 **Implicación.** La pregunta oficial (F5) no menciona la fotografía: pregunta cómo comunicarse *"de una forma auténtica"*. La palabra es auténtica, y una marca que cambia de piel cada campaña no puede serlo. La propuesta ganadora probablemente no es una campaña — es **decidir qué es OPPO para un universitario colombiano** y que la campaña sea la consecuencia. Eso responde el 25% de insights y el 20% de diferenciación al mismo tiempo.
 
-**Resolución concreta (`04-ideacion/mecanica-reto-wrapped.md`).** En vez de que la marca defina su identidad y se la imponga al estudiante, la mecánica invierte el problema: cada participante construye su propia identidad coherente durante el reto, y OPPO le presta el lenguaje visual de sus propios embajadores ya pagados (Luis Díaz, BabyMonster/K-pop, UEFA) para nombrarla en un momento tipo Wrapped. La marca deja de saltar sin identidad porque deja de ser ella la que tiene que decidir sola quién es — se lo muestra a través de cada usuario.
+**Resolución concreta (`04-ideacion/mecanica-reto-wrapped.md`).** En vez de que la marca defina su identidad y se la imponga al estudiante, la mecánica invierte el problema: el avatar de cada participante se reconstruye solo, a partir de sus propias fotos, sin comparaciones con embajadores ni famosos (decisión D4, `05-decisiones/bitacora-decisiones.md`) — es 100% personal. La marca deja de saltar sin identidad porque deja de ser ella la que tiene que decidir sola quién es — el momento de identidad se lo queda cada usuario, y OPPO es la herramienta que lo hizo posible, no el protagonista del resultado.
 
 **Confianza:** alta.
 

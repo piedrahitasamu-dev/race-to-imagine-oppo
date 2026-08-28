@@ -48,9 +48,9 @@ Una sola idea: en vez de pedirle al universitario que fotografíe mejor, se le d
 Resumen visual del reto (detalle completo en `../04-ideacion/mecanica-reto-wrapped.md`):
 
 1. Cada quien tiene un **avatar** que empieza neutro.
-2. Las categorías del reto suman puntos a un dominio — **Comunidad, Atleta, Estética** (pesos calibrados con la encuesta real: 46% / 26% / 22%, I14), con **Gamer** como categoría bonus.
+2. El sistema analiza las fotos y las agrupa por categoría — **Social, Deporte, Creatividad** (pesos calibrados con la encuesta real: 46% / 26% / 22%, I14), más **Creación/Innovación** (académico/laboral, agregada por el equipo, sin dato de encuesta). El usuario no elige categoría; el avatar se reconstruye solo con lo que sube.
 3. Al menos una foto se toma en la **estación Reno**, con Pop Camera o Pop Out — puntos dobles.
-4. Al cerrar, cada participante recibe su **tarjeta Wrapped**: evidencia de sus propias fotos → arquetipo (Luis Díaz / BabyMonster-K-pop / UEFA) → la marca al final, no al principio.
+4. Al cerrar, cada participante recibe su **tarjeta Wrapped**: evidencia de sus propias fotos → cómo quedó su avatar (100% personal, sin comparaciones con famosos) → la marca al final, no al principio.
 
 **Por qué resuelve el miedo de la slide 1:** el avatar es prueba, no promesa — muestra con datos propios que ese momento sí quedó como lo vivió, y no depende de publicarlo para tener valor (82% de la slide 2 lo pide así).
 
@@ -64,7 +64,7 @@ Resumen visual del reto (detalle completo en `../04-ideacion/mecanica-reto-wrapp
 
 ## 7 — Formatos por plataforma
 
-- **TikTok / Reels / Shorts:** el momento del "reveal" del Wrapped (formato ya validado por Spotify Wrapped) — la reacción real de alguien viendo su propio arquetipo es el contenido, no un anuncio.
+- **TikTok / Reels / Shorts:** el momento del "reveal" del Wrapped (formato ya validado por Spotify Wrapped) — la reacción real de alguien viendo cómo quedó su propio avatar es el contenido, no un anuncio.
 - **Presencial:** estación Reno en eventos donde ya está la Comunidad (fiestas, festivales, cultura urbana — I14), no en el salón de clase.
 - **Espacios universitarios:** carteleras y colectivos como canal de convocatoria (I9: el campus convoca, pero el momento pasa afuera) — la activación en sí no vive ahí.
 
@@ -74,7 +74,7 @@ Resumen visual del reto (detalle completo en `../04-ideacion/mecanica-reto-wrapp
 
 - Cuántas personas participaron.
 - Fotos reales del tablero de avatar en vivo.
-- 1–2 tarjetas Wrapped reales, con la evidencia y el arquetipo.
+- 1–2 tarjetas Wrapped reales, con la evidencia y el avatar final.
 - Si hay tiempo: una foto/cita de alguien probando la estación Reno.
 
 ## 9 — Ruta de implementación y amplificación
@@ -94,7 +94,7 @@ Cada fase usa solo recursos que OPPO **ya confirmó** que puede dar (F6 p.39; si
 
 | Criterio que mueve | Métrica | Cómo se mide |
 |---|---|---|
-| Participación (20%) | Participantes, fotos subidas por dominio, tasa de finalización del reto | Tablero del piloto → app a escala |
+| Participación (20%) | Participantes, fotos subidas por categoría, tasa de finalización del reto | Tablero del piloto → app a escala |
 | Preferencia de marca | # de personas que probaron el Reno en la estación | Conteo directo en la estación Reno |
 | Credibilidad (I2) | Cambio en la duda de la cámara, antes/después de participar | Pregunta corta post-piloto, comparable contra el 42% base |
 | Amplificación | Alcance y compartidos de las tarjetas Wrapped | Nativo de la plataforma donde se publiquen |
