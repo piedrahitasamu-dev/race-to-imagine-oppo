@@ -79,6 +79,18 @@ Cada decisión que cambie el rumbo. Sirve para que nadie reabra lo ya cerrado, y
 
 ---
 
+### D6 — Bajar la ambición del prototipo de "piloto con gente real" a "demo navegable"
+
+- **Fecha:** 2026-08-27
+- **Decidimos:** por restricción real de tiempo, no se va a reclutar un grupo piloto ni se va a contar con un Reno físico para presentar. Se reemplaza el "nivel fuerte" de prototipo que proponía `../PLAN-24H.md` (mecánica corriendo con gente real) por el "nivel medio" de esa misma tabla: un prototipo de software navegable (`../07-prototipo/`), demostrado en vivo durante el pitch. Se complementa con **una entrevista individual** de validación cualitativa, en vez de las 6–8 entrevistas de intercepción originalmente planeadas — ojalá con alguien fuera de la burbuja del equipo, para aportar al menos un testimonio sobre S4.
+- **Alternativas consideradas:** forzar un mini-piloto exprés con quien esté disponible en el lugar del evento; presentar solo mockups en el deck (nivel débil).
+- **Por qué esta:** un prototipo de software funcional real sigue calificando como "prototipo funcional" en la rúbrica del jurado (F7, renglón 3) si se demuestra en vivo, y es más honesto que forzar un piloto de mala calidad solo para decir que hubo uno.
+- **Consecuencia directa:** P1 y P3 (`02-problema/preguntas-abiertas.md`) quedan cerradas sin respuesta — ya no hay ventana para preguntarle nada más a OPPO. El pitch no debe asumir ni Hasselblad en el Reno ni autorización de una función nueva.
+- **Qué la revertiría:** que aparezca tiempo o un dispositivo Reno de último momento antes del pitch.
+- **Quién estuvo:** —
+
+---
+
 ## Tensión nueva sin resolver — perfil socioeconómico de la muestra
 
 F9 (Q&A con OPPO) introdujo algo que ningún documento oficial anterior decía: el alcance es nacional, pero el Reno **"es para estratos altos… muy Andes, Sabana"** — el mismo perfil del que el equipo se quería alejar al diseñar la encuesta (I5, D2). No se resuelve solo: hay que decidir en equipo cómo pesar la muestra.
@@ -90,7 +102,7 @@ F9 (Q&A con OPPO) introdujo algo que ningún documento oficial anterior decía: 
 | # | Qué hay que decidir | Bloquea | Fuente |
 |---|---|---|---|
 | DP1 | Qué territorio se toma (T1 a T6) | Toda la ideación | `04-ideacion/lluvia-de-ideas.md` |
-| DP7 | **Qué se piloteará esta noche** | El prototipo funcional, 10 pts | `PLAN-24H.md` |
+| DP7 | ~~Qué se piloteará esta noche~~ — **resuelto por D6**: no hay piloto, es demo de software + una entrevista individual | El prototipo funcional, 10 pts | D6 |
 | DP8 | Si se incluye concurso de fotografía, ahora que sabemos que es opcional y bienvenido | Estructura de la mecánica | I4, F9 |
 | DP3 | Eje Luis Díaz/UEFA o eje Y2K/K-pop — o cuál es núcleo y cuál canal | Tono de toda la campaña | I1 |
 | DP4 | Si la RSE de La Guajira entra en la propuesta | 20% de viabilidad e impacto | I10 |

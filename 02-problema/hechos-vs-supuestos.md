@@ -22,7 +22,7 @@ Cosas que el equipo daba por ciertas y que los documentos oficiales desmienten. 
 |---|---|---|---|
 | C1 | Reno 16 = $2.299.000 (F1, F4) | Reno 16 = $2.999.000 (F2) | Es un **rango**, según configuración (F3). Usar el rango |
 | C2 | "Inspirar por medio de la tecnología **con el fútbol**" (F2) | El territorio es la **fotografía** (F6) | Contradicción real de ejes. Ver I1 |
-| C3 | Hasselblad co-desarrolla (F6, p. 7) | Aparece en la diapositiva del **Find N6**, no del Reno | ¿Aplica a la serie Reno? Es P1 para Vansie |
+| C3 | Hasselblad co-desarrolla (F6, p. 7) | Aparece en la diapositiva del **Find N6**, no del Reno | **Sin resolver, cerrado.** Ya no hay ventana para preguntarle a OPPO (P1). El pitch no debe afirmar que aplica al Reno — usar Hasselblad solo como credencial de marca en general, nunca conectada al producto del reto |
 | C4 | 5 años en Colombia (F3) | Menos de 6 años (F5) | Usar la del brief |
 | C5 | El equipo cree que OPPO no tiene la calidad para competir con Apple (F10) | Reseñas externas describen la cámara como objetivamente buena — fotografía computacional, buen desempeño en poca luz, zoom óptico real (`investigacion-secundaria.md`) | No es una contradicción real: la estrategia (I7) ya asume que **no hay que pelear la nitidez con Apple**. El punto de F10 confirma por qué — no cambia el plan, refuerza no reclamar en el pitch "somos mejores que Apple en calidad" |
 
@@ -53,7 +53,7 @@ Datos duros, todos de documentos oficiales, listos para citar en el deck:
 - OPPO global: **#4, 10%**, misma fuente (F6, p. 5)
 - 90+ países · 40.000 empleados · 330+ puntos de venta · **65+ patentes concedidas** (F6, p. 4)
 - **Official Partner de la UEFA Champions League** (F6, p. 6)
-- **Find N6 co-desarrollado con Hasselblad** (F6, p. 7) — confirmar si aplica al Reno
+- **Find N6 co-desarrollado con Hasselblad** (F6, p. 7) — **no aplica al Reno hasta que se demuestre lo contrario** (P1 quedó sin respuesta, ver C3)
 - Kaká, embajador global. Luis Díaz, embajador Colombia (F6, p. 7 y 10)
 - Reno 16: selfie 50 MP con 100° de campo de visión; teleobjetivo 3.5x; zoom hasta 120x (F6, p. 21–23)
 - **Pop Camera**: cámara digital, película instantánea, fuga de luz (F6, p. 19)

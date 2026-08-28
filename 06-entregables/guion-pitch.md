@@ -49,7 +49,7 @@ Resumen visual del reto (detalle completo en `../04-ideacion/mecanica-reto-wrapp
 
 1. Cada quien tiene un **avatar** que empieza neutro.
 2. El sistema analiza las fotos y las agrupa por categoría — **Social, Deporte, Creatividad** (pesos calibrados con la encuesta real: 46% / 26% / 22%, I14), más **Creación/Innovación** (académico/laboral, agregada por el equipo, sin dato de encuesta). El usuario no elige categoría; el avatar se reconstruye solo con lo que sube.
-3. Al menos una foto se toma en la **estación Reno**, con Pop Camera o Pop Out — puntos dobles.
+3. Al menos una foto se toma en la **estación Reno**, con Pop Camera o Pop Out — puntos dobles. *(Sin Reno físico disponible esta noche, esto se presenta como parte de la Fase 1 de implementación — slide 9 — no como algo demostrado hoy.)*
 4. Al cerrar, cada participante recibe su **tarjeta Wrapped**: evidencia de sus propias fotos → cómo quedó su avatar (100% personal, sin comparaciones con famosos) → la marca al final, no al principio.
 
 **Por qué resuelve el miedo de la slide 1:** el avatar es prueba, no promesa — muestra con datos propios que ese momento sí quedó como lo vivió, y no depende de publicarlo para tener valor (82% de la slide 2 lo pide así).
@@ -58,7 +58,7 @@ Resumen visual del reto (detalle completo en `../04-ideacion/mecanica-reto-wrapp
 
 | | Offline | Online |
 |---|---|---|
-| **Hoy / piloto** | Estación Reno + tablero de avatar en vivo, con un grupo real esta noche | Las tarjetas Wrapped del piloto, listas para postear como prueba |
+| **Hoy / demo** | Demo en vivo del prototipo de software durante el pitch (`../07-prototipo/`) — sin grupo real ni Reno físico, por restricción de tiempo (D6) | La tarjeta Wrapped de la demo, más un testimonio de la entrevista individual |
 | **Fase de campus** | Estaciones Reno en puntos de alto tráfico (donde ya está el interés real — fiestas, eventos, no solo pasillos académicos, según I14) | El reto corre en la cuenta de OPPO, con las categorías activas y un ranking de comunidad visible |
 | **Amplificación** | Alianzas con universidades (hoy inexistentes, F9 confirma que están abiertas a crearlas) | Creadores reales del propio target suben su Wrapped, no actores pagados |
 
@@ -70,18 +70,17 @@ Resumen visual del reto (detalle completo en `../04-ideacion/mecanica-reto-wrapp
 
 ## 8 — El prototipo funcional
 
-*(Slide a completar esta noche con resultados reales — es el renglón que nadie más va a tener, PLAN-24H.md.)*
+**Actualizado (decisión D6):** sin grupo piloto ni Reno físico por restricción de tiempo real, esta slide es la **demo en vivo del prototipo de software** (`../07-prototipo/`), no resultados de un piloto con varias personas. Hay que decirlo así de directo — es más fuerte una demo honesta que un piloto forzado de mala calidad.
 
-- Cuántas personas participaron.
-- Fotos reales del tablero de avatar en vivo.
-- 1–2 tarjetas Wrapped reales, con la evidencia y el avatar final.
-- Si hay tiempo: una foto/cita de alguien probando la estación Reno.
+- Correr `../07-prototipo/` en vivo frente al jurado: crear un avatar, subir un par de momentos de ejemplo, mostrar cómo cambia el avatar y cerrar el ciclo para revelar la tarjeta Wrapped.
+- El testimonio de la entrevista individual (María Paula), presentado como validación cualitativa, no como muestra.
+- 1–2 tarjetas Wrapped generadas en la propia demo, con datos de ejemplo del equipo.
 
 ## 9 — Ruta de implementación y amplificación
 
 | Fase | Qué | Aliados / recursos usados |
 |---|---|---|
-| 0 — Esta noche | Piloto con grupo reducido | Equipo propio |
+| 0 — Esta noche | Demo del prototipo de software + una entrevista de validación cualitativa | Equipo propio |
 | 1 — Una universidad | Lanzamiento con estaciones Reno y categorías completas | Producto para intercambio/exhibición (F6 p.39) |
 | 2 — Multi-universidad | Alianzas universitarias (descuento o acceso, hoy inexistente — F9 confirma apertura) | Canales propios de OPPO, alianzas |
 | 3 — Nacional | El reto se vuelve recurrente (por semestre), con el Wrapped como formato reconocible | Recursos de producción, participación de OPPO en ejecución |
@@ -94,9 +93,9 @@ Cada fase usa solo recursos que OPPO **ya confirmó** que puede dar (F6 p.39; si
 
 | Criterio que mueve | Métrica | Cómo se mide |
 |---|---|---|
-| Participación (20%) | Participantes, fotos subidas por categoría, tasa de finalización del reto | Tablero del piloto → app a escala |
-| Preferencia de marca | # de personas que probaron el Reno en la estación | Conteo directo en la estación Reno |
-| Credibilidad (I2) | Cambio en la duda de la cámara, antes/después de participar | Pregunta corta post-piloto, comparable contra el 42% base |
+| Participación (20%) | Participantes, fotos subidas por categoría, tasa de finalización del reto | Nativo de la app, desde la Fase 1 de implementación (slide 9) |
+| Preferencia de marca | # de personas que probaron el Reno en la estación | Conteo directo en la estación Reno, desde la Fase 1 |
+| Credibilidad (I2) | Cambio en la duda de la cámara, antes/después de participar | Encuesta corta de seguimiento, comparable contra el 42% base de `resultados-encuesta.md` |
 | Amplificación | Alcance y compartidos de las tarjetas Wrapped | Nativo de la plataforma donde se publiquen |
 | Viabilidad | Costo por participante vs. recursos usados | Contra los 4 recursos confirmados por OPPO |
 
@@ -104,9 +103,9 @@ Cada fase usa solo recursos que OPPO **ya confirmó** que puede dar (F6 p.39; si
 
 Vuelve a la frase de apertura, ahora respondida:
 
-> "El universitario colombiano temía no capturar el momento tal cual lo vive. Esta noche, [N] estudiantes probaron que sí se puede — y esto es lo que vieron cuando abrieron su Wrapped."
+> "El universitario colombiano temía no capturar el momento tal cual lo vive. Esta noche construimos la forma de resolverlo — y esto es lo que se ve cuando alguien abre su Wrapped."
 
-Cerrar con una tarjeta Wrapped real del piloto, no con el logo de OPPO.
+Cerrar con una tarjeta Wrapped real generada en la demo, no con el logo de OPPO.
 
 ---
 
@@ -121,7 +120,7 @@ Cerrar con una tarjeta Wrapped real del piloto, no con el logo de OPPO.
 | 5. Formatos por plataforma | Slide 7 |
 | 6. Ruta de implementación | Slide 9 |
 | 7. Métricas | Slide 10 |
-| 8. Prototipo funcional | Slide 8 + piloto de esta noche |
+| 8. Prototipo funcional | Slide 8 — demo en vivo del prototipo de software (nivel medio, D6), no piloto |
 | 9. Pitch ensayado | Este guion, ensayado 3 veces en voz alta (`../PLAN-24H.md`) |
 
-Pendiente de decisión de equipo antes de cerrar el deck: DP4 (La Guajira, slide 9) y confirmar cuántas categorías/dominios entran realmente en el piloto de esta noche para que la slide 8 tenga datos reales que mostrar.
+Pendiente de decisión de equipo antes de cerrar el deck: DP4 (La Guajira, slide 9) y quién ensambla el deck final y lidera el ensayo (riesgo abierto en decisión D5, `../05-decisiones/bitacora-decisiones.md`).

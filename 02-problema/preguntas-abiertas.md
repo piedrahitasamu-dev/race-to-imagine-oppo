@@ -2,14 +2,14 @@
 
 La líder del proyecto por OPPO es **Vansie** (F5). En una ventana corta caben cuatro preguntas. Estas son.
 
-## Las dos que faltan por responder
+## Las dos que quedan sin respuesta — cerradas, no se le puede volver a preguntar a OPPO
 
-| # | Pregunta | Por qué cambia lo que hacemos |
+| # | Pregunta | Qué hacer sin respuesta |
 |---|---|---|
-| **P1** | El deck dice que el Find N6 fue co-desarrollado con **Hasselblad**. ¿Esa coingeniería aplica también a la serie Reno? | Es la respuesta a la brecha de credibilidad (I2). Si aplica al Reno, es un argumento durísimo que nadie está usando. Si no, no se puede decir |
-| **P3** | ¿Se puede **proponer una función nueva** para el Bubble o para la cámara, o la propuesta debe trabajar solo con lo que ya existe? | Pregunta que salió del propio equipo. Define si la idea puede ser de producto o solo de comunicación |
+| **P1** | El deck dice que el Find N6 fue co-desarrollado con **Hasselblad**. ¿Esa coingeniería aplica también a la serie Reno? | **No se puede confirmar.** El pitch no debe afirmar ni insinuar que el Reno tiene coingeniería Hasselblad — sería un dato inventado. Se puede mencionar Hasselblad solo como credencial general de marca, sin conectarla al producto específico del reto |
+| **P3** | ¿Se puede **proponer una función nueva** para el Bubble o para la cámara, o la propuesta debe trabajar solo con lo que ya existe? | **No se puede confirmar.** Cualquier función nueva propuesta (ej. el análisis de fotos de "Tu Reno Wrapped") debe presentarse explícitamente como **propuesta del equipo**, no como algo que OPPO ya autorizó o tiene en desarrollo |
 
-Si hay espacio: **¿cómo midieron las Reno Sessions y el Reno Universe Festival, y qué no funcionó?** Muestra que se hizo la tarea y evita proponerles algo que ya fracasó.
+Ya no hay ventana para preguntarle nada más a OPPO — esto queda así para el resto del reto.
 
 **Dos preguntas que el equipo formuló en F8 y que nunca llegaron a esta lista** — quedan pendientes de decidir si vale la pena hacerlas todavía:
 - Cuánto cuesta el Reno F y cómo se comparan los precios de toda la serie Reno.

@@ -4,6 +4,8 @@ Modelo tipo Spotify Wrapped: un avatar que se construye solo, a partir de las fo
 
 > Revisión: la versión anterior puntuaba dominios elegidos a mano y cerraba con arquetipos ligados a embajadores de OPPO (Luis Díaz, BabyMonster, UEFA). El equipo decidió explícitamente **quitar las comparaciones con famosos** — el avatar es 100% personal — y mover el motor de "el usuario elige categoría" a "el sistema infiere del contenido de la foto".
 
+> **Segunda revisión, por restricciones de tiempo reales (decisión D6, `../05-decisiones/bitacora-decisiones.md`):** no va a haber grupo piloto reclutado ni un Reno físico disponible para presentar. El "nivel fuerte" de prototipo que proponía `../PLAN-24H.md` (mecánica corriendo con gente real anoche) **no es alcanzable**. El plan pasa al "nivel medio" de esa misma tabla: un **prototipo navegable que el jurado puede ver funcionar en vivo** (`../07-prototipo/`), demostrado durante el pitch mismo, complementado con **una entrevista individual de validación cualitativa** — no un piloto con múltiples participantes. Todo lo que sigue en este documento que hablaba de "esta noche con el grupo" se ajusta a esa realidad.
+
 ## Cómo funciona, de fondo
 
 **El motor es análisis de fotos, no auto-categorización.** El usuario no elige una categoría cada vez que sube algo — sube el momento, y el sistema (a escala, con IA; esta noche, el equipo a mano) analiza qué muestra esa foto y reconstruye el avatar en consecuencia. La persona no está jugando a puntuar categorías; está viviendo su semestre y el avatar se arma solo con lo que ya hizo.
@@ -16,12 +18,12 @@ Modelo tipo Spotify Wrapped: un avatar que se construye solo, a partir de las fo
 
 Se usan las mismas familias que salieron en la encuesta primaria (n=65, `../02-problema/resultados-encuesta.md`), no categorías inventadas:
 
-| Categoría | Qué cubre | Interés real (encuesta) | Ejemplo esta noche (piloto) |
+| Categoría | Qué cubre | Interés real (encuesta) | Ejemplo para la demo del prototipo |
 |---|---|---|---|
 | **Social** | Fiestas, conciertos, salidas, parche | 43% + cultura urbana ≈ 46% — la dominante | Foto grupal donde el que toma la foto también sale (T1) |
-| **Deporte** | Actividad física | 26% | Un reto físico de un minuto, un estiramiento, lo que sea posible en el lugar |
-| **Creatividad** | Creación de contenido | 22% | Un detalle del outfit, algo creado en el momento, o una foto en la estación Reno con Pop Camera/Pop Out |
-| **Creación/Innovación** | Proyectos propios — y también lo académico o laboral | *(no medida en la encuesta — extensión del equipo)* | Algo en lo que la persona esté trabajando/construyendo esa noche |
+| **Deporte** | Actividad física | 26% | Una sesión de ejercicio, un partido, una caminata |
+| **Creatividad** | Creación de contenido | 22% | Un detalle del outfit, algo creado en el momento, una foto con estética propia |
+| **Creación/Innovación** | Proyectos propios — y también lo académico o laboral | *(no medida en la encuesta — extensión del equipo)* | Algo en lo que la persona esté trabajando/construyendo, incluido el reto mismo |
 
 **Honestidad para el pitch:** las primeras tres tienen n=65 detrás. La cuarta (Creación/Innovación) es una categoría que el equipo agregó para cubrir una parte de la vida universitaria que la encuesta no preguntó — no hay que presentarla como si tuviera el mismo respaldo de dato.
 
@@ -32,7 +34,7 @@ Social debe tener más oportunidades de sumar que las demás en el diseño del r
 - **Empieza neutro** — sin rasgos, sin vestimenta definida, sin color dominante.
 - **Se reconstruye con lo que la persona hace**, no con lo que elige de un menú. Si durante el ciclo la mayoría de sus fotos caen en Deporte, el avatar termina con una apariencia/vestimenta que refleja eso; si es Creatividad, otra distinta. La lógica es "te lo adapta a como fuiste", no "elegiste un personaje".
 - **Cero comparaciones con famosos o embajadores de marca.** Es un rechazo explícito del equipo a la versión anterior — el avatar es del usuario, no un personaje prestado.
-- **Para esta noche**, sin IA real: el equipo mira las fotos entregadas y ajusta a mano la apariencia del avatar en el tablero (un accesorio, un color, un ícono que se le va agregando) según la categoría dominante hasta ese momento — es el prototipo humano de lo que el modelo haría solo.
+- **Para la demo del pitch**, sin IA real y sin grupo piloto: el equipo carga el prototipo (`../07-prototipo/`) con momentos de ejemplo — fotos propias del equipo y, si se logra, de la persona entrevistada — para mostrar en vivo cómo el avatar cambia según la categoría dominante. Es una demostración funcional del mecanismo, no el resultado de un piloto con muchas personas.
 
 ## El Wrapped de cierre y el incentivo de compartir
 
@@ -58,7 +60,7 @@ El usuario pidió resolver esto con investigación, no con intuición. Tres opci
 
 **Recomendación: AOD como superficie principal** — es la de menor fricción real (no requiere ninguna acción del usuario más que tener el AOD prendido) y es, además, relevancia de producto pura: nadie más va a proponer usar una función nativa de OPPO como el lugar donde vive la mecánica central del reto. **Widget de home screen como respaldo** para quien no use AOD. **El Bubble queda como capa social opcional** — no reemplaza a las otras dos, es para quien quiera mostrar su avatar a otros, no solo verlo él mismo.
 
-**Para esta noche (piloto sin app real):** el tablero físico hace de "AOD" — un lugar visible y compartido donde el avatar de cada quien se actualiza en vivo. Quien quiera "compartir" puede tomarle foto a su tarjeta Wrapped final, simulando el gesto de compartir que en la app real da los puntos extra.
+**Para la demo del pitch:** no hay un Reno físico disponible para mostrar la AOD real, así que el mockup dentro de `../07-prototipo/` (el "marco de teléfono" en pantalla) hace ese papel — se explica en el pitch que es una simulación visual de dónde viviría en el producto real, no una AOD funcionando sobre ColorOS.
 
 ## Cómo escala
 
@@ -66,7 +68,7 @@ Hoy el análisis de fotos y la actualización del avatar los hace el equipo a ma
 
 ## Contra los filtros de `criterios-evaluacion.md`
 
-- **¿Prototipo funcional?** Sí — el tablero simula el ciclo completo (categorías → avatar → Wrapped → compartir) esta noche, comprimido.
-- **¿Nace de insight con dato?** Sí — I13/I14 (motivación e interés real, n=65) definen las categorías; el insight principal (miedo a no capturar el momento tal cual se vivió) es lo que el avatar resuelve al reconstruir con evidencia real, no con opinión.
+- **¿Prototipo funcional?** Sí, a nivel medio (`../PLAN-24H.md`): el software en `../07-prototipo/` corre de verdad y se demuestra en vivo (categorías → avatar → Wrapped → compartir), aunque no hay datos de un grupo real por restricción de tiempo. Hay que decirlo así de claro en el pitch, no disfrazarlo de piloto.
+- **¿Nace de insight con dato?** Sí — I13/I14 (motivación e interés real, n=65) definen las categorías; el insight principal (miedo a no capturar el momento tal cual se vivió) es lo que el avatar resuelve al reconstruir con evidencia real, no con opinión. Se complementa con una entrevista individual, presentada como testimonio cualitativo, no como muestra.
 - **¿Participarían ustedes?** Ver el propio avatar cambiar solo, sin esfuerzo de categorizar nada, y poder mostrarlo en la AOD sin abrir una app, es más parecido a algo que la gente ya ama (Spotify Wrapped) que a un concurso.
-- **¿Se cae sin el Reno?** No — la AOD personalizable es una función real y específica de ColorOS, no genérica de cualquier celular.
+- **¿Se cae sin el Reno?** La AOD personalizable de ColorOS sigue siendo la relevancia de producto en el diseño — pero esta noche no hay un Reno físico para mostrarlo corriendo de verdad, así que en el pitch es mockup, no demo de hardware.
