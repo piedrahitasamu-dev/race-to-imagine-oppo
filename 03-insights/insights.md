@@ -10,23 +10,18 @@ Fuentes: F1–F4 notas y charla · F5 brief oficial · F6 deck de OPPO · F7 rú
 
 ## El insight principal (para abrir el pitch)
 
-> **El universitario colombiano toma fotos para no perderse a sí mismo, no para mostrárselas a los demás — y le da inseguridad no saber si el celular que tiene en la mano va a estar a la altura de un momento que no se va a repetir. Con OPPO, esa inseguridad se confirma: casi la mitad de quienes conocen la marca sienten justo esa duda.**
+> **El universitario colombiano no fotografía para documentar su vida — fotografía para apropiársela. Guardar el recuerdo (82%) es, en sus propias palabras, una forma de ejercer control sobre algo que de otro modo se le escapa: "tener yo la capacidad de guardar ese momento como quiera, cuando quiera", "ser yo", "hacer el momento tuyo". El dolor no es no tener qué fotografiar — es el miedo a que el momento se pierda sin quedar realmente suyo, reducido a un recuerdo genérico en vez de algo que lo represente.**
 
-Desglosado en el formato clásico de insight (target + verdad + dolor, como sentimiento, no como conclusión de negocio):
+Este es el insight humano, construido solo con la pregunta de motivación (Q2) y la pregunta abierta de "Make Your Moment" (Q6) — sin mezclar todavía nada de OPPO:
 
-- **El universitario colombiano** — el target.
-- **toma fotos para no perderse a sí mismo, no para mostrárselas a los demás** — la verdad, con dato: 82% guarda recuerdos, solo 2% comparte y conecta (I13).
-- **le da inseguridad no saber si el celular va a estar a la altura de un momento que no se repite** — el dolor. Es un sentimiento, no un dato de mercado: el miedo a que ese instante quede mal capturado y se pierda algo que no vuelve.
-- **Con OPPO esa inseguridad se confirma** — la evidencia de que el dolor es real frente a esta marca específica: 42% de quienes conocen a OPPO dudan de que su cámara esté a la altura (I2). Esto no es el dolor — es la prueba de que el dolor existe con este producto.
+- **Target:** el universitario colombiano.
+- **Verdad (comportamiento):** fotografiar no es documentar, es apropiarse — 82% guarda el recuerdo para sí mismo, no para compartirlo (Q2, I13).
+- **Cómo lo dicen ellos mismos (Q6, verbatims):** control y autoría — *"tener yo la capacidad de guardar ese momento de la forma que quiera, cuando quiera y en el lugar que quiera"*, *"libertad de escoger qué constituye un instante memorable para mi vida"*, *"tener poder de hacer lo que quiera"*, *"controlar mis experiencias"*. E identidad — *"ser yo"*, *"vivir tal cual soy"*, *"hacer el momento tuyo"*, *"algo que es mío, que me representa o que me identifica"*.
+- **Dolor (sentimiento):** miedo a que el momento se escape sin quedar como realmente lo vivieron — que se vuelva un recuerdo genérico en vez de uno propio. No es un dato de mercado, es una ansiedad humana: la de dejar pasar algo irrepetible sin haberlo hecho verdaderamente suyo.
 
-La evidencia completa, en el mismo formato que pide OPPO ("9 de cada 10 juegan videojuegos → territorio gaming", F3):
+**Cómo se conecta con OPPO (un paso aparte, no el insight en sí):** si capturar un momento es un acto de control e identidad, entonces la pregunta que le importa al universitario no es "¿esta cámara es buena?" sino "¿esta cámara me va a dejar hacerlo a mi manera, o me lo va a arruinar?". Ahí es donde entra la marca: de quienes conocen a OPPO (74%), **42% duda de que su cámara esté a la altura de ese momento** (I2) — es decir, casi la mitad no confía en que OPPO le permita resolver ese dolor tan personal. OPPO mismo, sin que se le preguntara, describe su marca en los mismos términos de identidad: *"un aliado, un compañero, parte de tu estilo de vida"* (F9, I11) — coincide con lo que el universitario ya busca, pero todavía no le cree que lo cumpla.
 
-- **82% de los encuestados (n=65) fotografía para guardar el recuerdo, no para compartirlo** — solo 1 de 65 dijo que su motivación principal es compartir y conectar (I13, `resultados-encuesta.md`).
-- Cuando se les pregunta, en sus propias palabras, qué es "Make Your Moment", **responden con identidad, no con fotografía ni con producto**: *"ser yo"*, *"vivir tal cual soy"*, *"hacer el momento tuyo"*, *"capturar algo que te identifique"* (verbatims, `resultados-encuesta.md`).
-- OPPO define su propia marca en los mismos términos, sin que se le preguntara por el eslogan: *"un aliado, un compañero, parte de tu estilo de vida"* (F9, I11).
-- Y sin embargo, **de quienes ya conocen la marca (74%), 42% duda de que su cámara capture lo que a ellos les importa guardar** (I2).
-
-**Por qué es el insight que abre el pitch, no uno más de la lista:** conecta los tres pesos más grandes de la nota en una sola frase — el 25% de insights (viene de dato propio, no de opinión), el 20% de diferenciación (nadie más va a tener esta cifra) y el 15% de relevancia Reno (la cámara es exactamente donde está la duda). Y es la razón de fondo de toda la mecánica: si fotografiar es un acto de identidad y no de audiencia, el reto no puede pedir publicar como condición de entrada — tiene que darle a la persona una razón propia para creer, cámara en mano, antes de pedirle que lo comparta. Eso es "Tu Reno Wrapped" (`../04-ideacion/mecanica-reto-wrapped.md`): el avatar es el beneficio personal; compartirlo es la consecuencia, no el precio de entrada.
+**Por qué esto es lo que abre el pitch:** conecta los tres pesos más grandes de la nota — el 25% de insights (el humano, con dato propio), el 20% de diferenciación (nadie más va a tener esta cifra) y el 15% de relevancia Reno (la duda está justo en la cámara). Y es la razón de fondo de la mecánica: si fotografiar es apropiarse de un momento, el reto no puede pedir publicar como condición de entrada — tiene que darle a la persona el control primero (el avatar es suyo, a su ritmo) y dejar que compartir sea una opción, no el precio. Eso es "Tu Reno Wrapped" (`../04-ideacion/mecanica-reto-wrapped.md`).
 
 ---
 
