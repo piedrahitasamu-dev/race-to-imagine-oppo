@@ -56,8 +56,8 @@ Amarrar cada pieza de la campaña a uno de estos cuatro recursos es la forma má
 | Frente | Quién | Qué está haciendo ahora | Entrega |
 |---|---|---|---|
 | Investigación — benchmarking | María Paula | Comparar "Tu Reno Wrapped" contra referentes ya validados (Spotify Wrapped, Duolingo, BeReal, descuentos Samsung/Xiaomi) — formalizar en tabla lo que ya está germinado en `../02-problema/investigacion-secundaria.md`, para reforzar diferenciación (ítem 2) y viabilidad (ítem 6) | Insumo para ítems 2, 6 |
-| Análisis estratégico — DOFA | Mariana (María Gómez) | DOFA de OPPO frente al reto — no es un entregable propio, hay que citarlo dentro de la ruta de implementación / viabilidad (ítem 6) | Insumo para ítems 6, 9 |
-| Análisis estratégico — 5 fuerzas de Porter | Ana | Competencia y poder de negociación — insumo para diferenciación (ítem 2) y relevancia, cruzar con `../02-problema/investigacion-secundaria.md` | Insumo para ítems 2, 6 |
+| Análisis estratégico — DOFA | Mariana (María Gómez) | ✅ Entregado (F14) e integrado en `../04-ideacion/analisis-estrategico.md` y `guion-pitch.md` — falta corregir en Canva el nombre de plantilla "Crystalshore Games Co." y el typo "OPPPO Remi16" | Insumo para ítems 6, 9 |
+| Análisis estratégico — 5 fuerzas de Porter + benchmarking | Ana | ✅ Entregado (F13) e integrado en `../04-ideacion/analisis-estrategico.md` y `guion-pitch.md` | Insumo para ítems 2, 6 |
 | Diseño visual del prototipo | Mariana Mosquera + Ana Dusán | Rediseñar `../07-prototipo/` sobre el esqueleto funcional ya construido (sin tocar la lógica en `app.js`) | Ítem 8 |
 | **Investigación restante + prototipo/demo** | Samuel (absorbe ambos frentes) | ✅ Entrevista individual hecha (F12) — falta confirmar si la entrevistada es de dentro o fuera de la burbuja, para saber si S4 quedó tocado o no. Pendiente: elegir las 3 cifras definitivas del pitch. De prototipo: preparar `../07-prototipo/` con momentos de ejemplo y ensayar el flujo de la demo en vivo — sin grupo piloto ni Reno físico (D6) | Ítems 1 y 8 |
 | Narrativa y pitch | — sin dueño único ahora mismo | Ensamblar DOFA + Porter + benchmarking + la demo dentro de `guion-pitch.md` | Ítems 6, 7, 9 |

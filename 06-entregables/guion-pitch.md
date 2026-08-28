@@ -35,6 +35,8 @@ Cita la fuente en pantalla: *"Encuesta propia, n=65, agosto 2026"* — no citar 
 
 Y la propia marca, sin que se le preguntara, ya contestó eso en otros términos: *"un aliado, un compañero, parte de tu estilo de vida"* (F9, cita directa del encargado de OPPO). El problema no es que a OPPO le falte identidad — es que nadie se la ha visto decir en voz alta a este público.
 
+**Esto no lo dice solo la encuesta.** Tres análisis independientes del equipo —la encuesta (n=65), el benchmarking competitivo y el DOFA— llegan por separado a la misma conclusión: la brecha de credibilidad de la cámara es real (`../04-ideacion/analisis-estrategico.md`). Y frente a Apple (credibilidad creativa) y Samsung (credibilidad tecnológica), ninguna marca compite hoy por conexión emocional con el universitario colombiano — ahí está el espacio libre.
+
 ## 4 — La idea central
 
 **Nombre de campaña: "Tal Cual."**
@@ -88,6 +90,10 @@ Resumen visual del reto (detalle completo en `../04-ideacion/mecanica-reto-wrapp
 Cada fase usa solo recursos que OPPO **ya confirmó** que puede dar (F6 p.39; sin asumir pauta, F9) — ver `../06-entregables/README.md`.
 
 *(Espacio para decisión de equipo: si se incluye el eje de sostenibilidad/La Guajira — DP4 — puede entrar aquí, como una fase o un aliado adicional, no como párrafo suelto al final. Sigue pendiente de decidir.)*
+
+**Dos riesgos honestos a mencionar si preguntan por viabilidad a largo plazo** (`analisis-estrategico.md`, análisis de Porter y DOFA):
+- La industria depende de proveedores de chips, cámaras, memoria y pantallas — hay una crisis global de escasez de memoria proyectada para 2026 que puede afectar costos.
+- La ventaja de "escala con IA nativa" (sección "Cómo escala" de `mecanica-reto-wrapped.md`) no es permanente: si el resto de la industria avanza más rápido en IA, esa ventaja se puede erosionar. No cambia el plan, pero no hay que prometerlo como algo garantizado para siempre.
 
 ## 10 — Métricas
 
