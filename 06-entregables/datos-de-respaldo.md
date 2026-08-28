@@ -12,7 +12,7 @@ Formato: **"El X% hace esto, porque Y"** — cada frase es autoexplicativa, list
 **Insight — "4 de cada 10 universitarios que conocen OPPO no le confiarían su momento más importante. Y entre los que más viven para salir, esa desconfianza sube a casi 1 de cada 2."** *(encuesta propia, n=65/48)*
 > Respaldo secundario: 41% de la Generación Z ya piensa en qué pasará con sus fotos después de morir, contra solo 9% de mayores de 55 años — el apego a que esas fotos sean fieles y se conserven bien es real, no un capricho.
 
-**Reto — "Casi la mitad de los universitarios no quiere ser mejor fotógrafo: quiere estar en la fiesta. El reto no puede vivir en el salón de clase — tiene que vivir donde el 46% ya está."** *(encuesta propia, n=65)*
+**Reto — "El 46% de los universitarios no quiere ser mejor fotógrafo: quiere estar en la fiesta. El reto no puede vivir en el salón de clase — tiene que vivir donde ya está ese 46%."** *(encuesta propia, n=65)*
 > Respaldo secundario: 52% de la Generación Z dice que quiere más tiempo social presencial — más que viajes, entretenimiento o rutinas de ejercicio.
 
 ---
