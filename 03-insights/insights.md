@@ -10,14 +10,14 @@ Fuentes: F1–F4 notas y charla · F5 brief oficial · F6 deck de OPPO · F7 rú
 
 ## El insight principal (para abrir el pitch)
 
-> **El universitario colombiano toma fotos para no perderse a sí mismo, no para mostrárselas a los demás — pero a la hora de confiarle ese momento tan suyo a un celular, casi la mitad de los que conocen a OPPO no le creen la cámara. El dolor no es la falta de momentos que capturar: es no tener, todavía, un celular en el que confíen lo suficiente como para que sea el que cuente su historia.**
+> **El universitario colombiano toma fotos para no perderse a sí mismo, no para mostrárselas a los demás — y le da inseguridad no saber si el celular que tiene en la mano va a estar a la altura de un momento que no se va a repetir. Con OPPO, esa inseguridad se confirma: casi la mitad de quienes conocen la marca sienten justo esa duda.**
 
-Desglosado en el formato clásico de insight (target + verdad + tensión + dolor):
+Desglosado en el formato clásico de insight (target + verdad + dolor, como sentimiento, no como conclusión de negocio):
 
 - **El universitario colombiano** — el target.
 - **toma fotos para no perderse a sí mismo, no para mostrárselas a los demás** — la verdad, con dato: 82% guarda recuerdos, solo 2% comparte y conecta (I13).
-- **pero casi la mitad de los que conocen a OPPO no le creen la cámara** — la tensión: 42% de quienes conocen la marca dudan de que capture lo que a ellos les importa (I2).
-- **El dolor no es la falta de momentos que capturar; es no tener un celular en el que confíen** — no es un problema de producto ni de creatividad. Es de confianza.
+- **le da inseguridad no saber si el celular va a estar a la altura de un momento que no se repite** — el dolor. Es un sentimiento, no un dato de mercado: el miedo a que ese instante quede mal capturado y se pierda algo que no vuelve.
+- **Con OPPO esa inseguridad se confirma** — la evidencia de que el dolor es real frente a esta marca específica: 42% de quienes conocen a OPPO dudan de que su cámara esté a la altura (I2). Esto no es el dolor — es la prueba de que el dolor existe con este producto.
 
 La evidencia completa, en el mismo formato que pide OPPO ("9 de cada 10 juegan videojuegos → territorio gaming", F3):
 
