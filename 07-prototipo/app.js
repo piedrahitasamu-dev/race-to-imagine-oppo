@@ -89,6 +89,23 @@ function renderAodClock() {
   aodClockEl.textContent = `${hh}:${mm}`;
 }
 
+function findLatestPhotoForCategories(categoryIds) {
+  const matches = state.moments.filter((m) => categoryIds.includes(m.categoryId) && m.photoDataUrl);
+  if (matches.length === 0) return null;
+  return matches[matches.length - 1].photoDataUrl;
+}
+
+function paintAvatarShape(el, color, photoDataUrl) {
+  el.style.backgroundColor = color;
+  if (photoDataUrl) {
+    el.style.backgroundImage = `url(${photoDataUrl})`;
+    el.style.backgroundSize = "cover";
+    el.style.backgroundPosition = "center";
+  } else {
+    el.style.backgroundImage = "none";
+  }
+}
+
 function renderAvatar() {
   const points = computeCategoryPoints(state.moments);
   const dominant = computeDominant(points);
@@ -97,14 +114,14 @@ function renderAvatar() {
   avatarNameDisplayEl.textContent = state.avatarName;
 
   if (!dominant) {
-    avatarShapeEl.style.background = "var(--color-neutral)";
+    paintAvatarShape(avatarShapeEl, "var(--color-neutral)", null);
     avatarDominantEl.textContent = "Avatar neutro — todavía sin definir";
   } else if (dominant.tie) {
-    avatarShapeEl.style.background = "var(--color-neutral)";
+    paintAvatarShape(avatarShapeEl, "var(--color-neutral)", findLatestPhotoForCategories(dominant.ids));
     avatarDominantEl.textContent = "Avatar en construcción — vas parejo entre varias categorías";
   } else {
     const cat = categoryById(dominant.ids[0]);
-    avatarShapeEl.style.background = cat.color;
+    paintAvatarShape(avatarShapeEl, cat.color, findLatestPhotoForCategories(dominant.ids));
     avatarDominantEl.textContent = `Tu avatar se está pareciendo más a: ${cat.label}`;
   }
 
@@ -257,16 +274,16 @@ function handleCloseCycle() {
   const evidenceEl = document.getElementById("wrapped-evidence");
 
   if (!dominant) {
-    wrappedAvatarShape.style.background = "var(--color-neutral)";
+    paintAvatarShape(wrappedAvatarShape, "var(--color-neutral)", null);
     wrappedDominantEl.textContent = "Todavía no hay suficientes momentos para definir tu avatar.";
     evidenceEl.textContent = "";
   } else if (dominant.tie) {
-    wrappedAvatarShape.style.background = "var(--color-neutral)";
+    paintAvatarShape(wrappedAvatarShape, "var(--color-neutral)", findLatestPhotoForCategories(dominant.ids));
     wrappedDominantEl.textContent = "Tu Wrapped: un poco de cada cosa — no hay un solo lado tuyo.";
     evidenceEl.textContent = pickEvidenceQuote(dominant.ids[0]);
   } else {
     const cat = categoryById(dominant.ids[0]);
-    wrappedAvatarShape.style.background = cat.color;
+    paintAvatarShape(wrappedAvatarShape, cat.color, findLatestPhotoForCategories(dominant.ids));
     wrappedDominantEl.textContent = `Este período, tu momento fue: ${cat.label}`;
     evidenceEl.textContent = pickEvidenceQuote(cat.id);
   }
