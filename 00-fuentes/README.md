@@ -13,6 +13,7 @@ Material original, **sin editar**. Esta carpeta es de solo-agregar: nada se corr
 | **F9** | `2026-08-27-qa-encargado-oppo.md` | Q&A del equipo con el encargado de OPPO (mentoría) | Transcripción automática con errores; limpiada y organizada por tema |
 | F10 | `2026-08-27-aporte-equipo-segunda-ronda.md` | Segundo aporte de ideas del equipo | Parafraseada |
 | **F11** | `2026-08-27-encuesta-respuestas.xlsx` · analizada en `../02-problema/resultados-encuesta.md` | Respuestas de la encuesta primaria, n=65 | Datos crudos, exportado de Google Forms |
+| **F12** | `2026-08-27-entrevista-validacion.md` | Entrevista individual de validación (n=1) | Transcripción directa |
 | F3 | `2026-08-27-transcripcion-charla-oppo.md` | Transcripción de la charla de OPPO | Limpia, **no literal** |
 | F1 | `2026-08-27-nota-manuscrita-sesion-oppo.png` | Nota manuscrita en iPad | Parafraseada |
 | F2 | `2026-08-27-notas-equipo-digital.png` | Notas digitales del equipo | Parafraseada |

@@ -68,7 +68,7 @@ Antes de puntuar cualquier idea:
 
 1. **¿Hay un prototipo funcional?** Rúbrica B, renglón 3. Sin eso se pierden 10 puntos fijos.
 2. **¿Nace de un insight propio, con dato?** 25% de OPPO + renglón 2a del jurado.
-3. **¿Participarían ustedes?** Si la respuesta honesta es no, no la propongan.
+3. **¿Participarían ustedes?** Si la respuesta honesta es no, no la propongan. **Primera validación externa real (F12):** al explicarle "Tu Reno Wrapped" a la entrevistada, dijo *"me parece interesante... y sí participaría"*, y que sí compartiría la tarjeta final con amigos y familia — *"me gusta mostrar que hice"*. Sigue siendo n=1, pero es la primera persona fuera del equipo que reacciona al concepto ya armado, no a la idea en abstracto.
 4. **¿Se cae si le quitamos el Reno?** Si no se cae, pierde el 15%.
 5. **¿Está todo lo que pidieron?** La lista completa —los cuatro del deck más los del brief oficial más el prototipo— está en `../06-entregables/README.md`. Renglón 5 del jurado, 10 puntos gratis.
 

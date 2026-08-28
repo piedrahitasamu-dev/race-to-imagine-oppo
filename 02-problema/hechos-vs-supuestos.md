@@ -32,16 +32,16 @@ Ninguno lo dijo OPPO. Varios sostienen la estrategia.
 
 | # | Supuesto | Riesgo si es falso | Cómo validarlo |
 |---|---|---|---|
-| ~~S1~~ | ~~Los universitarios capturan mucho y comparten poco~~ | **Validado — n=65 (F11).** 82% fotografía para guardar recuerdos, solo 2% (1 persona) para compartir y conectar | Ver `resultados-encuesta.md` |
-| ~~S2~~ | ~~Los universitarios no saben qué es OPPO ni le creen a su cámara~~ | **Validado en parte — n=65/48 (F11).** 74% sí conoce la marca (esto matiza el supuesto original), pero de esos, 42% duda de que su cámara capture lo que le importa | Ver `resultados-encuesta.md` |
-| **S3** | El que toma la foto del grupo nunca sale en ella | Medio — sostiene el territorio "que no falte nadie" | La encuesta ejecutada no incluyó esta pregunta — sigue sin validar |
-| **S4** | Los estudiantes de universidades públicas responden distinto | Medio — es el diferenciador del pitch | **No se puede validar con F11** — la encuesta ejecutada no incluyó campo de universidad. Si hay tiempo, correr una segunda tanda corta con ese campo |
+| ~~S1~~ | ~~Los universitarios capturan mucho y comparten poco~~ | **Validado — n=65 (F11), reforzado con testimonio (F12).** 82% fotografía para guardar recuerdos, solo 2% (1 persona) para compartir y conectar. La entrevista de validación confirma el patrón en primera persona: *"más para guardar, porque me gusta verlas de nuevo"* | Ver `resultados-encuesta.md`, `00-fuentes/2026-08-27-entrevista-validacion.md` |
+| ~~S2~~ | ~~Los universitarios no saben qué es OPPO ni le creen a su cámara~~ | **Validado en parte — n=65/48 (F11).** 74% sí conoce la marca (esto matiza el supuesto original), pero de esos, 42% duda de que su cámara capture lo que le importa. La entrevistada de F12 cae del lado del 26% que no conoce la marca en absoluto ("no, nada") | Ver `resultados-encuesta.md` |
+| ~~S3~~ | ~~El que toma la foto del grupo nunca sale en ella~~ | **Primera validación cualitativa (F12, n=1).** *"Es más fotos con ellos que de ellos"* y *"no me gusta eso, siempre me gusta estar en la foto"* — confirma la tensión que sostiene T1, pero sigue siendo un solo testimonio, no una muestra | `00-fuentes/2026-08-27-entrevista-validacion.md` |
+| **S4** | Los estudiantes de universidades públicas responden distinto | Medio — es el diferenciador del pitch | **Sigue sin validar de forma confiable.** La entrevistada de F12 dijo *"no siento que es igual... todos siguen o tienen lo mismo sin importar la universidad"* — pero no se confirmó si ella misma es de dentro o fuera de la burbuja del equipo. Si es de dentro, este testimonio no dice nada sobre el contraste real y no se debe usar como si lo resolviera |
 | **S5** | Un evento de fotografía no convoca a quien no es fotógrafo | Medio — condiciona toda la mecánica | Encuesta, pregunta 11. Ya hay evidencia cualitativa en F8 |
 | **S6** | El perfil que compra OPPO es artístico / humanidades | Bajo — matiza el target, no lo define | Cruce carrera × marca en la encuesta |
 | ~~S7~~ | ~~OPPO aceptaría el Bubble como puerta de entrada~~ | **Resuelto — sí.** Su propia campaña ya funciona así (F9) | — |
 | **S8** | La muestra de la encuesta debe salir de la burbuja de universidades privadas de estrato alto | **Confirmado que NO salió** — F11: 83% de las respuestas son estrato 4–6. La muestra se quedó dentro de la burbuja, a pesar de la meta declarada del 40% de afuera | Ver `resultados-encuesta.md`. Sigue pendiente decidir si eso es un problema (dado F9) o no |
 
-**S1 y S2 ya están validados con n=65 (F11).** Sostienen el 25% de la nota con cifras propias citables. Lo que queda pendiente es S3 y S4, que la encuesta ejecutada no cubrió — y el pesaje de la muestra (S8), que salió sesgada hacia la burbuja del equipo tal como se temía. Ver `resultados-encuesta.md`.
+**S1 y S2 ya están validados con n=65 (F11), y S3 tiene su primera confirmación cualitativa (F12).** Lo que sigue sin resolverse con confianza es S4 — la entrevista tocó el tema pero no se sabe si la persona es de dentro o fuera de la burbuja, así que no cuenta como el contraste que se necesitaba — y el pesaje de la muestra (S8), que salió sesgada hacia la burbuja del equipo tal como se temía. Ver `resultados-encuesta.md`.
 
 **S8 es nuevo y urgente**: la encuesta está lista para salir y esto cambia a quién se le envía.
 

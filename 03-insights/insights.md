@@ -19,6 +19,8 @@ Este es el insight humano, construido solo con la pregunta de motivación (Q2) y
 - **Cómo lo dicen ellos mismos (Q6, verbatims):** control y autoría — *"tener yo la capacidad de guardar ese momento de la forma que quiera, cuando quiera y en el lugar que quiera"*, *"libertad de escoger qué constituye un instante memorable para mi vida"*, *"tener poder de hacer lo que quiera"*, *"controlar mis experiencias"*. Fidelidad a lo vivido — *"una foto donde de verdad se vea las emociones"*, *"el lograr mantener una sensación, un ambiente y una acción encapsuladas en un momento"*, *"vivir el momento como yo creo"*. E identidad — *"ser yo"*, *"vivir tal cual soy"*, *"hacer el momento tuyo"*, *"algo que es mío, que me representa o que me identifica"*.
 - **Dolor (sentimiento):** **teme no capturar el momento tal cual lo vive** — que la foto no le haga justicia a lo que sintió, y ese registro desdibujado termine siendo el recuerdo que le queda, en vez de la experiencia real. No es un dato de mercado, es una ansiedad humana: la de que lo vivido y lo capturado no coincidan.
 
+**Confirmado en primera persona (F12, entrevista de validación).** Al preguntarle directamente si alguna vez una foto no reflejó lo que realmente vivió, la entrevistada dio tres razones concretas, sin que se le sugirieran: *"puede que no me gustó cómo salí, o porque salió alguien que no quería, o la foto no salió con la calidad que quería"*. Las tres versiones del mismo miedo — apariencia, composición, calidad técnica — son material directo para el pitch, no interpretación del equipo.
+
 **Cómo se conecta con OPPO (un paso aparte, no el insight en sí):** si el miedo es que la cámara no capture el momento tal cual se vivió, entonces la pregunta que le importa al universitario no es "¿esta cámara es buena?" sino "¿esta cámara va a ser fiel a lo que yo sentí, o me lo va a distorsionar?". Ahí es donde entra la marca: de quienes conocen a OPPO (74%), **42% duda de que su cámara esté a la altura de ese momento** (I2) — es decir, casi la mitad no confía en que OPPO resuelva exactamente ese miedo. OPPO mismo, sin que se le preguntara, describe su marca en los mismos términos de identidad: *"un aliado, un compañero, parte de tu estilo de vida"* (F9, I11) — coincide con lo que el universitario ya busca, pero todavía no le cree que lo cumpla.
 
 **Por qué esto es lo que abre el pitch:** conecta los tres pesos más grandes de la nota — el 25% de insights (el humano, con dato propio), el 20% de diferenciación (nadie más va a tener esta cifra) y el 15% de relevancia Reno (la duda está justo en la cámara). Y es la razón de fondo de la mecánica: si fotografiar es apropiarse de un momento, el reto no puede pedir publicar como condición de entrada — tiene que darle a la persona el control primero (el avatar es suyo, a su ritmo) y dejar que compartir sea una opción, no el precio. Eso es "Tu Reno Wrapped" (`../04-ideacion/mecanica-reto-wrapped.md`).
@@ -73,7 +75,9 @@ Y la página 27: *"Selfies traseras. Sin dudas. Solo perfección."*
 
 Se conecta con lo que el equipo dijo del país: *"el colombiano es muy emocional, es una cultura muy de estar con gente"* (F8).
 
-**Confianza:** alta — la cita es literal del deck.
+**Primera validación cualitativa fuera del equipo (F12).** La entrevistada lo confirmó sin que se le preguntara por el territorio: *"es más fotos con ellos que de ellos"* (siempre fotografía a otros, rara vez sale ella), y sobre quedar fuera de la foto: *"no me gusta eso, siempre me gusta estar en la foto"*. Sigue siendo n=1, pero es la primera vez que alguien fuera del equipo confirma esta tensión de forma espontánea.
+
+**Confianza:** alta — la cita del deck es literal, y ahora hay un testimonio externo que confirma la tensión.
 
 ---
 
