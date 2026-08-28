@@ -110,10 +110,18 @@ button.secondary {
   border: 1px solid var(--color-accent);
 }
 
-#photo-preview {
-  max-width: 100%;
-  border-radius: 10px;
+.photo-preview-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
   margin-top: 8px;
+}
+
+.photo-preview-grid img {
+  width: 56px;
+  height: 56px;
+  object-fit: cover;
+  border-radius: 8px;
 }
 
 /* --- AOD mockup --- */
@@ -279,14 +287,46 @@ button.secondary {
   opacity: 0.8;
 }
 
-.wrapped-stat {
+.wrapped-stats-row {
+  display: flex;
+  justify-content: center;
+  gap: 24px;
   margin: 16px 0;
+}
+
+.wrapped-stat {
+  margin: 0;
 }
 
 .stat-number {
   font-size: 3rem;
   font-weight: 700;
   display: block;
+}
+
+.wrapped-gallery-label {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  opacity: 0.7;
+  margin: 16px 0 8px;
+}
+
+.wrapped-gallery {
+  display: flex;
+  gap: 8px;
+  overflow-x: auto;
+  padding-bottom: 4px;
+  margin-bottom: 8px;
+}
+
+.wrapped-gallery img {
+  width: 84px;
+  height: 84px;
+  object-fit: cover;
+  border-radius: 12px;
+  flex-shrink: 0;
+  border: 2px solid rgba(255, 255, 255, 0.4);
 }
 
 .stat-label {

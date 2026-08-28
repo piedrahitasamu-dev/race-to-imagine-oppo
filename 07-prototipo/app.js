@@ -15,7 +15,7 @@ const onboardingForm = document.getElementById("onboarding-form");
 const momentForm = document.getElementById("moment-form");
 const categorySelect = document.getElementById("category-select");
 const photoInput = document.getElementById("moment-photo");
-const photoPreview = document.getElementById("photo-preview");
+const photoPreviewGrid = document.getElementById("photo-preview-grid");
 const momentsListEl = document.getElementById("moments-list");
 
 const avatarShapeEl = document.getElementById("avatar-shape");
@@ -57,6 +57,21 @@ function computeCategoryPoints(moments) {
     points[m.categoryId] = (points[m.categoryId] || 0) + value;
   });
   return points;
+}
+
+function computeTotalPoints(points) {
+  return Object.values(points).reduce((sum, v) => sum + v, 0);
+}
+
+function pickHighlightPhotos(categoryIds, max) {
+  const pool = categoryIds
+    ? state.moments.filter((m) => categoryIds.includes(m.categoryId) && m.photoDataUrl)
+    : state.moments.filter((m) => m.photoDataUrl);
+  return pool
+    .slice()
+    .reverse()
+    .slice(0, max)
+    .map((m) => m.photoDataUrl);
 }
 
 function computeDominant(points) {
@@ -206,50 +221,60 @@ function handleOnboardingSubmit(event) {
   renderMain();
 }
 
-function handleMomentFormSubmit(event) {
+function readFileAsDataUrl(file) {
+  return new Promise((resolve) => {
+    const reader = new FileReader();
+    reader.onload = () => resolve(reader.result);
+    reader.readAsDataURL(file);
+  });
+}
+
+async function handleMomentFormSubmit(event) {
   event.preventDefault();
 
   const categoryId = categorySelect.value;
   const note = document.getElementById("moment-note").value.trim();
   const isRenoStation = document.getElementById("reno-station").checked;
-  const file = photoInput.files[0];
+  const files = Array.from(photoInput.files);
 
   const addMoment = (photoDataUrl) => {
     state.moments.push({
-      id: Date.now(),
+      id: Date.now() + Math.random(),
       categoryId,
       note,
       photoDataUrl: photoDataUrl || null,
       isRenoStation,
       timestamp: new Date().toISOString(),
     });
-    saveState(state);
-    momentForm.reset();
-    photoPreview.classList.add("hidden");
-    renderMain();
   };
 
-  if (file) {
-    const reader = new FileReader();
-    reader.onload = () => addMoment(reader.result);
-    reader.readAsDataURL(file);
+  if (files.length > 0) {
+    for (const file of files) {
+      const dataUrl = await readFileAsDataUrl(file);
+      addMoment(dataUrl);
+    }
   } else {
     addMoment(null);
   }
+
+  saveState(state);
+  momentForm.reset();
+  photoPreviewGrid.innerHTML = "";
+  renderMain();
 }
 
 function handlePhotoInputChange() {
-  const file = photoInput.files[0];
-  if (!file) {
-    photoPreview.classList.add("hidden");
-    return;
-  }
-  const reader = new FileReader();
-  reader.onload = () => {
-    photoPreview.src = reader.result;
-    photoPreview.classList.remove("hidden");
-  };
-  reader.readAsDataURL(file);
+  photoPreviewGrid.innerHTML = "";
+  Array.from(photoInput.files).forEach((file) => {
+    const reader = new FileReader();
+    reader.onload = () => {
+      const img = document.createElement("img");
+      img.src = reader.result;
+      img.alt = "Vista previa";
+      photoPreviewGrid.appendChild(img);
+    };
+    reader.readAsDataURL(file);
+  });
 }
 
 function pickEvidenceQuote(dominantId) {
@@ -259,6 +284,30 @@ function pickEvidenceQuote(dominantId) {
   return `"${sample.note}"`;
 }
 
+function renderWrappedGallery(categoryIds) {
+  const galleryEl = document.getElementById("wrapped-gallery");
+  const galleryLabelEl = document.getElementById("wrapped-gallery-label");
+  galleryEl.innerHTML = "";
+
+  let photos = pickHighlightPhotos(categoryIds, 4);
+  if (photos.length === 0) {
+    photos = pickHighlightPhotos(null, 4);
+  }
+
+  if (photos.length === 0) {
+    galleryLabelEl.textContent = "";
+    return;
+  }
+
+  galleryLabelEl.textContent = "Tus momentos más importantes";
+  photos.forEach((src) => {
+    const img = document.createElement("img");
+    img.src = src;
+    img.alt = "Momento destacado";
+    galleryEl.appendChild(img);
+  });
+}
+
 function handleCloseCycle() {
   const points = computeCategoryPoints(state.moments);
   const dominant = computeDominant(points);
@@ -266,6 +315,8 @@ function handleCloseCycle() {
 
   document.getElementById("wrapped-name").textContent = state.avatarName;
   document.getElementById("wrapped-total").textContent = total;
+  document.getElementById("wrapped-points").textContent = computeTotalPoints(points);
+  renderWrappedGallery(dominant && !dominant.tie ? [dominant.ids[0]] : dominant ? dominant.ids : null);
 
   const breakdownEl = document.getElementById("wrapped-breakdown");
   breakdownEl.innerHTML = "";

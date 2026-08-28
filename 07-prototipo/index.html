@@ -51,9 +51,9 @@
         <label for="moment-note">¿Qué pasó? (opcional)</label>
         <input type="text" id="moment-note" name="moment-note" placeholder="Ej: Salí a correr con el parche" />
 
-        <label for="moment-photo">Foto (opcional)</label>
-        <input type="file" id="moment-photo" name="moment-photo" accept="image/*" />
-        <img id="photo-preview" class="hidden" alt="Vista previa" />
+        <label for="moment-photo">Fotos (puedes elegir varias a la vez)</label>
+        <input type="file" id="moment-photo" name="moment-photo" accept="image/*" multiple />
+        <div id="photo-preview-grid" class="photo-preview-grid"></div>
 
         <label class="checkbox-label">
           <input type="checkbox" id="reno-station" name="reno-station" />
@@ -79,10 +79,19 @@
       <p class="wrapped-kicker">Tu Reno Wrapped</p>
       <h2 id="wrapped-name"></h2>
 
-      <div class="wrapped-stat">
-        <span class="stat-number" id="wrapped-total">0</span>
-        <span class="stat-label">momentos capturados</span>
+      <div class="wrapped-stats-row">
+        <div class="wrapped-stat">
+          <span class="stat-number" id="wrapped-total">0</span>
+          <span class="stat-label">momentos capturados</span>
+        </div>
+        <div class="wrapped-stat">
+          <span class="stat-number" id="wrapped-points">0</span>
+          <span class="stat-label">puntos totales</span>
+        </div>
       </div>
+
+      <p class="wrapped-gallery-label" id="wrapped-gallery-label"></p>
+      <div class="wrapped-gallery" id="wrapped-gallery"></div>
 
       <ul class="wrapped-breakdown" id="wrapped-breakdown"></ul>
 

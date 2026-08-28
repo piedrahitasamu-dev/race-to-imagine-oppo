@@ -117,10 +117,18 @@ button.secondary {
   border: 1px solid var(--color-accent);
 }
 
-#photo-preview {
-  max-width: 100%;
-  border-radius: 10px;
+.photo-preview-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
   margin-top: 8px;
+}
+
+.photo-preview-grid img {
+  width: 56px;
+  height: 56px;
+  object-fit: cover;
+  border-radius: 8px;
 }
 
 /* --- AOD mockup --- */
@@ -286,14 +294,46 @@ button.secondary {
   opacity: 0.8;
 }
 
-.wrapped-stat {
+.wrapped-stats-row {
+  display: flex;
+  justify-content: center;
+  gap: 24px;
   margin: 16px 0;
+}
+
+.wrapped-stat {
+  margin: 0;
 }
 
 .stat-number {
   font-size: 3rem;
   font-weight: 700;
   display: block;
+}
+
+.wrapped-gallery-label {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  opacity: 0.7;
+  margin: 16px 0 8px;
+}
+
+.wrapped-gallery {
+  display: flex;
+  gap: 8px;
+  overflow-x: auto;
+  padding-bottom: 4px;
+  margin-bottom: 8px;
+}
+
+.wrapped-gallery img {
+  width: 84px;
+  height: 84px;
+  object-fit: cover;
+  border-radius: 12px;
+  flex-shrink: 0;
+  border: 2px solid rgba(255, 255, 255, 0.4);
 }
 
 .stat-label {
@@ -399,9 +439,9 @@ button.secondary {
         <label for="moment-note">¿Qué pasó? (opcional)</label>
         <input type="text" id="moment-note" name="moment-note" placeholder="Ej: Salí a correr con el parche" />
 
-        <label for="moment-photo">Foto (opcional)</label>
-        <input type="file" id="moment-photo" name="moment-photo" accept="image/*" />
-        <img id="photo-preview" class="hidden" alt="Vista previa" />
+        <label for="moment-photo">Fotos (puedes elegir varias a la vez)</label>
+        <input type="file" id="moment-photo" name="moment-photo" accept="image/*" multiple />
+        <div id="photo-preview-grid" class="photo-preview-grid"></div>
 
         <label class="checkbox-label">
           <input type="checkbox" id="reno-station" name="reno-station" />
@@ -427,10 +467,19 @@ button.secondary {
       <p class="wrapped-kicker">Tu Reno Wrapped</p>
       <h2 id="wrapped-name"></h2>
 
-      <div class="wrapped-stat">
-        <span class="stat-number" id="wrapped-total">0</span>
-        <span class="stat-label">momentos capturados</span>
+      <div class="wrapped-stats-row">
+        <div class="wrapped-stat">
+          <span class="stat-number" id="wrapped-total">0</span>
+          <span class="stat-label">momentos capturados</span>
+        </div>
+        <div class="wrapped-stat">
+          <span class="stat-number" id="wrapped-points">0</span>
+          <span class="stat-label">puntos totales</span>
+        </div>
       </div>
+
+      <p class="wrapped-gallery-label" id="wrapped-gallery-label"></p>
+      <div class="wrapped-gallery" id="wrapped-gallery"></div>
 
       <ul class="wrapped-breakdown" id="wrapped-breakdown"></ul>
 
@@ -476,7 +525,7 @@ const onboardingForm = document.getElementById("onboarding-form");
 const momentForm = document.getElementById("moment-form");
 const categorySelect = document.getElementById("category-select");
 const photoInput = document.getElementById("moment-photo");
-const photoPreview = document.getElementById("photo-preview");
+const photoPreviewGrid = document.getElementById("photo-preview-grid");
 const momentsListEl = document.getElementById("moments-list");
 
 const avatarShapeEl = document.getElementById("avatar-shape");
@@ -518,6 +567,21 @@ function computeCategoryPoints(moments) {
     points[m.categoryId] = (points[m.categoryId] || 0) + value;
   });
   return points;
+}
+
+function computeTotalPoints(points) {
+  return Object.values(points).reduce((sum, v) => sum + v, 0);
+}
+
+function pickHighlightPhotos(categoryIds, max) {
+  const pool = categoryIds
+    ? state.moments.filter((m) => categoryIds.includes(m.categoryId) && m.photoDataUrl)
+    : state.moments.filter((m) => m.photoDataUrl);
+  return pool
+    .slice()
+    .reverse()
+    .slice(0, max)
+    .map((m) => m.photoDataUrl);
 }
 
 function computeDominant(points) {
@@ -667,50 +731,60 @@ function handleOnboardingSubmit(event) {
   renderMain();
 }
 
-function handleMomentFormSubmit(event) {
+function readFileAsDataUrl(file) {
+  return new Promise((resolve) => {
+    const reader = new FileReader();
+    reader.onload = () => resolve(reader.result);
+    reader.readAsDataURL(file);
+  });
+}
+
+async function handleMomentFormSubmit(event) {
   event.preventDefault();
 
   const categoryId = categorySelect.value;
   const note = document.getElementById("moment-note").value.trim();
   const isRenoStation = document.getElementById("reno-station").checked;
-  const file = photoInput.files[0];
+  const files = Array.from(photoInput.files);
 
   const addMoment = (photoDataUrl) => {
     state.moments.push({
-      id: Date.now(),
+      id: Date.now() + Math.random(),
       categoryId,
       note,
       photoDataUrl: photoDataUrl || null,
       isRenoStation,
       timestamp: new Date().toISOString(),
     });
-    saveState(state);
-    momentForm.reset();
-    photoPreview.classList.add("hidden");
-    renderMain();
   };
 
-  if (file) {
-    const reader = new FileReader();
-    reader.onload = () => addMoment(reader.result);
-    reader.readAsDataURL(file);
+  if (files.length > 0) {
+    for (const file of files) {
+      const dataUrl = await readFileAsDataUrl(file);
+      addMoment(dataUrl);
+    }
   } else {
     addMoment(null);
   }
+
+  saveState(state);
+  momentForm.reset();
+  photoPreviewGrid.innerHTML = "";
+  renderMain();
 }
 
 function handlePhotoInputChange() {
-  const file = photoInput.files[0];
-  if (!file) {
-    photoPreview.classList.add("hidden");
-    return;
-  }
-  const reader = new FileReader();
-  reader.onload = () => {
-    photoPreview.src = reader.result;
-    photoPreview.classList.remove("hidden");
-  };
-  reader.readAsDataURL(file);
+  photoPreviewGrid.innerHTML = "";
+  Array.from(photoInput.files).forEach((file) => {
+    const reader = new FileReader();
+    reader.onload = () => {
+      const img = document.createElement("img");
+      img.src = reader.result;
+      img.alt = "Vista previa";
+      photoPreviewGrid.appendChild(img);
+    };
+    reader.readAsDataURL(file);
+  });
 }
 
 function pickEvidenceQuote(dominantId) {
@@ -720,6 +794,30 @@ function pickEvidenceQuote(dominantId) {
   return `"${sample.note}"`;
 }
 
+function renderWrappedGallery(categoryIds) {
+  const galleryEl = document.getElementById("wrapped-gallery");
+  const galleryLabelEl = document.getElementById("wrapped-gallery-label");
+  galleryEl.innerHTML = "";
+
+  let photos = pickHighlightPhotos(categoryIds, 4);
+  if (photos.length === 0) {
+    photos = pickHighlightPhotos(null, 4);
+  }
+
+  if (photos.length === 0) {
+    galleryLabelEl.textContent = "";
+    return;
+  }
+
+  galleryLabelEl.textContent = "Tus momentos más importantes";
+  photos.forEach((src) => {
+    const img = document.createElement("img");
+    img.src = src;
+    img.alt = "Momento destacado";
+    galleryEl.appendChild(img);
+  });
+}
+
 function handleCloseCycle() {
   const points = computeCategoryPoints(state.moments);
   const dominant = computeDominant(points);
@@ -727,6 +825,8 @@ function handleCloseCycle() {
 
   document.getElementById("wrapped-name").textContent = state.avatarName;
   document.getElementById("wrapped-total").textContent = total;
+  document.getElementById("wrapped-points").textContent = computeTotalPoints(points);
+  renderWrappedGallery(dominant && !dominant.tie ? [dominant.ids[0]] : dominant ? dominant.ids : null);
 
   const breakdownEl = document.getElementById("wrapped-breakdown");
   breakdownEl.innerHTML = "";
