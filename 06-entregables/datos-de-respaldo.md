@@ -4,15 +4,15 @@ Formato: **"El X% hace esto, porque Y"** — cada frase es autoexplicativa, list
 
 ---
 
-## Resumen — una frase por pilar (objetivo, insight, reto)
+## Resumen — una frase por pilar, para decir en voz alta (objetivo, insight, reto)
 
-**Objetivo — El 75% de los universitarios ya se considera alguien que captura y guarda momentos con fotos, porque es un hábito que ya tienen instalado en su día a día.** *(encuesta propia, n=65)*
+**Objetivo — "El universitario colombiano no necesita que le enseñen a capturar su vida: el 75% ya lo hace todos los días. Lo que necesita es un celular en el que pueda confiar para hacerlo."** *(encuesta propia, n=65)*
 > Respaldo secundario: la Generación Z guarda en promedio hasta 20.000 fotos en su celular (47% lo hace así) y toma 2.5 veces más selfies por semana que los millennials — el celular ya es su archivo de vida.
 
-**Insight — El 42% de los universitarios que conocen OPPO duda de que su cámara capture lo que le importa —sube a 48% entre quienes salen más de fiesta—, porque temen que la foto no sea fiel a lo que vivieron.** *(encuesta propia, n=65/48)*
+**Insight — "4 de cada 10 universitarios que conocen OPPO no le confiarían su momento más importante. Y entre los que más viven para salir, esa desconfianza sube a casi 1 de cada 2."** *(encuesta propia, n=65/48)*
 > Respaldo secundario: 41% de la Generación Z ya piensa en qué pasará con sus fotos después de morir, contra solo 9% de mayores de 55 años — el apego a que esas fotos sean fieles y se conserven bien es real, no un capricho.
 
-**Reto — El 46% de los universitarios prefiere planes sociales (fiestas, salidas) sobre cualquier otra actividad, por eso el reto gira alrededor de lo social en vez de repartirse igual entre categorías.** *(encuesta propia, n=65)*
+**Reto — "Casi la mitad de los universitarios no quiere ser mejor fotógrafo: quiere estar en la fiesta. El reto no puede vivir en el salón de clase — tiene que vivir donde el 46% ya está."** *(encuesta propia, n=65)*
 > Respaldo secundario: 52% de la Generación Z dice que quiere más tiempo social presencial — más que viajes, entretenimiento o rutinas de ejercicio.
 
 ---
