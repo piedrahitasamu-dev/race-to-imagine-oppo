@@ -34,14 +34,16 @@ Por qué cambió respecto a la primera versión: F10 trajo tres puntos que hay q
 
 ## Organización del equipo (DP6)
 
-Usando los frentes ya propuestos en `../01-contexto/equipo.md` y `../PLAN-24H.md`, con el objetivo de arriba como filtro de qué hace cada quien:
+**Reparto real actualizado, 2026-08-27 noche** (decisión D5, `../05-decisiones/bitacora-decisiones.md`) — reemplaza la propuesta original de `../PLAN-24H.md`:
 
-| Frente | Quién | Qué hace ya mismo | Entrega |
+| Frente | Quién | Qué hace ahora | Entrega |
 |---|---|---|---|
-| **Investigación** | María Paula + Ana Sofía | Lanzar la encuesta (falta decidir el pesaje de la muestra, ver DP5/S8 — no debería bloquear el lanzamiento, se puede segmentar en el análisis después). Preparar las 6–8 entrevistas de intercepción | Encuesta viva, guion de entrevista listo |
-| **Concepto** | Mariana Mosquera + Ana Dusán | Adaptar las categorías (Social, Deporte, Creatividad, Creación/Innovación) a actividades realizables esta noche; hacer a mano el "análisis de fotos" durante el piloto (clasificar cada entrega y ajustar el avatar); armar la evidencia de cada tarjeta Wrapped al cierre | Categorías adaptadas, tablero de avatar corriendo en vivo, tarjetas Wrapped listas |
-| **Prototipo + piloto** | Samuel | Montar la versión mínima del reto para correr esta noche (categorías simples, forma de recolectar las fotos, cómo se anuncia al grupo), **incluir la estación Reno** para al menos una categoría, y reclutar el grupo piloto — ojalá con alguien fuera de la universidad del equipo | Piloto corriendo con gente real, fotos/resultados documentados, evidencia de gente probando el Reno |
-| **Narrativa y pitch** | Mariana (María Gómez) | Empezar el esqueleto del deck ya, con lo que hay: I1, I11 (cita textual de OPPO sobre "estilo de vida"), "Make Your Moment" como eje, la comparación de competidores (`investigacion-secundaria.md`) — no esperar a que cierre el piloto para arrancar | Estructura del deck, primer borrador del guion |
+| **Investigación** | María Paula (sola) | Entrevistas de intercepción pendientes, intentar cerrar S4 (cruce por universidad), elegir las 3 cifras definitivas del pitch | Cifras del pitch, insight reforzado |
+| **Análisis estratégico** | Mariana Gómez (DOFA) + Ana (5 fuerzas de Porter) | Insumos de viabilidad/riesgo y de diferenciación competitiva — deben terminar citados en `../06-entregables/guion-pitch.md`, no como documentos sueltos | Insumo para ítems 2 y 6 |
+| **Diseño visual del prototipo** | Mariana Mosquera + Ana Dusán | Rediseñar `../07-prototipo/` sobre el esqueleto funcional (sin tocar `app.js`) | Ítem 8 con diseño |
+| **Prototipo + piloto** | Samuel (solo) | Confirmar Reno físico para la estación, reclutar el grupo, correr el piloto **con el esqueleto tal cual está** (no esperar el diseño visual), consentimiento de imagen, documentar todo | Piloto corriendo con gente real |
+
+**Riesgo abierto:** con este reparto, nadie tiene como entrega principal ensamblar el deck final ni liderar el ensayo (ítems 6, 7, 9) — hay que asignar un dueño antes de la hora 10:00–14:00 de `../PLAN-24H.md`.
 
 Nadie queda sin dueño del prototipo — ese es el punto que `equipo.md` marcaba como el riesgo real.
 

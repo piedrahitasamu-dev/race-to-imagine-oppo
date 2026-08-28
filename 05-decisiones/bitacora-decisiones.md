@@ -68,6 +68,17 @@ Cada decisión que cambie el rumbo. Sirve para que nadie reabra lo ya cerrado, y
 
 ---
 
+### D5 — Reorganizar el reparto: DOFA, Porter y diseño visual del prototipo
+
+- **Fecha:** 2026-08-27
+- **Decidimos:** Mariana Gómez pasa de narrativa/pitch a construir un DOFA de OPPO frente al reto; Ana toma las 5 fuerzas de Porter; Mariana Mosquera y Ana Dusán se enfocan en el diseño visual del prototipo (`../07-prototipo/`) sobre el esqueleto funcional ya construido. María Paula queda sola en investigación; Samuel sigue solo en prototipo y piloto.
+- **Por qué esta:** aprovecha las fortalezas del equipo en análisis de negocio (economía/finanzas/mercadeo, ver `../01-contexto/equipo.md`) y separa el trabajo de diseño visual del trabajo de lógica del prototipo, que ya está resuelto.
+- **Riesgo que deja abierto:** ningún miembro tiene hoy como entrega principal ensamblar el deck final ni liderar el ensayo del pitch (ítems 6, 7 y 9 de `../06-entregables/README.md`) — DOFA y Porter son insumos, no el entregable en sí, y alguien tiene que integrarlos.
+- **Qué la revertiría:** que a la hora 14:00-16:00 (chequeo contra la rúbrica, `../PLAN-24H.md`) el deck no esté armado porque nadie lo asumió a tiempo.
+- **Quién estuvo:** —
+
+---
+
 ## Tensión nueva sin resolver — perfil socioeconómico de la muestra
 
 F9 (Q&A con OPPO) introdujo algo que ningún documento oficial anterior decía: el alcance es nacional, pero el Reno **"es para estratos altos… muy Andes, Sabana"** — el mismo perfil del que el equipo se quería alejar al diseñar la encuesta (I5, D2). No se resuelve solo: hay que decidir en equipo cómo pesar la muestra.

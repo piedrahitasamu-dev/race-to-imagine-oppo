@@ -49,16 +49,20 @@ Solo esto, según el deck (F6, p. 39):
 
 Amarrar cada pieza de la campaña a uno de estos cuatro recursos es la forma más directa de ganar el 20% de viabilidad.
 
-## Reparto de los 6
+## Reparto de los 6 (actualizado, 2026-08-27 noche)
 
-| Frente | Quién | Entrega |
-|---|---|---|
-| Investigación | María Paula + Ana Sofía | Ítem 1 — encuesta, entrevistas, las cifras del pitch |
-| Concepto | Mariana Mosquera + Ana Dusán | Ítems 2, 3, 4, 5 |
-| **Prototipo y piloto** | Samuel | Ítem 8 — que la mecánica corra de verdad |
-| Narrativa y pitch | Mariana (María Gómez) | Ítems 6, 7, 9 |
+| Frente | Quién | Qué está haciendo ahora | Entrega |
+|---|---|---|---|
+| Investigación | María Paula | Entrevistas de intercepción pendientes, intentar cerrar S4 (cruce por universidad), elegir las 3 cifras definitivas del pitch | Ítem 1 |
+| Análisis estratégico — DOFA | Mariana (María Gómez) | DOFA de OPPO frente al reto — no es un entregable propio, hay que citarlo dentro de la ruta de implementación / viabilidad (ítem 6) | Insumo para ítems 6, 9 |
+| Análisis estratégico — 5 fuerzas de Porter | Ana | Competencia y poder de negociación — insumo para diferenciación (ítem 2) y relevancia, cruzar con `../02-problema/investigacion-secundaria.md` | Insumo para ítems 2, 6 |
+| Diseño visual del prototipo | Mariana Mosquera + Ana Dusán | Rediseñar `../07-prototipo/` sobre el esqueleto funcional ya construido (sin tocar la lógica en `app.js`) | Ítem 8 |
+| **Prototipo y piloto** | Samuel | Confirmar disponibilidad de un Reno físico, reclutar el grupo del piloto, correr el piloto con el esqueleto funcional (no hay que esperar el diseño visual), consentimiento de imagen, documentar todo | Ítem 8 |
+| Narrativa y pitch | — sin dueño único ahora mismo | Ensamblar DOFA + Porter + resultados del piloto dentro de `guion-pitch.md` | Ítems 6, 7, 9 |
 
-Detalle y cronograma en `../PLAN-24H.md`. Perfiles del equipo en `../01-contexto/equipo.md`.
+Detalle y cronograma original en `../PLAN-24H.md`. Perfiles del equipo en `../01-contexto/equipo.md`.
+
+**Riesgo nuevo a vigilar:** con Mariana Gómez en el DOFA, el ítem de Narrativa y pitch (6, 7, 9) se quedó sin dueño claro — alguien tiene que asumir ensamblar todo en el deck y liderar el ensayo, o se repite el error de "dejar el pitch para el final" que ya advertía `PLAN-24H.md`.
 
 Lo único que no puede quedar sin dueño es el **prototipo**: son 10 puntos fijos y es el entregable que nadie tenía en el radar.
 
