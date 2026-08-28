@@ -1,64 +1,59 @@
 # Mecánica del reto: "Tu Reno Wrapped"
 
-Esto es el cierre de B4: no solo qué categorías tiene el reto, sino **cómo se puntúa** y **qué recibe cada participante al final**. Aporte del equipo: premiar coherencia de identidad en vez de la mejor foto suelta, y cerrar con un momento tipo Wrapped que asocie a cada quien con un ídolo/referente.
+Esto es el cierre de B4: no solo qué categorías tiene el reto, sino **cómo se puntúa** y **qué recibe cada participante al final**. Aporte del equipo: un avatar que sube de nivel según el tipo de momentos que cada quien fotografía, y que cierra con una tarjeta tipo Wrapped que asocia a cada quien con un ídolo/referente.
 
-## Por qué coherencia y no "la mejor foto"
+> Revisión: la primera versión de este documento proponía que una persona del equipo juzgara a mano qué tan "coherente" era cada participante. La idea del avatar la reemplaza por algo mejor: la coherencia deja de ser una opinión y pasa a ser un número que se calcula solo.
 
-Si el reto premia la foto más linda o más viral, vuelve a caer en lo que I4 ya advirtió: gana quien ya sabe de fotografía, y el resto mira. Premiar **coherencia** —qué tan reconocible es la forma de mirar de una persona a lo largo de varias entregas— es una habilidad que cualquiera tiene sin saber de encuadre ni de luz. Es también lo que la investigación de esta sesión señala que mueve más a la Gen Z: no participar por participar, sino que el resultado diga algo de quién es esa persona.
+## Por qué un avatar y no "la mejor foto"
+
+Si el reto premia la foto más linda o más viral, vuelve a caer en lo que I4 ya advirtió: gana quien ya sabe de fotografía, y el resto mira. Un avatar que sube de nivel por **hacer cosas**, no por tomarlas bien, es una mecánica que cualquiera puede jugar sin saber de encuadre ni de luz. Y da algo que la coherencia juzgada a mano no daba: **retroalimentación inmediata** — cada foto que subes hace algo que ves al momento, no hasta el final del reto. Es el mismo principio de research que ya usamos con Spotify Wrapped y Duolingo: gamificación con identidad, no solo puntos sueltos.
 
 ## Cómo funciona
 
-**1. Elegir un hilo, no una técnica.** Al empezar, cada participante elige uno de 4–6 hilos de partida — no son categorías de foto, son formas de ver el mundo:
+**1. Categorías del reto = dominios del avatar.** Cada categoría del reto no es solo "una foto más" — alimenta una estadística específica del avatar:
 
-| Hilo | De qué se trata |
-|---|---|
-| Nostalgia | Momentos que ya sabe que va a extrañar |
-| Caos | Lo espontáneo, lo que no se planea |
-| Comunidad | Nunca está solo en la foto |
-| Movimiento | Todo lo que pasa yendo de un lado a otro |
-| Detalle | Lo pequeño que nadie más nota |
+| Dominio | Se activa con | Ejemplo de categoría del reto |
+|---|---|---|
+| Atleta | Actividad física, deporte, movimiento del cuerpo | Terminar una carrera, una sesión de gym, un partido |
+| Comunidad | Estar con otros, nunca solo en la foto | El parche, una fiesta, una comida grupal |
+| Explorador | Algo nuevo, un lugar distinto, moverse de un lado a otro | Un viaje, un lugar del campus nunca visitado, una ruta nueva |
+| Estética | Expresión personal, estilo, lo visual | Un outfit, un detalle, algo hecho con las manos |
 
-(Ajustables por Concepto — lo importante es que ninguno exija saber de fotografía, todos son sobre qué mira la persona, no cómo la toma.)
+(Ajustables por Concepto según lo que el grupo piloto realmente vaya a hacer esta noche — lo que no puede cambiar es que ningún dominio exija saber de fotografía. Se activan por lo que la persona *hace*, no por cómo lo fotografía.)
 
-**2. Sostener el hilo.** Durante el reto, cada quien sube 3–5 fotos. No se evalúa cada una por separado — se evalúa si, vistas juntas, cuentan la misma historia.
+**2. Subir una foto de una categoría suma puntos al dominio correspondiente.** El avatar empieza neutro — sin rasgos marcados — y cada entrega lo va definiendo. Si alguien corre una carrera y sube la foto de la meta, su avatar sube en Atleta. Si además va al parche esa noche, sube en Comunidad. Nadie está obligado a especializarse: el avatar simplemente refleja lo que la persona hizo de verdad.
 
-**3. Puntuar coherencia (versión piloto, esta noche).** Sin tiempo para un clasificador real, la evalúa una persona del equipo (Concepto) con una rúbrica simple:
+**3. Coherencia deja de ser una opinión — se calcula.** En vez de que alguien del equipo juzgue "qué tan coherente" es una persona, la coherencia es un número: qué tan concentrados están los puntos de alguien en uno o dos dominios frente al total. Alguien con la mayoría de sus puntos en Atleta es un avatar "de identidad marcada"; alguien con puntos parejos entre los cuatro dominios es un avatar "explorando" — ninguno de los dos es mejor, pero el sistema puede nombrarlo sin que nadie tenga que decidirlo a mano. Esto es exactamente lo que se necesitaba para que fuera piloteable esta noche: un conteo simple, no un juicio de valor.
 
-| Puntaje | Qué significa |
-|---|---|
-| 1–2 | Las fotos no tienen relación reconocible entre sí |
-| 3 | Se nota un patrón, pero es débil o inconsistente |
-| 4 | El hilo es claro con solo ver las fotos, sin leer la etiqueta |
-| 5 | El hilo es tan claro que se podría adivinar antes de que la persona lo diga |
+**4. La estación Reno da puntos dobles.** Cualquier foto tomada en la estación Reno (usando Pop Camera o Pop Out) suma el doble al dominio que corresponda — así la relevancia del producto (15% de la nota) queda dentro del juego mismo, y no depende solo del nombre en la campaña.
 
-Tiene que tomar minutos por participante — si toma más, no es piloteable con el grupo de esta noche.
-
-**4. La estación Reno cuenta para el hilo.** Al menos una de las 3–5 fotos se toma en la estación Reno, usando Pop Camera o Pop Out — así la relevancia del producto (15% de la nota) no depende solo del nombre en la campaña, y el hilo personal incluye una foto hecha con la herramienta real.
+**Para esta noche (12–20 personas), sin app real:** un tablero visible (papel o una hoja compartida) con el nombre de cada participante y una barra por dominio que se rellena a mano cada vez que alguien entrega una foto. Es lento de escribir pero instantáneo de mostrar — y es exactamente la parte del prototipo que se ve y se fotografía para el pitch.
 
 ## El Wrapped de cierre
 
-Al terminar, cada participante recibe una tarjeta vertical (formato historia, pensada para compartir) con tres partes:
+Al terminar el piloto, cada participante recibe una tarjeta vertical (formato historia, pensada para compartir) con tres partes:
 
-1. **La evidencia**, en las palabras de sus propias fotos: *"En tus 4 fotos, siempre aparece tu grupo de amigos y nunca falta uno."*
-2. **El nombre del arquetipo**, construido con los activos que OPPO ya pagó y no está usando con este público (I1):
+1. **La evidencia**, en números de su propio avatar: *"Terminaste el reto con el doble de puntos en Atleta que en cualquier otro dominio."*
+2. **El nombre del arquetipo**, asignado según el dominio dominante, construido con los activos que OPPO ya pagó y no está usando con este público (I1):
 
-| Arquetipo | Se conecta con | Encaja con el hilo |
+| Dominio dominante | Arquetipo | Se conecta con |
 |---|---|---|
-| Constancia y origen | Luis Díaz | Comunidad, nostalgia |
-| Expresión y estética | BabyMonster / K-pop | Detalle, caos |
-| Equipo y adrenalina | UEFA / fútbol | Movimiento, comunidad |
+| Atleta | Equipo y adrenalina | UEFA / fútbol |
+| Comunidad | Constancia y origen | Luis Díaz |
+| Estética | Expresión y disrupción | BabyMonster / K-pop |
+| Explorador | Sin arquetipo fijo — se nombra libremente según lo que muestren sus fotos | — |
 
-3. **La marca, al final, no al principio** — el Reno aparece como la herramienta que hizo posible capturarlo, no como el motivo de la publicación.
+3. **La marca, al final, no al principio** — el Reno aparece como la herramienta que hizo posible subir de nivel, no como el motivo de la publicación.
 
-**Regla no negociable:** el arquetipo se nombra *después* de mostrar la evidencia de las fotos, nunca antes. Si a alguien le toca un arquetipo que no le calza, se ajustan las categorías, no se fuerza a la persona — la Gen Z detecta lo fabricado casi al instante (ver `investigacion-secundaria.md`), y una asociación forzada rompe la mecánica entera.
+**Regla no negociable:** el arquetipo se nombra *después* de mostrar la evidencia numérica, nunca antes. Si a alguien le toca un arquetipo que no le calza, se ajustan los dominios, no se fuerza a la persona — la Gen Z detecta lo fabricado casi al instante (ver `investigacion-secundaria.md`), y una asociación forzada rompe la mecánica entera.
 
 ## Cómo escala (más allá de esta noche)
 
-Hoy la coherencia y el arquetipo los asigna una persona a mano, con la rúbrica de arriba — es el prototipo manual de algo automatizable. El Reno ya tiene IA nativa capaz de tareas de clasificación (traducir, resumir, describir una imagen — confirmado por OPPO en F9). El roadmap de implementación puede decir, honestamente: *"hoy lo hace el equipo, mañana lo hace el modelo on-device del propio teléfono"* — es una historia de producto, no solo de campaña, y responde directo al 20% de viabilidad e impacto.
+Hoy el tablero de puntos se lleva a mano — es el prototipo manual de algo trivial de automatizar: sumar puntos por categoría no necesita inteligencia artificial, solo que la app sepa a qué categoría corresponde cada entrega. Donde sí entra la IA nativa del Reno (F9: ya traduce, resume, describe imágenes) es en hacer más rico el Wrapped final — por ejemplo, generando la frase de evidencia a partir de las fotos reales en vez de un texto genérico. El roadmap puede decir, honestamente: *"hoy el conteo es manual y la tarjeta la arma el equipo; mañana el conteo lo hace la app sola, y el modelo on-device del teléfono arma la tarjeta"* — es una historia de producto que escala con el uso, no solo de campaña, y responde directo al 20% de viabilidad e impacto.
 
 ## Contra los filtros de `criterios-evaluacion.md`
 
-- **¿Prototipo funcional?** Sí — la mecánica completa corre esta noche a escala pequeña.
-- **¿Nace de insight con dato?** Sí — I1 (identidad) y la investigación de hoy (identidad > participación vacía, autenticidad > producción).
-- **¿Participarían ustedes?** Recibir una tarjeta de identidad basada en las propias fotos es precisamente el tipo de cosa que la gente comparte por gusto (precedente: Spotify Wrapped).
-- **¿Se cae sin el Reno?** No — la estación Reno está dentro del hilo personal de cada quien, no es un anexo.
+- **¿Prototipo funcional?** Sí — el tablero de avatar corre esta noche a escala pequeña y es visible/fotografiable para el pitch.
+- **¿Nace de insight con dato?** Sí — I1 (identidad) y la investigación de hoy (identidad > participación vacía, gamificación con retroalimentación inmediata).
+- **¿Participarían ustedes?** Ver el propio avatar subir de nivel en tiempo real, con una tarjeta de identidad al final, es precisamente el tipo de cosa que la gente juega y comparte por gusto (precedente: Duolingo, Spotify Wrapped).
+- **¿Se cae sin el Reno?** No — la estación Reno da puntos dobles dentro del juego mismo, no es un anexo.
