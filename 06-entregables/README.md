@@ -53,12 +53,12 @@ Amarrar cada pieza de la campaña a uno de estos cuatro recursos es la forma má
 
 | Frente | Quién | Qué está haciendo ahora | Entrega |
 |---|---|---|---|
-| Investigación | María Paula | Entrevistas de intercepción pendientes, intentar cerrar S4 (cruce por universidad), elegir las 3 cifras definitivas del pitch | Ítem 1 |
+| Investigación — benchmarking | María Paula | Comparar "Tu Reno Wrapped" contra referentes ya validados (Spotify Wrapped, Duolingo, BeReal, descuentos Samsung/Xiaomi) — formalizar en tabla lo que ya está germinado en `../02-problema/investigacion-secundaria.md`, para reforzar diferenciación (ítem 2) y viabilidad (ítem 6) | Insumo para ítems 2, 6 |
 | Análisis estratégico — DOFA | Mariana (María Gómez) | DOFA de OPPO frente al reto — no es un entregable propio, hay que citarlo dentro de la ruta de implementación / viabilidad (ítem 6) | Insumo para ítems 6, 9 |
 | Análisis estratégico — 5 fuerzas de Porter | Ana | Competencia y poder de negociación — insumo para diferenciación (ítem 2) y relevancia, cruzar con `../02-problema/investigacion-secundaria.md` | Insumo para ítems 2, 6 |
 | Diseño visual del prototipo | Mariana Mosquera + Ana Dusán | Rediseñar `../07-prototipo/` sobre el esqueleto funcional ya construido (sin tocar la lógica en `app.js`) | Ítem 8 |
-| **Prototipo y piloto** | Samuel | Confirmar disponibilidad de un Reno físico, reclutar el grupo del piloto, correr el piloto con el esqueleto funcional (no hay que esperar el diseño visual), consentimiento de imagen, documentar todo | Ítem 8 |
-| Narrativa y pitch | — sin dueño único ahora mismo | Ensamblar DOFA + Porter + resultados del piloto dentro de `guion-pitch.md` | Ítems 6, 7, 9 |
+| **Investigación restante + prototipo/demo** | Samuel (absorbe ambos frentes) | De investigación: la entrevista individual de validación (ojalá alguien fuera de la burbuja del equipo, para un testimonio sobre S4), elegir las 3 cifras definitivas del pitch. De prototipo: preparar `../07-prototipo/` con momentos de ejemplo y ensayar el flujo de la demo en vivo — sin grupo piloto ni Reno físico (D6) | Ítems 1 y 8 |
+| Narrativa y pitch | — sin dueño único ahora mismo | Ensamblar DOFA + Porter + benchmarking + la demo dentro de `guion-pitch.md` | Ítems 6, 7, 9 |
 
 Detalle y cronograma original en `../PLAN-24H.md`. Perfiles del equipo en `../01-contexto/equipo.md`.
 

@@ -36,14 +36,14 @@ Por qué cambió respecto a la primera versión: F10 trajo tres puntos que hay q
 
 ## Organización del equipo (DP6)
 
-**Reparto real actualizado, 2026-08-27 noche** (decisión D5, `../05-decisiones/bitacora-decisiones.md`) — reemplaza la propuesta original de `../PLAN-24H.md`:
+**Reparto real actualizado, 2026-08-27 noche** (decisiones D5 y D7, `../05-decisiones/bitacora-decisiones.md`) — reemplaza la propuesta original de `../PLAN-24H.md`:
 
 | Frente | Quién | Qué hace ahora | Entrega |
 |---|---|---|---|
-| **Investigación** | María Paula (sola) | Entrevistas de intercepción pendientes, intentar cerrar S4 (cruce por universidad), elegir las 3 cifras definitivas del pitch | Cifras del pitch, insight reforzado |
+| **Investigación — benchmarking** | María Paula | Comparar "Tu Reno Wrapped" contra referentes ya validados (Spotify Wrapped, Duolingo, BeReal, descuentos Samsung/Xiaomi) — formaliza lo que ya está germinado en `investigacion-secundaria.md` | Insumo para diferenciación y viabilidad |
 | **Análisis estratégico** | Mariana Gómez (DOFA) + Ana (5 fuerzas de Porter) | Insumos de viabilidad/riesgo y de diferenciación competitiva — deben terminar citados en `../06-entregables/guion-pitch.md`, no como documentos sueltos | Insumo para ítems 2 y 6 |
 | **Diseño visual del prototipo** | Mariana Mosquera + Ana Dusán | Rediseñar `../07-prototipo/` sobre el esqueleto funcional (sin tocar `app.js`) | Ítem 8 con diseño |
-| **Prototipo + demo** | Samuel (solo) | Sin grupo piloto ni Reno físico (restricción de tiempo, D6): preparar el prototipo (`../07-prototipo/`) con momentos de ejemplo para que la demo en vivo del pitch se vea poblada y fluida; ensayar el flujo de la demo | Demo del prototipo lista para el pitch |
+| **Investigación restante + prototipo/demo** | Samuel (absorbe ambos) | La entrevista individual de validación (ojalá alguien fuera de la burbuja, testimonio sobre S4), elegir las 3 cifras definitivas del pitch, y preparar `../07-prototipo/` con momentos de ejemplo para la demo en vivo — sin grupo piloto ni Reno físico (D6) | Cifras del pitch + demo lista |
 
 **Riesgo abierto:** con este reparto, nadie tiene como entrega principal ensamblar el deck final ni liderar el ensayo (ítems 6, 7, 9) — hay que asignar un dueño antes de la hora 10:00–14:00 de `../PLAN-24H.md`.
 

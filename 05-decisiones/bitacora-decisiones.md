@@ -91,6 +91,17 @@ Cada decisión que cambie el rumbo. Sirve para que nadie reabra lo ya cerrado, y
 
 ---
 
+### D7 — María Paula pasa a benchmarking; Samuel absorbe el resto de investigación
+
+- **Fecha:** 2026-08-27
+- **Decidimos:** María Paula se dedica solo a benchmarking (comparar "Tu Reno Wrapped" contra Spotify Wrapped, Duolingo, BeReal y los descuentos de Samsung/Xiaomi). Las tareas de investigación que quedaban pendientes tras D6 (la entrevista individual, elegir las 3 cifras del pitch) y las de prototipo/demo pasan todas a Samuel.
+- **Por qué esta:** consolida el trabajo de investigación restante en una sola persona para no duplicar esfuerzo mientras María Paula profundiza el benchmarking, que alimenta directamente diferenciación y viabilidad.
+- **Riesgo que deja abierto:** Samuel queda con dos frentes completos (investigación restante + demo del prototipo) — vigilar que no se quede sin tiempo para ensayar la demo en vivo por estar resolviendo la entrevista.
+- **Qué la revertiría:** que Samuel no alcance a cubrir ambos frentes antes de la hora de armar el deck (`../PLAN-24H.md`, 10:00–14:00).
+- **Quién estuvo:** —
+
+---
+
 ## Tensión nueva sin resolver — perfil socioeconómico de la muestra
 
 F9 (Q&A con OPPO) introdujo algo que ningún documento oficial anterior decía: el alcance es nacional, pero el Reno **"es para estratos altos… muy Andes, Sabana"** — el mismo perfil del que el equipo se quería alejar al diseñar la encuesta (I5, D2). No se resuelve solo: hay que decidir en equipo cómo pesar la muestra.
