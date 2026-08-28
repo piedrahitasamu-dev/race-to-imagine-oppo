@@ -10,9 +10,16 @@ Fuentes: F1–F4 notas y charla · F5 brief oficial · F6 deck de OPPO · F7 rú
 
 ## El insight principal (para abrir el pitch)
 
-> **El universitario colombiano no fotografía para mostrarle algo a otros — fotografía para no perderse a sí mismo. Y cuando esa persona sí conoce a OPPO, 4 de cada 10 no le cree la cámara para ese momento tan personal.**
+> **El universitario colombiano toma fotos para no perderse a sí mismo, no para mostrárselas a los demás — pero a la hora de confiarle ese momento tan suyo a un celular, casi la mitad de los que conocen a OPPO no le creen la cámara. El dolor no es la falta de momentos que capturar: es no tener, todavía, un celular en el que confíen lo suficiente como para que sea el que cuente su historia.**
 
-La evidencia, en el mismo formato que pide OPPO ("9 de cada 10 juegan videojuegos → territorio gaming", F3):
+Desglosado en el formato clásico de insight (target + verdad + tensión + dolor):
+
+- **El universitario colombiano** — el target.
+- **toma fotos para no perderse a sí mismo, no para mostrárselas a los demás** — la verdad, con dato: 82% guarda recuerdos, solo 2% comparte y conecta (I13).
+- **pero casi la mitad de los que conocen a OPPO no le creen la cámara** — la tensión: 42% de quienes conocen la marca dudan de que capture lo que a ellos les importa (I2).
+- **El dolor no es la falta de momentos que capturar; es no tener un celular en el que confíen** — no es un problema de producto ni de creatividad. Es de confianza.
+
+La evidencia completa, en el mismo formato que pide OPPO ("9 de cada 10 juegan videojuegos → territorio gaming", F3):
 
 - **82% de los encuestados (n=65) fotografía para guardar el recuerdo, no para compartirlo** — solo 1 de 65 dijo que su motivación principal es compartir y conectar (I13, `resultados-encuesta.md`).
 - Cuando se les pregunta, en sus propias palabras, qué es "Make Your Moment", **responden con identidad, no con fotografía ni con producto**: *"ser yo"*, *"vivir tal cual soy"*, *"hacer el momento tuyo"*, *"capturar algo que te identifique"* (verbatims, `resultados-encuesta.md`).
