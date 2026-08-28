@@ -1,10 +1,10 @@
 const STORAGE_KEY = "tuRenoWrapped";
 
 const CATEGORIES = [
-  { id: "social", label: "Social", color: "var(--color-social)" },
-  { id: "deporte", label: "Deporte", color: "var(--color-deporte)" },
-  { id: "creatividad", label: "Creatividad", color: "var(--color-creatividad)" },
-  { id: "innovacion", label: "Creación / Innovación", color: "var(--color-innovacion)" },
+  { id: "social", label: "Social", color: "var(--color-social)", avatar: "avatares/social.png" },
+  { id: "deporte", label: "Deporte", color: "var(--color-deporte)", avatar: "avatares/deporte.png" },
+  { id: "creatividad", label: "Creatividad", color: "var(--color-creatividad)", avatar: "avatares/creatividad.png" },
+  { id: "innovacion", label: "Creación / Innovación", color: "var(--color-innovacion)", avatar: "avatares/innovacion.png" },
 ];
 
 const onboardingScreen = document.getElementById("onboarding");
@@ -96,9 +96,9 @@ function findLatestPhotoForCategories(categoryIds) {
   return matches[matches.length - 1].photoDataUrl;
 }
 
-function paintAvatarShape(el, color) {
+function paintAvatarShape(el, color, avatarImage) {
   el.style.backgroundColor = color;
-  el.style.backgroundImage = "none";
+  el.style.backgroundImage = avatarImage ? `url(${avatarImage})` : "none";
 }
 
 function paintBackgroundPhoto(el, photoDataUrl) {
@@ -126,7 +126,7 @@ function renderAvatar() {
     avatarDominantEl.textContent = "Avatar en construcción — vas parejo entre varias categorías";
   } else {
     const cat = categoryById(dominant.ids[0]);
-    paintAvatarShape(avatarShapeEl, cat.color);
+    paintAvatarShape(avatarShapeEl, cat.color, cat.avatar);
     paintBackgroundPhoto(phoneScreenEl, findLatestPhotoForCategories(dominant.ids));
     avatarDominantEl.textContent = `Tu avatar se está pareciendo más a: ${cat.label}`;
   }
@@ -292,7 +292,7 @@ function handleCloseCycle() {
     evidenceEl.textContent = pickEvidenceQuote(dominant.ids[0]);
   } else {
     const cat = categoryById(dominant.ids[0]);
-    paintAvatarShape(wrappedAvatarShape, cat.color);
+    paintAvatarShape(wrappedAvatarShape, cat.color, cat.avatar);
     paintBackgroundPhoto(wrappedCardEl, findLatestPhotoForCategories(dominant.ids));
     wrappedDominantEl.textContent = `Este período, tu momento fue: ${cat.label}`;
     evidenceEl.textContent = pickEvidenceQuote(cat.id);
