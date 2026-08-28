@@ -23,6 +23,7 @@ const avatarNameDisplayEl = document.getElementById("avatar-name-display");
 const avatarDominantEl = document.getElementById("avatar-dominant");
 const categoryBarsEl = document.getElementById("category-bars");
 const aodClockEl = document.getElementById("aod-clock");
+const phoneScreenEl = document.getElementById("phone-screen");
 
 const closeCycleBtn = document.getElementById("close-cycle-btn");
 const resetBtn = document.getElementById("reset-btn");
@@ -95,14 +96,16 @@ function findLatestPhotoForCategories(categoryIds) {
   return matches[matches.length - 1].photoDataUrl;
 }
 
-function paintAvatarShape(el, color, photoDataUrl) {
+function paintAvatarShape(el, color) {
   el.style.backgroundColor = color;
+  el.style.backgroundImage = "none";
+}
+
+function paintBackgroundPhoto(el, photoDataUrl) {
   if (photoDataUrl) {
-    el.style.backgroundImage = `url(${photoDataUrl})`;
-    el.style.backgroundSize = "cover";
-    el.style.backgroundPosition = "center";
+    el.style.backgroundImage = `linear-gradient(rgba(0,0,0,0.45), rgba(0,0,0,0.45)), url(${photoDataUrl})`;
   } else {
-    el.style.backgroundImage = "none";
+    el.style.backgroundImage = "";
   }
 }
 
@@ -114,14 +117,17 @@ function renderAvatar() {
   avatarNameDisplayEl.textContent = state.avatarName;
 
   if (!dominant) {
-    paintAvatarShape(avatarShapeEl, "var(--color-neutral)", null);
+    paintAvatarShape(avatarShapeEl, "var(--color-neutral)");
+    paintBackgroundPhoto(phoneScreenEl, null);
     avatarDominantEl.textContent = "Avatar neutro — todavía sin definir";
   } else if (dominant.tie) {
-    paintAvatarShape(avatarShapeEl, "var(--color-neutral)", findLatestPhotoForCategories(dominant.ids));
+    paintAvatarShape(avatarShapeEl, "var(--color-neutral)");
+    paintBackgroundPhoto(phoneScreenEl, findLatestPhotoForCategories(dominant.ids));
     avatarDominantEl.textContent = "Avatar en construcción — vas parejo entre varias categorías";
   } else {
     const cat = categoryById(dominant.ids[0]);
-    paintAvatarShape(avatarShapeEl, cat.color, findLatestPhotoForCategories(dominant.ids));
+    paintAvatarShape(avatarShapeEl, cat.color);
+    paintBackgroundPhoto(phoneScreenEl, findLatestPhotoForCategories(dominant.ids));
     avatarDominantEl.textContent = `Tu avatar se está pareciendo más a: ${cat.label}`;
   }
 
@@ -270,20 +276,24 @@ function handleCloseCycle() {
   });
 
   const wrappedAvatarShape = document.getElementById("wrapped-avatar-shape");
+  const wrappedCardEl = document.getElementById("wrapped-card");
   const wrappedDominantEl = document.getElementById("wrapped-dominant");
   const evidenceEl = document.getElementById("wrapped-evidence");
 
   if (!dominant) {
-    paintAvatarShape(wrappedAvatarShape, "var(--color-neutral)", null);
+    paintAvatarShape(wrappedAvatarShape, "var(--color-neutral)");
+    paintBackgroundPhoto(wrappedCardEl, null);
     wrappedDominantEl.textContent = "Todavía no hay suficientes momentos para definir tu avatar.";
     evidenceEl.textContent = "";
   } else if (dominant.tie) {
-    paintAvatarShape(wrappedAvatarShape, "var(--color-neutral)", findLatestPhotoForCategories(dominant.ids));
+    paintAvatarShape(wrappedAvatarShape, "var(--color-neutral)");
+    paintBackgroundPhoto(wrappedCardEl, findLatestPhotoForCategories(dominant.ids));
     wrappedDominantEl.textContent = "Tu Wrapped: un poco de cada cosa — no hay un solo lado tuyo.";
     evidenceEl.textContent = pickEvidenceQuote(dominant.ids[0]);
   } else {
     const cat = categoryById(dominant.ids[0]);
-    paintAvatarShape(wrappedAvatarShape, cat.color, findLatestPhotoForCategories(dominant.ids));
+    paintAvatarShape(wrappedAvatarShape, cat.color);
+    paintBackgroundPhoto(wrappedCardEl, findLatestPhotoForCategories(dominant.ids));
     wrappedDominantEl.textContent = `Este período, tu momento fue: ${cat.label}`;
     evidenceEl.textContent = pickEvidenceQuote(cat.id);
   }
